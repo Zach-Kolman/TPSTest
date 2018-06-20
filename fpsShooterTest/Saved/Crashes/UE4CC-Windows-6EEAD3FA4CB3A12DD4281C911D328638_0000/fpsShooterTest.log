@@ -1,0 +1,1412 @@
+﻿Log file open, 06/20/18 16:30:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: fpsShooterTest
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1815836128) SRandInit(1815836128).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.261472
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.20-21.30.23:170][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.20-21.30.23:171][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.20-21.30.23:180][  0]LogInit: Computer: CDM-TS210WS01
+[2018.06.20-21.30.23:180][  0]LogInit: User: zkolman
+[2018.06.20-21.30.23:180][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.06.20-21.30.23:180][  0]LogInit: High frequency timer resolution =3.117495 MHz
+[2018.06.20-21.30.23:181][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.06.20-21.30.23:181][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.20-21.30.23:181][  0]LogMemory: Process Physical Memory: 273.62 MB used, 273.62 MB peak
+[2018.06.20-21.30.23:181][  0]LogMemory: Process Virtual Memory: 270.42 MB used, 270.42 MB peak
+[2018.06.20-21.30.23:181][  0]LogMemory: Physical Memory: 7556.78 MB used,  8784.98 MB free, 16341.76 MB total
+[2018.06.20-21.30.23:181][  0]LogMemory: Virtual Memory: 650.68 MB used,  8784.98 MB free, 134217728.00 MB total
+[2018.06.20-21.30.23:401][  0]LogInit: Using OS detected language (en-US).
+[2018.06.20-21.30.23:401][  0]LogInit: Using OS detected locale (en-US).
+[2018.06.20-21.30.23:517][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.06.20-21.30.24:038][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.20-21.30.26:541][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.20-21.30.26:559][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 660' (Feature Level 11_0)
+[2018.06.20-21.30.26:560][  0]LogD3D11RHI:       1476/0/2560 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.06.20-21.30.26:561][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.20-21.30.26:561][  0]LogD3D11RHI:       0/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.20-21.30.26:561][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.20-21.30.26:568][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.20-21.30.26:568][  0]LogD3D11RHI:     GPU DeviceId: 0x1185 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.20-21.30.26:568][  0]LogWindows: EnumDisplayDevices:
+[2018.06.20-21.30.26:568][  0]LogWindows:    0. 'NVIDIA GeForce GTX 660' (P:1 D:1)
+[2018.06.20-21.30.26:569][  0]LogWindows:    1. 'NVIDIA GeForce GTX 660' (P:0 D:1)
+[2018.06.20-21.30.26:569][  0]LogWindows:    2. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2018.06.20-21.30.26:569][  0]LogWindows:    3. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2018.06.20-21.30.26:569][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.06.20-21.30.26:569][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 660
+[2018.06.20-21.30.26:569][  0]LogD3D11RHI:   Driver Version: 327.23 (internal:9.18.13.2723, unified:327.23)
+[2018.06.20-21.30.26:569][  0]LogD3D11RHI:      Driver Date: 9-12-2013
+[2018.06.20-21.30.26:569][  0]LogRHI: Texture pool is 1033 MB (70% of 1476 MB)
+[2018.06.20-21.30.26:578][  0]LogD3D11RHI: NvAPI_D3D_GetCurrentSLIState failed: 0xfffffff7
+[2018.06.20-21.30.26:578][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.20-21.30.26:594][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.06.20-21.30.34:707][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.20-21.30.34:709][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../Users/zkolman/Documents/Unreal Projects/fpsShooterTest/Intermediate/Shaders/WorkingDirectory/12368/).
+[2018.06.20-21.30.34:709][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/zkolman/AppData/Local/Temp/UnrealShaderWorkingDir/8EE25C2D45018952CD7D129B0D102D22/'.
+[2018.06.20-21.30.34:709][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.20-21.30.37:986][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.20-21.30.38:061][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.20-21.30.38:136][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.20-21.30.38:212][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.20-21.30.38:303][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.20-21.30.38:390][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.20-21.30.38:465][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.20-21.30.38:538][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.20-21.30.38:605][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.20-21.30.38:679][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.20-21.30.38:751][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.20-21.30.38:825][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.20-21.30.38:899][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.20-21.30.38:973][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.20-21.30.39:120][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.20-21.30.39:120][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.20-21.30.39:209][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.20-21.30.39:269][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.20-21.30.39:408][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.20-21.30.39:447][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.20-21.30.39:522][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.20-21.30.39:595][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.20-21.30.39:667][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.20-21.30.39:753][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.20-21.30.39:753][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.20-21.30.40:454][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.20-21.30.40:805][  0]LogDerivedDataCache: Loaded boot cache 0.35s 78MB C:/Users/zkolman/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.06.20-21.30.40:805][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/zkolman/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.06.20-21.30.40:805][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Users/zkolman/Documents/Unreal Projects/fpsShooterTest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.20-21.30.40:805][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.20-21.30.40:805][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Users/zkolman/Documents/Unreal Projects/fpsShooterTest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.20-21.30.40:805][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.20-21.30.40:825][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.20-21.30.40:837][  0]LogDerivedDataCache: Using Local data cache path C:/Users/zkolman/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.20-21.30.40:849][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.20-21.30.40:850][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.20-21.30.40:866][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.20-21.30.40:866][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.20-21.30.41:958][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.20-21.30.42:529][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.20-21.30.42:589][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.20-21.30.42:589][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.20-21.30.42:589][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.20-21.30.42:589][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.20-21.30.42:589][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.20-21.30.42:632][  0]LogNetVersion: fpsShooterTest , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3260148410)
+[2018.06.20-21.30.42:845][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2018.06.20-21.30.43:536][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.049598 seconds
+[2018.06.20-21.30.43:542][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.06.20-21.30.43:542][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.06.20-21.30.43:542][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.20-21.30.43:619][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.06.20-21.31.01:862][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.20-21.31.01:923][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.20-21.31.03:260][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.06.20-21.31.03:918][  0]SourceControl: Source control is disabled
+[2018.06.20-21.31.03:918][  0]SourceControl: Source control is disabled
+[2018.06.20-21.31.04:003][  0]SourceControl: Source control is disabled
+[2018.06.20-21.31.04:090][  0]SourceControl: Source control is disabled
+[2018.06.20-21.31.05:549][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.20-21.31.05:978][  0]LogOcInput: OculusInput pre-init called
+[2018.06.20-21.31.06:443][  0]LogEngine: Initializing Engine...
+[2018.06.20-21.31.06:445][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.20-21.31.06:692][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.20-21.31.06:692][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.20-21.31.06:976][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.20-21.31.06:984][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.20-21.31.06:998][  0]LogInit: FAudioDevice initialized.
+[2018.06.20-21.31.07:138][  0]LogDerivedDataCache: Saved boot cache 0.14s 78MB C:/Users/zkolman/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.06.20-21.31.07:159][  0]LogInit: Texture streaming: Enabled
+[2018.06.20-21.31.07:306][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.20-21.31.07:519][  0]LogInit: Transaction tracking system initialized
+[2018.06.20-21.31.08:021][  0]BlueprintLog: New page: Editor Load
+[2018.06.20-21.31.09:460][  0]LocalizationService: Localization service is disabled
+[2018.06.20-21.31.11:047][  0]LogConsoleResponse: Display: 
+[2018.06.20-21.31.11:657][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.20-21.31.11:658][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.20-21.31.11:658][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.20-21.31.12:169][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zkolman/Documents/Unreal Projects/fpsShooterTest/Content/' took 0.01s
+[2018.06.20-21.31.13:662][  0]SourceControl: Source control is disabled
+[2018.06.20-21.31.13:662][  0]Cmd: MAP LOAD FILE="../../../../Users/zkolman/Documents/Unreal Projects/fpsShooterTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.20-21.31.13:662][  0]LightingResults: New page: Lighting Build
+[2018.06.20-21.31.13:728][  0]MapCheck: New page: Map Check
+[2018.06.20-21.31.13:728][  0]LightingResults: New page: Lighting Build
+[2018.06.20-21.31.14:280][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.20-21.31.14:293][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.20-21.31.14:310][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.20-21.31.14:376][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.512ms to complete.
+[2018.06.20-21.31.14:376][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.714
+[2018.06.20-21.31.14:435][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.20-21.31.14:599][  0]LogCollectionManager: Loaded 0 collections in 0.002946 seconds
+[2018.06.20-21.31.14:700][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zkolman/Documents/Unreal Projects/fpsShooterTest/Saved/Collections/' took 0.01s
+[2018.06.20-21.31.14:700][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zkolman/Documents/Unreal Projects/fpsShooterTest/Content/Developers/zkolman/Collections/' took 0.01s
+[2018.06.20-21.31.14:700][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zkolman/Documents/Unreal Projects/fpsShooterTest/Content/Collections/' took 0.01s
+[2018.06.20-21.31.14:700][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.06.20-21.31.14:710][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2363 classes and 519 folders.
+[2018.06.20-21.31.14:808][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.06.20-21.31.15:503][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.06.20-21.31.15:566][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.06.20-21.31.15:673][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.06.20-21.31.15:673][  0]LogLoad: (Engine Initialization) Total time: 57.14 seconds
+[2018.06.20-21.31.15:673][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.20-21.31.15:673][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.06.20-21.31.15:701][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.06.20-21.31.15:702][  0]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.20-21.31.15:713][  0]LogSlate: Took 0.008294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.20-21.31.15:736][  0]LogSlate: Took 0.017513 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.20-21.31.15:857][  0]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.20-21.31.15:887][  1]LogAssetRegistry: Asset discovery search completed in 33.0636 seconds
+[2018.06.20-21.31.15:889][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.06.20-21.31.15:889][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000064 seconds (updated 0 objects)
+[2018.06.20-21.31.15:917][  2]LogRenderer: Reallocating scene render targets to support 804x360 Format 9 NumSamples 1 (Frame:1).
+[2018.06.20-21.31.17:652][118]LogRenderer: Reallocating scene render targets to support 1208x576 Format 9 NumSamples 1 (Frame:112).
+[2018.06.20-21.31.38:283][700]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.20-21.31.38:693][700]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.06.20-21.31.39:601][700]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.20-21.31.39:678][700]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.20-21.31.39:847][701]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.20-21.31.54:965][238]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\zkolman\Downloads\Pistol Walk.fbx)
+[2018.06.20-21.31.55:143][238]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.06.20-21.31.55:143][238]LogFbx: ItemName: NodeAttribute, ItemCount : 65
+[2018.06.20-21.31.55:143][238]LogFbx: ItemName: Model, ItemCount : 67
+[2018.06.20-21.31.55:143][238]LogFbx: ItemName: Geometry, ItemCount : 2
+[2018.06.20-21.31.55:143][238]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.06.20-21.31.55:143][238]LogFbx: ItemName: Deformer, ItemCount : 54
+[2018.06.20-21.31.55:143][238]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.06.20-21.31.55:143][238]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.06.20-21.31.55:143][238]LogFbx: ItemName: AnimationCurveNode, ItemCount : 54
+[2018.06.20-21.31.55:143][238]LogFbx: ItemName: AnimationCurve, ItemCount : 315
+[2018.06.20-21.31.55:155][238]LogFbx: Loading FBX Scene from C:\Users\zkolman\Downloads\Pistol Walk.fbx
+[2018.06.20-21.31.55:195][238]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.20-21.32.01:132][238]LogFbx: Loading FBX Scene from C:\Users\zkolman\Downloads\Pistol Walk.fbx
+[2018.06.20-21.32.01:166][238]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.20-21.32.01:174][238]LogFbx: =================================================
+[2018.06.20-21.32.01:174][238]LogFbx: Dumping Node START [skinCluster1Set] 
+[2018.06.20-21.32.01:174][238]LogFbx: 	Total Deformer Count 1722842656.
+[2018.06.20-21.32.01:174][238]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.32.01:174][238]LogFbx: =================================================
+[2018.06.20-21.32.01:174][238]LogFbx: 	Attribute (skinCluster1Setmesh) Type (4).
+[2018.06.20-21.32.01:174][238]LogFbx: 		[Node Attribute Child 1] skinCluster1Set (Type Mesh).
+[2018.06.20-21.32.01:174][238]LogFbx: Dumping Node END [skinCluster1Set]
+[2018.06.20-21.32.01:174][238]LogFbx: =================================================
+[2018.06.20-21.32.01:174][238]LogFbx: Dumping Node START [polySurface12] 
+[2018.06.20-21.32.01:174][238]LogFbx: 	Total Deformer Count 1722842656.
+[2018.06.20-21.32.01:174][238]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.32.01:174][238]LogFbx: =================================================
+[2018.06.20-21.32.01:174][238]LogFbx: 	Attribute (polySurface12mesh) Type (4).
+[2018.06.20-21.32.01:174][238]LogFbx: 		[Node Attribute Child 1] polySurface12 (Type Mesh).
+[2018.06.20-21.32.01:174][238]LogFbx: Dumping Node END [polySurface12]
+[2018.06.20-21.32.01:175][238]LogFbx: =================================================
+[2018.06.20-21.32.01:175][238]LogFbx: Dumping Node START [skinCluster1Set] 
+[2018.06.20-21.32.01:175][238]LogFbx: 	Total Deformer Count 1722842656.
+[2018.06.20-21.32.01:175][238]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.32.01:175][238]LogFbx: =================================================
+[2018.06.20-21.32.01:175][238]LogFbx: 	Attribute (skinCluster1Setmesh) Type (4).
+[2018.06.20-21.32.01:175][238]LogFbx: 		[Node Attribute Child 1] skinCluster1Set (Type Mesh).
+[2018.06.20-21.32.01:175][238]LogFbx: Dumping Node END [skinCluster1Set]
+[2018.06.20-21.32.01:175][238]LogFbx: =================================================
+[2018.06.20-21.32.01:175][238]LogFbx: Dumping Node START [polySurface12] 
+[2018.06.20-21.32.01:175][238]LogFbx: 	Total Deformer Count 1722842816.
+[2018.06.20-21.32.01:175][238]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.32.01:175][238]LogFbx: =================================================
+[2018.06.20-21.32.01:175][238]LogFbx: 	Attribute (polySurface12mesh) Type (4).
+[2018.06.20-21.32.01:175][238]LogFbx: 		[Node Attribute Child 1] polySurface12 (Type Mesh).
+[2018.06.20-21.32.01:175][238]LogFbx: Dumping Node END [polySurface12]
+[2018.06.20-21.32.01:185][238]LogFbx: Valid bind pose for Pose (BindPose) - polySurface12
+[2018.06.20-21.32.01:191][238]LogFbx: Triangulating skeletal mesh polySurface12
+[2018.06.20-21.32.01:871][238]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2018.06.20-21.32.02:184][238]LogSkeletalMesh: Section 0: 6597 vertices, 52 active bones
+[2018.06.20-21.32.02:189][238]LogSkeletalMesh: Section 0: Material=0, 6714 triangles
+[2018.06.20-21.32.02:206][238]LogLinker: Can't find file '/Game/Mannequin/Animations/Pistol_Walk_Skeleton'
+[2018.06.20-21.32.02:206][238]LogLinker: Can't find file '/Game/Mannequin/Animations/Pistol_Walk_Skeleton'
+[2018.06.20-21.32.02:222][238]LogLinker: Can't find file '/Game/Mannequin/Animations/Pistol_Walk_PhysicsAsset'
+[2018.06.20-21.32.02:222][238]LogLinker: Can't find file '/Game/Mannequin/Animations/Pistol_Walk_PhysicsAsset'
+[2018.06.20-21.32.02:285][238]FBXImport: Warning: Ignoring mesh skinCluster1Set because it but no weights. 
+[2018.06.20-21.32.02:286][238]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.06.20-21.32.10:388][430]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\zkolman\Downloads\Pistol Idle.fbx)
+[2018.06.20-21.32.10:394][430]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.06.20-21.32.10:395][430]LogFbx: ItemName: NodeAttribute, ItemCount : 65
+[2018.06.20-21.32.10:395][430]LogFbx: ItemName: Model, ItemCount : 67
+[2018.06.20-21.32.10:395][430]LogFbx: ItemName: Geometry, ItemCount : 2
+[2018.06.20-21.32.10:395][430]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.06.20-21.32.10:395][430]LogFbx: ItemName: Deformer, ItemCount : 54
+[2018.06.20-21.32.10:395][430]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.06.20-21.32.10:395][430]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.06.20-21.32.10:395][430]LogFbx: ItemName: AnimationCurveNode, ItemCount : 54
+[2018.06.20-21.32.10:395][430]LogFbx: ItemName: AnimationCurve, ItemCount : 315
+[2018.06.20-21.32.10:400][430]LogFbx: Loading FBX Scene from C:\Users\zkolman\Downloads\Pistol Idle.fbx
+[2018.06.20-21.32.10:433][430]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.20-21.32.11:857][430]LogFbx: Loading FBX Scene from C:\Users\zkolman\Downloads\Pistol Idle.fbx
+[2018.06.20-21.32.11:891][430]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.20-21.32.11:895][430]LogFbx: =================================================
+[2018.06.20-21.32.11:895][430]LogFbx: Dumping Node START [skinCluster1Set] 
+[2018.06.20-21.32.11:895][430]LogFbx: 	Total Deformer Count -2120518944.
+[2018.06.20-21.32.11:895][430]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.32.11:895][430]LogFbx: =================================================
+[2018.06.20-21.32.11:895][430]LogFbx: 	Attribute (skinCluster1Setmesh) Type (4).
+[2018.06.20-21.32.11:895][430]LogFbx: 		[Node Attribute Child 1] skinCluster1Set (Type Mesh).
+[2018.06.20-21.32.11:895][430]LogFbx: Dumping Node END [skinCluster1Set]
+[2018.06.20-21.32.11:895][430]LogFbx: =================================================
+[2018.06.20-21.32.11:895][430]LogFbx: Dumping Node START [polySurface12] 
+[2018.06.20-21.32.11:895][430]LogFbx: 	Total Deformer Count -2120518944.
+[2018.06.20-21.32.11:895][430]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.32.11:895][430]LogFbx: =================================================
+[2018.06.20-21.32.11:896][430]LogFbx: 	Attribute (polySurface12mesh) Type (4).
+[2018.06.20-21.32.11:896][430]LogFbx: 		[Node Attribute Child 1] polySurface12 (Type Mesh).
+[2018.06.20-21.32.11:896][430]LogFbx: Dumping Node END [polySurface12]
+[2018.06.20-21.32.11:896][430]LogFbx: =================================================
+[2018.06.20-21.32.11:896][430]LogFbx: Dumping Node START [skinCluster1Set] 
+[2018.06.20-21.32.11:896][430]LogFbx: 	Total Deformer Count -2120518944.
+[2018.06.20-21.32.11:896][430]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.32.11:896][430]LogFbx: =================================================
+[2018.06.20-21.32.11:896][430]LogFbx: 	Attribute (skinCluster1Setmesh) Type (4).
+[2018.06.20-21.32.11:896][430]LogFbx: 		[Node Attribute Child 1] skinCluster1Set (Type Mesh).
+[2018.06.20-21.32.11:896][430]LogFbx: Dumping Node END [skinCluster1Set]
+[2018.06.20-21.32.11:896][430]LogFbx: =================================================
+[2018.06.20-21.32.11:896][430]LogFbx: Dumping Node START [polySurface12] 
+[2018.06.20-21.32.11:896][430]LogFbx: 	Total Deformer Count -2120518704.
+[2018.06.20-21.32.11:896][430]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.32.11:896][430]LogFbx: =================================================
+[2018.06.20-21.32.11:896][430]LogFbx: 	Attribute (polySurface12mesh) Type (4).
+[2018.06.20-21.32.11:896][430]LogFbx: 		[Node Attribute Child 1] polySurface12 (Type Mesh).
+[2018.06.20-21.32.11:896][430]LogFbx: Dumping Node END [polySurface12]
+[2018.06.20-21.32.11:898][430]LogFbx: Valid bind pose for Pose (BindPose) - polySurface12
+[2018.06.20-21.32.11:899][430]LogFbx: Triangulating skeletal mesh polySurface12
+[2018.06.20-21.32.12:311][430]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2018.06.20-21.32.12:570][430]LogSkeletalMesh: Section 0: 6597 vertices, 52 active bones
+[2018.06.20-21.32.12:576][430]LogSkeletalMesh: Section 0: Material=0, 6714 triangles
+[2018.06.20-21.32.12:578][430]LogLinker: Can't find file '/Game/Mannequin/Animations/Pistol_Idle_PhysicsAsset'
+[2018.06.20-21.32.12:579][430]LogLinker: Can't find file '/Game/Mannequin/Animations/Pistol_Idle_PhysicsAsset'
+[2018.06.20-21.32.12:595][430]FBXImport: Warning: Ignoring mesh skinCluster1Set because it but no weights. 
+[2018.06.20-21.32.12:595][430]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.06.20-21.32.16:268][607]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.06.20-21.32.16:640][607]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.20-21.32.16:699][607]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.06.20-21.32.17:151][607]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.06.20-21.32.17:158][608]LogRenderer: Reallocating scene render targets to support 1208x888 Format 9 NumSamples 1 (Frame:1).
+[2018.06.20-21.32.19:716][775]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2018.06.20-21.32.19:727][775]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_1.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.06.20-21.32.44:178][239]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\zkolman\Downloads\Pistol Walk.fbx)
+[2018.06.20-21.32.44:185][239]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.06.20-21.32.44:185][239]LogFbx: ItemName: NodeAttribute, ItemCount : 65
+[2018.06.20-21.32.44:185][239]LogFbx: ItemName: Model, ItemCount : 67
+[2018.06.20-21.32.44:185][239]LogFbx: ItemName: Geometry, ItemCount : 2
+[2018.06.20-21.32.44:185][239]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.06.20-21.32.44:185][239]LogFbx: ItemName: Deformer, ItemCount : 54
+[2018.06.20-21.32.44:185][239]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.06.20-21.32.44:185][239]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.06.20-21.32.44:185][239]LogFbx: ItemName: AnimationCurveNode, ItemCount : 54
+[2018.06.20-21.32.44:185][239]LogFbx: ItemName: AnimationCurve, ItemCount : 315
+[2018.06.20-21.32.44:190][239]LogFbx: Loading FBX Scene from C:\Users\zkolman\Downloads\Pistol Walk.fbx
+[2018.06.20-21.32.44:224][239]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.20-21.32.47:522][239]LogFbx: Loading FBX Scene from C:\Users\zkolman\Downloads\Pistol Walk.fbx
+[2018.06.20-21.32.47:558][239]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.20-21.32.47:562][239]LogFbx: =================================================
+[2018.06.20-21.32.47:562][239]LogFbx: Dumping Node START [skinCluster1Set] 
+[2018.06.20-21.32.47:562][239]LogFbx: 	Total Deformer Count 477325856.
+[2018.06.20-21.32.47:562][239]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.32.47:562][239]LogFbx: =================================================
+[2018.06.20-21.32.47:562][239]LogFbx: 	Attribute (skinCluster1Setmesh) Type (4).
+[2018.06.20-21.32.47:562][239]LogFbx: 		[Node Attribute Child 1] skinCluster1Set (Type Mesh).
+[2018.06.20-21.32.47:562][239]LogFbx: Dumping Node END [skinCluster1Set]
+[2018.06.20-21.32.47:562][239]LogFbx: =================================================
+[2018.06.20-21.32.47:562][239]LogFbx: Dumping Node START [polySurface12] 
+[2018.06.20-21.32.47:562][239]LogFbx: 	Total Deformer Count 477325856.
+[2018.06.20-21.32.47:562][239]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.32.47:562][239]LogFbx: =================================================
+[2018.06.20-21.32.47:562][239]LogFbx: 	Attribute (polySurface12mesh) Type (4).
+[2018.06.20-21.32.47:562][239]LogFbx: 		[Node Attribute Child 1] polySurface12 (Type Mesh).
+[2018.06.20-21.32.47:562][239]LogFbx: Dumping Node END [polySurface12]
+[2018.06.20-21.32.47:562][239]LogFbx: =================================================
+[2018.06.20-21.32.47:562][239]LogFbx: Dumping Node START [skinCluster1Set] 
+[2018.06.20-21.32.47:562][239]LogFbx: 	Total Deformer Count 477325856.
+[2018.06.20-21.32.47:562][239]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.32.47:562][239]LogFbx: =================================================
+[2018.06.20-21.32.47:562][239]LogFbx: 	Attribute (skinCluster1Setmesh) Type (4).
+[2018.06.20-21.32.47:562][239]LogFbx: 		[Node Attribute Child 1] skinCluster1Set (Type Mesh).
+[2018.06.20-21.32.47:562][239]LogFbx: Dumping Node END [skinCluster1Set]
+[2018.06.20-21.32.47:562][239]LogFbx: =================================================
+[2018.06.20-21.32.47:562][239]LogFbx: Dumping Node START [polySurface12] 
+[2018.06.20-21.32.47:562][239]LogFbx: 	Total Deformer Count 477326096.
+[2018.06.20-21.32.47:562][239]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.32.47:562][239]LogFbx: =================================================
+[2018.06.20-21.32.47:563][239]LogFbx: 	Attribute (polySurface12mesh) Type (4).
+[2018.06.20-21.32.47:563][239]LogFbx: 		[Node Attribute Child 1] polySurface12 (Type Mesh).
+[2018.06.20-21.32.47:563][239]LogFbx: Dumping Node END [polySurface12]
+[2018.06.20-21.32.47:564][239]LogFbx: Valid bind pose for Pose (BindPose) - polySurface12
+[2018.06.20-21.32.47:565][239]LogFbx: Triangulating skeletal mesh polySurface12
+[2018.06.20-21.32.48:104][239]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2018.06.20-21.32.48:359][239]LogSkeletalMesh: Section 0: 6597 vertices, 52 active bones
+[2018.06.20-21.32.48:365][239]LogSkeletalMesh: Section 0: Material=0, 6714 triangles
+[2018.06.20-21.32.48:396][239]LogFbx: =================================================
+[2018.06.20-21.32.48:396][239]LogFbx: Dumping Node START [skinCluster1Set] 
+[2018.06.20-21.32.48:396][239]LogFbx: 	Total Deformer Count 477663440.
+[2018.06.20-21.32.48:396][239]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.32.48:396][239]LogFbx: =================================================
+[2018.06.20-21.32.48:396][239]LogFbx: 	Attribute (skinCluster1Setmesh) Type (4).
+[2018.06.20-21.32.48:396][239]LogFbx: 		[Node Attribute Child 1] skinCluster1Set (Type Mesh).
+[2018.06.20-21.32.48:396][239]LogFbx: Dumping Node END [skinCluster1Set]
+[2018.06.20-21.32.48:396][239]LogFbx: =================================================
+[2018.06.20-21.32.48:396][239]LogFbx: Dumping Node START [polySurface12] 
+[2018.06.20-21.32.48:396][239]LogFbx: 	Total Deformer Count 477663440.
+[2018.06.20-21.32.48:396][239]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.32.48:396][239]LogFbx: =================================================
+[2018.06.20-21.32.48:396][239]LogFbx: 	Attribute (polySurface12mesh) Type (4).
+[2018.06.20-21.32.48:396][239]LogFbx: 		[Node Attribute Child 1] polySurface12 (Type Mesh).
+[2018.06.20-21.32.48:396][239]LogFbx: Dumping Node END [polySurface12]
+[2018.06.20-21.32.48:396][239]LogFbx: =================================================
+[2018.06.20-21.32.48:396][239]LogFbx: Dumping Node START [skinCluster1Set] 
+[2018.06.20-21.32.48:396][239]LogFbx: 	Total Deformer Count 477663440.
+[2018.06.20-21.32.48:396][239]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.32.48:396][239]LogFbx: =================================================
+[2018.06.20-21.32.48:396][239]LogFbx: 	Attribute (skinCluster1Setmesh) Type (4).
+[2018.06.20-21.32.48:396][239]LogFbx: 		[Node Attribute Child 1] skinCluster1Set (Type Mesh).
+[2018.06.20-21.32.48:396][239]LogFbx: Dumping Node END [skinCluster1Set]
+[2018.06.20-21.32.48:396][239]LogFbx: =================================================
+[2018.06.20-21.32.48:397][239]LogFbx: Dumping Node START [polySurface12] 
+[2018.06.20-21.32.48:397][239]LogFbx: 	Total Deformer Count 477670160.
+[2018.06.20-21.32.48:397][239]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.32.48:397][239]LogFbx: =================================================
+[2018.06.20-21.32.48:397][239]LogFbx: 	Attribute (polySurface12mesh) Type (4).
+[2018.06.20-21.32.48:397][239]LogFbx: 		[Node Attribute Child 1] polySurface12 (Type Mesh).
+[2018.06.20-21.32.48:397][239]LogFbx: Dumping Node END [polySurface12]
+[2018.06.20-21.32.48:400][239]LogFbx: SortedLinks :(0) Hips
+[2018.06.20-21.32.48:400][239]LogFbx: SortedLinks :(1) Spine
+[2018.06.20-21.32.48:400][239]LogFbx: SortedLinks :(2) Spine1
+[2018.06.20-21.32.48:400][239]LogFbx: SortedLinks :(3) Spine2
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(4) Neck
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(5) Head
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(8) LeftArm
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(10) LeftHand
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(31) RightShoulder
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(32) RightArm
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(33) RightForeArm
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(34) RightHand
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(35) RightHandThumb1
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(36) RightHandThumb2
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(37) RightHandThumb3
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(38) RightHandThumb4
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(39) RightHandIndex1
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(40) RightHandIndex2
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(41) RightHandIndex3
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(42) RightHandIndex4
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(47) RightHandRing1
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(48) RightHandRing2
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(49) RightHandRing3
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(50) RightHandRing4
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(51) RightHandPinky1
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(52) RightHandPinky2
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(53) RightHandPinky3
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(54) RightHandPinky4
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(55) LeftUpLeg
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(56) LeftLeg
+[2018.06.20-21.32.48:401][239]LogFbx: SortedLinks :(57) LeftFoot
+[2018.06.20-21.32.48:402][239]LogFbx: SortedLinks :(58) LeftToeBase
+[2018.06.20-21.32.48:402][239]LogFbx: SortedLinks :(59) LeftToe_End
+[2018.06.20-21.32.48:402][239]LogFbx: SortedLinks :(60) RightUpLeg
+[2018.06.20-21.32.48:402][239]LogFbx: SortedLinks :(61) RightLeg
+[2018.06.20-21.32.48:402][239]LogFbx: SortedLinks :(62) RightFoot
+[2018.06.20-21.32.48:402][239]LogFbx: SortedLinks :(63) RightToeBase
+[2018.06.20-21.32.48:402][239]LogFbx: SortedLinks :(64) RightToe_End
+[2018.06.20-21.32.48:402][239]LogFbx: Parsing AnimStack mixamo.com
+[2018.06.20-21.32.48:429][239]LogLinker: Can't find file '/Game/Mannequin/Animations/Pistol_Walk_Anim'
+[2018.06.20-21.32.48:429][239]LogLinker: Can't find file '/Game/Mannequin/Animations/Pistol_Walk_Anim'
+[2018.06.20-21.32.48:605][239]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/Pistol_Walk_Anim.Pistol_Walk_Anim
+[2018.06.20-21.32.48:613][239]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Pistol_Walk_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.20-21.32.48:645][239]FBXImport: Warning: Ignoring mesh skinCluster1Set because it but no weights. 
+[2018.06.20-21.32.48:645][239]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.06.20-21.32.48:645][239]FBXImport: Warning: Ignoring mesh skinCluster1Set because it but no weights. 
+[2018.06.20-21.32.52:225][641]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_2.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.06.20-21.32.52:265][641]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.Actor_2.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2018.06.20-21.32.52:707][641]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.06.20-21.33.03:171][155]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\zkolman\Downloads\Pistol Idle.fbx)
+[2018.06.20-21.33.03:178][155]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.06.20-21.33.03:178][155]LogFbx: ItemName: NodeAttribute, ItemCount : 65
+[2018.06.20-21.33.03:178][155]LogFbx: ItemName: Model, ItemCount : 67
+[2018.06.20-21.33.03:178][155]LogFbx: ItemName: Geometry, ItemCount : 2
+[2018.06.20-21.33.03:178][155]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.06.20-21.33.03:178][155]LogFbx: ItemName: Deformer, ItemCount : 54
+[2018.06.20-21.33.03:178][155]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.06.20-21.33.03:178][155]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.06.20-21.33.03:178][155]LogFbx: ItemName: AnimationCurveNode, ItemCount : 54
+[2018.06.20-21.33.03:178][155]LogFbx: ItemName: AnimationCurve, ItemCount : 315
+[2018.06.20-21.33.03:183][155]LogFbx: Loading FBX Scene from C:\Users\zkolman\Downloads\Pistol Idle.fbx
+[2018.06.20-21.33.03:220][155]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.20-21.33.05:277][155]LogFbx: Loading FBX Scene from C:\Users\zkolman\Downloads\Pistol Idle.fbx
+[2018.06.20-21.33.05:313][155]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.20-21.33.05:317][155]LogFbx: =================================================
+[2018.06.20-21.33.05:317][155]LogFbx: Dumping Node START [skinCluster1Set] 
+[2018.06.20-21.33.05:317][155]LogFbx: 	Total Deformer Count 2008307232.
+[2018.06.20-21.33.05:317][155]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.33.05:317][155]LogFbx: =================================================
+[2018.06.20-21.33.05:317][155]LogFbx: 	Attribute (skinCluster1Setmesh) Type (4).
+[2018.06.20-21.33.05:317][155]LogFbx: 		[Node Attribute Child 1] skinCluster1Set (Type Mesh).
+[2018.06.20-21.33.05:317][155]LogFbx: Dumping Node END [skinCluster1Set]
+[2018.06.20-21.33.05:317][155]LogFbx: =================================================
+[2018.06.20-21.33.05:317][155]LogFbx: Dumping Node START [polySurface12] 
+[2018.06.20-21.33.05:317][155]LogFbx: 	Total Deformer Count 2008307232.
+[2018.06.20-21.33.05:317][155]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.33.05:317][155]LogFbx: =================================================
+[2018.06.20-21.33.05:317][155]LogFbx: 	Attribute (polySurface12mesh) Type (4).
+[2018.06.20-21.33.05:317][155]LogFbx: 		[Node Attribute Child 1] polySurface12 (Type Mesh).
+[2018.06.20-21.33.05:317][155]LogFbx: Dumping Node END [polySurface12]
+[2018.06.20-21.33.05:318][155]LogFbx: =================================================
+[2018.06.20-21.33.05:318][155]LogFbx: Dumping Node START [skinCluster1Set] 
+[2018.06.20-21.33.05:318][155]LogFbx: 	Total Deformer Count 2008307232.
+[2018.06.20-21.33.05:318][155]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.33.05:318][155]LogFbx: =================================================
+[2018.06.20-21.33.05:318][155]LogFbx: 	Attribute (skinCluster1Setmesh) Type (4).
+[2018.06.20-21.33.05:318][155]LogFbx: 		[Node Attribute Child 1] skinCluster1Set (Type Mesh).
+[2018.06.20-21.33.05:318][155]LogFbx: Dumping Node END [skinCluster1Set]
+[2018.06.20-21.33.05:318][155]LogFbx: =================================================
+[2018.06.20-21.33.05:318][155]LogFbx: Dumping Node START [polySurface12] 
+[2018.06.20-21.33.05:318][155]LogFbx: 	Total Deformer Count 2008310592.
+[2018.06.20-21.33.05:318][155]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.33.05:318][155]LogFbx: =================================================
+[2018.06.20-21.33.05:318][155]LogFbx: 	Attribute (polySurface12mesh) Type (4).
+[2018.06.20-21.33.05:318][155]LogFbx: 		[Node Attribute Child 1] polySurface12 (Type Mesh).
+[2018.06.20-21.33.05:318][155]LogFbx: Dumping Node END [polySurface12]
+[2018.06.20-21.33.05:320][155]LogFbx: Valid bind pose for Pose (BindPose) - polySurface12
+[2018.06.20-21.33.05:321][155]LogFbx: Triangulating skeletal mesh polySurface12
+[2018.06.20-21.33.05:965][155]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2018.06.20-21.33.06:222][155]LogSkeletalMesh: Section 0: 6597 vertices, 52 active bones
+[2018.06.20-21.33.06:229][155]LogSkeletalMesh: Section 0: Material=0, 6714 triangles
+[2018.06.20-21.33.06:239][155]LogFbx: =================================================
+[2018.06.20-21.33.06:239][155]LogFbx: Dumping Node START [skinCluster1Set] 
+[2018.06.20-21.33.06:239][155]LogFbx: 	Total Deformer Count 643135136.
+[2018.06.20-21.33.06:240][155]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.33.06:240][155]LogFbx: =================================================
+[2018.06.20-21.33.06:240][155]LogFbx: 	Attribute (skinCluster1Setmesh) Type (4).
+[2018.06.20-21.33.06:240][155]LogFbx: 		[Node Attribute Child 1] skinCluster1Set (Type Mesh).
+[2018.06.20-21.33.06:240][155]LogFbx: Dumping Node END [skinCluster1Set]
+[2018.06.20-21.33.06:240][155]LogFbx: =================================================
+[2018.06.20-21.33.06:240][155]LogFbx: Dumping Node START [polySurface12] 
+[2018.06.20-21.33.06:240][155]LogFbx: 	Total Deformer Count 643135136.
+[2018.06.20-21.33.06:240][155]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.33.06:240][155]LogFbx: =================================================
+[2018.06.20-21.33.06:240][155]LogFbx: 	Attribute (polySurface12mesh) Type (4).
+[2018.06.20-21.33.06:240][155]LogFbx: 		[Node Attribute Child 1] polySurface12 (Type Mesh).
+[2018.06.20-21.33.06:240][155]LogFbx: Dumping Node END [polySurface12]
+[2018.06.20-21.33.06:240][155]LogFbx: =================================================
+[2018.06.20-21.33.06:240][155]LogFbx: Dumping Node START [skinCluster1Set] 
+[2018.06.20-21.33.06:240][155]LogFbx: 	Total Deformer Count 643135136.
+[2018.06.20-21.33.06:240][155]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.33.06:240][155]LogFbx: =================================================
+[2018.06.20-21.33.06:240][155]LogFbx: 	Attribute (skinCluster1Setmesh) Type (4).
+[2018.06.20-21.33.06:240][155]LogFbx: 		[Node Attribute Child 1] skinCluster1Set (Type Mesh).
+[2018.06.20-21.33.06:240][155]LogFbx: Dumping Node END [skinCluster1Set]
+[2018.06.20-21.33.06:240][155]LogFbx: =================================================
+[2018.06.20-21.33.06:240][155]LogFbx: Dumping Node START [polySurface12] 
+[2018.06.20-21.33.06:240][155]LogFbx: 	Total Deformer Count 643123696.
+[2018.06.20-21.33.06:240][155]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.33.06:240][155]LogFbx: =================================================
+[2018.06.20-21.33.06:240][155]LogFbx: 	Attribute (polySurface12mesh) Type (4).
+[2018.06.20-21.33.06:240][155]LogFbx: 		[Node Attribute Child 1] polySurface12 (Type Mesh).
+[2018.06.20-21.33.06:240][155]LogFbx: Dumping Node END [polySurface12]
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(0) Hips
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(1) Spine
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(2) Spine1
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(3) Spine2
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(4) Neck
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(5) Head
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(8) LeftArm
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(10) LeftHand
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(31) RightShoulder
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(32) RightArm
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(33) RightForeArm
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(34) RightHand
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(35) RightHandThumb1
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(36) RightHandThumb2
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(37) RightHandThumb3
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(38) RightHandThumb4
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(39) RightHandIndex1
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(40) RightHandIndex2
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(41) RightHandIndex3
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(42) RightHandIndex4
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(47) RightHandRing1
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(48) RightHandRing2
+[2018.06.20-21.33.06:242][155]LogFbx: SortedLinks :(49) RightHandRing3
+[2018.06.20-21.33.06:243][155]LogFbx: SortedLinks :(50) RightHandRing4
+[2018.06.20-21.33.06:243][155]LogFbx: SortedLinks :(51) RightHandPinky1
+[2018.06.20-21.33.06:243][155]LogFbx: SortedLinks :(52) RightHandPinky2
+[2018.06.20-21.33.06:243][155]LogFbx: SortedLinks :(53) RightHandPinky3
+[2018.06.20-21.33.06:243][155]LogFbx: SortedLinks :(54) RightHandPinky4
+[2018.06.20-21.33.06:243][155]LogFbx: SortedLinks :(55) LeftUpLeg
+[2018.06.20-21.33.06:243][155]LogFbx: SortedLinks :(56) LeftLeg
+[2018.06.20-21.33.06:243][155]LogFbx: SortedLinks :(57) LeftFoot
+[2018.06.20-21.33.06:243][155]LogFbx: SortedLinks :(58) LeftToeBase
+[2018.06.20-21.33.06:243][155]LogFbx: SortedLinks :(59) LeftToe_End
+[2018.06.20-21.33.06:243][155]LogFbx: SortedLinks :(60) RightUpLeg
+[2018.06.20-21.33.06:243][155]LogFbx: SortedLinks :(61) RightLeg
+[2018.06.20-21.33.06:243][155]LogFbx: SortedLinks :(62) RightFoot
+[2018.06.20-21.33.06:243][155]LogFbx: SortedLinks :(63) RightToeBase
+[2018.06.20-21.33.06:243][155]LogFbx: SortedLinks :(64) RightToe_End
+[2018.06.20-21.33.06:243][155]LogFbx: Parsing AnimStack mixamo.com
+[2018.06.20-21.33.06:246][155]LogLinker: Can't find file '/Game/Mannequin/Animations/Pistol_Idle_Anim'
+[2018.06.20-21.33.06:246][155]LogLinker: Can't find file '/Game/Mannequin/Animations/Pistol_Idle_Anim'
+[2018.06.20-21.33.06:448][155]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/Pistol_Idle_Anim.Pistol_Idle_Anim
+[2018.06.20-21.33.06:448][155]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Pistol_Idle_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.20-21.33.06:459][155]FBXImport: Warning: Ignoring mesh skinCluster1Set because it but no weights. 
+[2018.06.20-21.33.06:459][155]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.06.20-21.33.06:459][155]FBXImport: Warning: Ignoring mesh skinCluster1Set because it but no weights. 
+[2018.06.20-21.33.08:295][336]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.Actor_3.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.06.20-21.33.08:324][336]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.Actor_3.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2018.06.20-21.33.08:718][336]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.06.20-21.33.28:859][123]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.Actor_4.DebugSkelMeshComponent_7) Already registered. Aborting.
+[2018.06.20-21.33.29:167][123]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.Actor_4.DebugSkelMeshComponent_7) - call TermArticulated first.
+[2018.06.20-21.33.33:922][459]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.Actor_5.DebugSkelMeshComponent_9) Already registered. Aborting.
+[2018.06.20-21.33.33:952][459]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.Actor_5.DebugSkelMeshComponent_9) - call TermArticulated first.
+[2018.06.20-21.33.41:487][955]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.20-21.33.55:501][985]LogMaterial: Missing cached shader map for material TutorialTPP_Mat, compiling. 
+[2018.06.20-21.33.58:127][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_6.DebugSkelMeshComponent_10) Already registered. Aborting.
+[2018.06.20-21.33.58:185][105]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.Actor_6.DebugSkelMeshComponent_10) - call TermArticulated first.
+[2018.06.20-21.34.43:528][209]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Pistol_Walk_Skeleton, removing AnimBP from actor.
+[2018.06.20-21.34.43:547][209]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Pistol_Walk_Skeleton, removing AnimBP from actor.
+[2018.06.20-21.34.43:548][209]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Pistol_Walk_Skeleton, removing AnimBP from actor.
+[2018.06.20-21.34.43:548][209]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Pistol_Walk_Skeleton, removing AnimBP from actor.
+[2018.06.20-21.34.45:265][319]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.06.20-21.34.53:607][831]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.06.20-21.34.53:676][831]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.34.53:676][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.20-21.34.53:677][831]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 20, 2018, 11:34:53 AM)
+[2018.06.20-21.34.53:677][831]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.20-21.34.53:698][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021380s)
+[2018.06.20-21.34.53:699][831]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.20-21.34.53:700][831]LogPlayLevel: PIE: World Init took: (0.001231s)
+[2018.06.20-21.34.53:700][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023048s)
+[2018.06.20-21.34.53:727][831]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.20-21.34.53:739][831]LogInit: FAudioDevice initialized.
+[2018.06.20-21.34.53:891][831]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.20-21.34.53:894][831]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.20-16.34.53
+[2018.06.20-21.34.53:894][831]LogWorld: Bringing up level for play took: 0.002245
+[2018.06.20-21.34.53:957][831]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.06.20-21.34.53:963][831]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.401
+[2018.06.20-21.34.53:964][831]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.34.58:539][111]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.34.58:588][111]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.35.32:159][269]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.06.20-21.35.38:601][531]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.06.20-21.35.38:613][531]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.35.38:613][531]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.20-21.35.38:613][531]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 20, 2018, 11:35:38 AM)
+[2018.06.20-21.35.38:613][531]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.20-21.35.38:635][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021510s)
+[2018.06.20-21.35.38:636][531]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.20-21.35.38:636][531]LogPlayLevel: PIE: World Init took: (0.001306s)
+[2018.06.20-21.35.38:636][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023223s)
+[2018.06.20-21.35.38:692][531]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.20-21.35.38:703][531]LogInit: FAudioDevice initialized.
+[2018.06.20-21.35.38:757][531]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.20-21.35.38:760][531]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.20-16.35.38
+[2018.06.20-21.35.38:760][531]LogWorld: Bringing up level for play took: 0.002580
+[2018.06.20-21.35.38:770][531]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.792
+[2018.06.20-21.35.38:770][531]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.35.42:193][675]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.35.42:253][675]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.35.50:846][ 92]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.06.20-21.35.51:811][113]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.06.20-21.35.51:839][113]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.35.51:840][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.20-21.35.51:840][113]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 20, 2018, 11:35:51 AM)
+[2018.06.20-21.35.51:840][113]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.20-21.35.51:866][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026051s)
+[2018.06.20-21.35.51:867][113]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.20-21.35.51:867][113]LogPlayLevel: PIE: World Init took: (0.001227s)
+[2018.06.20-21.35.51:868][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027688s)
+[2018.06.20-21.35.51:893][113]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.20-21.35.51:903][113]LogInit: FAudioDevice initialized.
+[2018.06.20-21.35.51:953][113]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.20-21.35.51:955][113]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.20-16.35.51
+[2018.06.20-21.35.51:956][113]LogWorld: Bringing up level for play took: 0.002522
+[2018.06.20-21.35.51:962][113]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.4
+[2018.06.20-21.35.51:963][113]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.36.07:765][795]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.36.07:830][795]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.36.20:213][950]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.06.20-21.36.20:225][950]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.36.20:225][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.20-21.36.20:226][950]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 20, 2018, 11:36:20 AM)
+[2018.06.20-21.36.20:226][950]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.20-21.36.20:247][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021639s)
+[2018.06.20-21.36.20:249][950]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.20-21.36.20:249][950]LogPlayLevel: PIE: World Init took: (0.001457s)
+[2018.06.20-21.36.20:249][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023620s)
+[2018.06.20-21.36.20:274][950]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.20-21.36.20:285][950]LogInit: FAudioDevice initialized.
+[2018.06.20-21.36.20:340][950]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.20-21.36.20:343][950]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.20-16.36.20
+[2018.06.20-21.36.20:343][950]LogWorld: Bringing up level for play took: 0.002565
+[2018.06.20-21.36.20:353][950]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.791
+[2018.06.20-21.36.20:353][950]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.36.25:723][180]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.36.25:784][180]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.38.07:427][326]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.Actor_7.DebugSkelMeshComponent_11) Already registered. Aborting.
+[2018.06.20-21.38.07:457][326]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.Actor_7.DebugSkelMeshComponent_11) - call TermArticulated first.
+[2018.06.20-21.38.07:877][326]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.06.20-21.38.45:205][157]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_6.DebugSkelMeshComponent_10) Already registered. Aborting.
+[2018.06.20-21.39.07:527][967]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\zkolman\Desktop\Huey.obj)
+[2018.06.20-21.39.07:566][967]LogFbx: Loading FBX Scene from C:\Users\zkolman\Desktop\Huey.obj
+[2018.06.20-21.39.07:696][967]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.20-21.39.16:933][967]LogFbx: Loading FBX Scene from C:\Users\zkolman\Desktop\Huey.obj
+[2018.06.20-21.39.17:027][967]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.20-21.39.17:027][967]LogFbx: =================================================
+[2018.06.20-21.39.17:027][967]LogFbx: Dumping Node START [polySurface12] 
+[2018.06.20-21.39.17:027][967]LogFbx: 	Total Deformer Count 411844448.
+[2018.06.20-21.39.17:027][967]LogFbx: 	Attribute () Type (4).
+[2018.06.20-21.39.17:027][967]LogFbx: 		[Node Attribute Child 1] polySurface12 (Type Mesh).
+[2018.06.20-21.39.17:027][967]LogFbx: Dumping Node END [polySurface12]
+[2018.06.20-21.39.17:027][967]LogFbx: =================================================
+[2018.06.20-21.39.17:027][967]LogFbx: Dumping Node START [polySurface12] 
+[2018.06.20-21.39.17:027][967]LogFbx: 	Total Deformer Count 411844448.
+[2018.06.20-21.39.17:027][967]LogFbx: 	Attribute () Type (4).
+[2018.06.20-21.39.17:027][967]LogFbx: 		[Node Attribute Child 1] polySurface12 (Type Mesh).
+[2018.06.20-21.39.17:027][967]LogFbx: Dumping Node END [polySurface12]
+[2018.06.20-21.39.17:027][967]LogFbx: =================================================
+[2018.06.20-21.39.17:027][967]LogFbx: Dumping Node START [polySurface12] 
+[2018.06.20-21.39.17:027][967]LogFbx: 	Total Deformer Count 411844448.
+[2018.06.20-21.39.17:027][967]LogFbx: 	Attribute () Type (4).
+[2018.06.20-21.39.17:027][967]LogFbx: 		[Node Attribute Child 1] polySurface12 (Type Mesh).
+[2018.06.20-21.39.17:027][967]LogFbx: Dumping Node END [polySurface12]
+[2018.06.20-21.39.17:049][967]LogFbx: Triangulating skeletal mesh polySurface12
+[2018.06.20-21.39.17:808][967]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.06.20-21.39.18:041][967]LogSkeletalMesh: Section 0: 55 vertices, 1 active bones
+[2018.06.20-21.39.18:041][967]LogSkeletalMesh: Section 1: 791 vertices, 1 active bones
+[2018.06.20-21.39.18:041][967]LogSkeletalMesh: Section 2: 1626 vertices, 1 active bones
+[2018.06.20-21.39.18:041][967]LogSkeletalMesh: Section 3: 1542 vertices, 1 active bones
+[2018.06.20-21.39.18:041][967]LogSkeletalMesh: Section 4: 2400 vertices, 1 active bones
+[2018.06.20-21.39.18:041][967]LogSkeletalMesh: Section 5: 1202 vertices, 1 active bones
+[2018.06.20-21.39.18:047][967]LogSkeletalMesh: Section 0: Material=0, 106 triangles
+[2018.06.20-21.39.18:047][967]LogSkeletalMesh: Section 1: Material=1, 592 triangles
+[2018.06.20-21.39.18:047][967]LogSkeletalMesh: Section 2: Material=2, 1692 triangles
+[2018.06.20-21.39.18:047][967]LogSkeletalMesh: Section 3: Material=3, 1480 triangles
+[2018.06.20-21.39.18:047][967]LogSkeletalMesh: Section 4: Material=4, 1888 triangles
+[2018.06.20-21.39.18:048][967]LogSkeletalMesh: Section 5: Material=5, 956 triangles
+[2018.06.20-21.39.21:099][967]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/Pistol_Walk_Anim.Pistol_Walk_Anim
+[2018.06.20-21.39.21:110][967]LogAnimationCompression: Compression Requested for Empty Animation Pistol_Walk_Anim
+[2018.06.20-21.39.23:494][967]LogLinker: Can't find file '/Game/Huey_PhysicsAsset'
+[2018.06.20-21.39.23:495][967]LogLinker: Can't find file '/Game/Huey_PhysicsAsset'
+[2018.06.20-21.39.23:506][967]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.06.20-21.39.23:506][967]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.06.20-21.39.24:839][967]LoadErrors: Error: The Skeleton  Pistol_Walk_Skeleton is missing bones that SkeletalMesh  Pistol_Idle needs. They will be added now. Please save the Skeleton!
+[2018.06.20-21.39.29:331][257]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.06.20-21.39.29:343][257]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.39.29:343][257]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.06.20-21.39.29:354][257]LogPlayLevel: [PlayLevel] Compiling ThirdPerson_AnimBP before play...
+[2018.06.20-21.39.29:385][257]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] Blendspace Player '(None)'  references an unknown blend space
+[2018.06.20-21.39.29:387][257]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] Missing allocated node for AnimGraphNode_BlendSpacePlayer_9 while searching for node links - likely due to the node having outstanding errors.
+[2018.06.20-21.39.29:390][257]LogBlueprint: Warning: [Compiler ThirdPerson_AnimBP] [0550.86] Compile of ThirdPerson_AnimBP failed. 2 Fatal Issue(s) 0 Warning(s) [in 36 ms] (/Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP)
+[2018.06.20-21.39.29:536][257]LogPlayLevel: PlayLevel: Blueprint regeneration took 192 ms (1 blueprints)
+[2018.06.20-21.39.29:536][257]BlueprintLog: Blueprint ThirdPerson_AnimBP failed to compile
+[2018.06.20-21.39.35:192][424]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.06.20-21.39.35:204][424]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.39.35:204][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.20-21.39.47:938][273]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.06.20-21.39.54:937][562]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.Actor_8.DebugSkelMeshComponent_13) Already registered. Aborting.
+[2018.06.20-21.39.55:219][562]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_31:PersistentLevel.Actor_8.DebugSkelMeshComponent_13) - call TermArticulated first.
+[2018.06.20-21.39.56:746][632]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.06.20-21.39.56:768][632]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] Blendspace Player '(None)'  references an unknown blend space
+[2018.06.20-21.39.56:770][632]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] Missing allocated node for AnimGraphNode_BlendSpacePlayer_9 while searching for node links - likely due to the node having outstanding errors.
+[2018.06.20-21.39.56:898][632]LogBlueprint: Warning: [Compiler ThirdPerson_AnimBP] [0578.37] Compile of ThirdPerson_AnimBP failed. 2 Fatal Issue(s) 0 Warning(s) [in 151 ms] (/Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP)
+[2018.06.20-21.40.01:686][924]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.06.20-21.40.03:735][ 39]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.06.20-21.40.03:761][ 39]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.40.03:761][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.20-21.40.03:761][ 39]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 20, 2018, 11:40:03 AM)
+[2018.06.20-21.40.03:761][ 39]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.20-21.40.03:784][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022377s)
+[2018.06.20-21.40.03:785][ 39]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.20-21.40.03:785][ 39]LogPlayLevel: PIE: World Init took: (0.001222s)
+[2018.06.20-21.40.03:785][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023986s)
+[2018.06.20-21.40.03:811][ 39]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.20-21.40.03:822][ 39]LogInit: FAudioDevice initialized.
+[2018.06.20-21.40.03:869][ 39]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.20-21.40.03:872][ 39]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.20-16.40.03
+[2018.06.20-21.40.03:872][ 39]LogWorld: Bringing up level for play took: 0.002373
+[2018.06.20-21.40.03:880][ 39]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.317
+[2018.06.20-21.40.03:880][ 39]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.40.07:855][257]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.40.07:907][257]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.40.08:820][314]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.06.20-21.40.23:839][911]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/Pistol_Walk_Anim.Pistol_Walk_Anim
+[2018.06.20-21.40.23:840][911]LogAnimationCompression: Compression Requested for Empty Animation Pistol_Walk_Anim
+[2018.06.20-21.40.23:844][911]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.Actor_9.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2018.06.20-21.40.23:871][911]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_33:PersistentLevel.Actor_9.DebugSkelMeshComponent_15) - call TermArticulated first.
+[2018.06.20-21.40.24:261][911]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.06.20-21.40.39:965][570]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\zkolman\Downloads\Pistol Idle.fbx)
+[2018.06.20-21.40.39:971][570]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.06.20-21.40.39:971][570]LogFbx: ItemName: NodeAttribute, ItemCount : 65
+[2018.06.20-21.40.39:971][570]LogFbx: ItemName: Model, ItemCount : 67
+[2018.06.20-21.40.39:971][570]LogFbx: ItemName: Geometry, ItemCount : 2
+[2018.06.20-21.40.39:971][570]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.06.20-21.40.39:971][570]LogFbx: ItemName: Deformer, ItemCount : 54
+[2018.06.20-21.40.39:971][570]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.06.20-21.40.39:971][570]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.06.20-21.40.39:971][570]LogFbx: ItemName: AnimationCurveNode, ItemCount : 54
+[2018.06.20-21.40.39:971][570]LogFbx: ItemName: AnimationCurve, ItemCount : 315
+[2018.06.20-21.40.39:976][570]LogFbx: Loading FBX Scene from C:\Users\zkolman\Downloads\Pistol Idle.fbx
+[2018.06.20-21.40.40:013][570]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.20-21.40.42:323][570]LogFbx: Loading FBX Scene from C:\Users\zkolman\Downloads\Pistol Idle.fbx
+[2018.06.20-21.40.42:360][570]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.20-21.40.42:363][570]LogFbx: =================================================
+[2018.06.20-21.40.42:363][570]LogFbx: Dumping Node START [skinCluster1Set] 
+[2018.06.20-21.40.42:364][570]LogFbx: 	Total Deformer Count -1025844288.
+[2018.06.20-21.40.42:364][570]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.40.42:364][570]LogFbx: =================================================
+[2018.06.20-21.40.42:364][570]LogFbx: 	Attribute (skinCluster1Setmesh) Type (4).
+[2018.06.20-21.40.42:364][570]LogFbx: 		[Node Attribute Child 1] skinCluster1Set (Type Mesh).
+[2018.06.20-21.40.42:364][570]LogFbx: Dumping Node END [skinCluster1Set]
+[2018.06.20-21.40.42:364][570]LogFbx: =================================================
+[2018.06.20-21.40.42:364][570]LogFbx: Dumping Node START [polySurface12] 
+[2018.06.20-21.40.42:364][570]LogFbx: 	Total Deformer Count -1025844288.
+[2018.06.20-21.40.42:364][570]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.40.42:364][570]LogFbx: =================================================
+[2018.06.20-21.40.42:364][570]LogFbx: 	Attribute (polySurface12mesh) Type (4).
+[2018.06.20-21.40.42:364][570]LogFbx: 		[Node Attribute Child 1] polySurface12 (Type Mesh).
+[2018.06.20-21.40.42:364][570]LogFbx: Dumping Node END [polySurface12]
+[2018.06.20-21.40.42:364][570]LogFbx: =================================================
+[2018.06.20-21.40.42:364][570]LogFbx: Dumping Node START [skinCluster1Set] 
+[2018.06.20-21.40.42:364][570]LogFbx: 	Total Deformer Count -1025844288.
+[2018.06.20-21.40.42:364][570]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.40.42:364][570]LogFbx: =================================================
+[2018.06.20-21.40.42:364][570]LogFbx: 	Attribute (skinCluster1Setmesh) Type (4).
+[2018.06.20-21.40.42:364][570]LogFbx: 		[Node Attribute Child 1] skinCluster1Set (Type Mesh).
+[2018.06.20-21.40.42:364][570]LogFbx: Dumping Node END [skinCluster1Set]
+[2018.06.20-21.40.42:364][570]LogFbx: =================================================
+[2018.06.20-21.40.42:364][570]LogFbx: Dumping Node START [polySurface12] 
+[2018.06.20-21.40.42:364][570]LogFbx: 	Total Deformer Count -1025849008.
+[2018.06.20-21.40.42:364][570]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.40.42:364][570]LogFbx: =================================================
+[2018.06.20-21.40.42:364][570]LogFbx: 	Attribute (polySurface12mesh) Type (4).
+[2018.06.20-21.40.42:364][570]LogFbx: 		[Node Attribute Child 1] polySurface12 (Type Mesh).
+[2018.06.20-21.40.42:364][570]LogFbx: Dumping Node END [polySurface12]
+[2018.06.20-21.40.42:366][570]LogFbx: Valid bind pose for Pose (BindPose) - polySurface12
+[2018.06.20-21.40.42:367][570]LogFbx: Triangulating skeletal mesh polySurface12
+[2018.06.20-21.40.43:136][570]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2018.06.20-21.40.43:389][570]LogSkeletalMesh: Section 0: 6597 vertices, 52 active bones
+[2018.06.20-21.40.43:394][570]LogSkeletalMesh: Section 0: Material=0, 6714 triangles
+[2018.06.20-21.40.43:398][570]LogLinker: Can't find file '/Game/Mannequin/Animations/Pistol_Idle_Skeleton'
+[2018.06.20-21.40.43:398][570]LogLinker: Can't find file '/Game/Mannequin/Animations/Pistol_Idle_Skeleton'
+[2018.06.20-21.40.43:407][570]LogFbx: =================================================
+[2018.06.20-21.40.43:407][570]LogFbx: Dumping Node START [skinCluster1Set] 
+[2018.06.20-21.40.43:407][570]LogFbx: 	Total Deformer Count 2091718976.
+[2018.06.20-21.40.43:407][570]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.40.43:407][570]LogFbx: =================================================
+[2018.06.20-21.40.43:407][570]LogFbx: 	Attribute (skinCluster1Setmesh) Type (4).
+[2018.06.20-21.40.43:407][570]LogFbx: 		[Node Attribute Child 1] skinCluster1Set (Type Mesh).
+[2018.06.20-21.40.43:407][570]LogFbx: Dumping Node END [skinCluster1Set]
+[2018.06.20-21.40.43:407][570]LogFbx: =================================================
+[2018.06.20-21.40.43:407][570]LogFbx: Dumping Node START [polySurface12] 
+[2018.06.20-21.40.43:407][570]LogFbx: 	Total Deformer Count 2091718976.
+[2018.06.20-21.40.43:407][570]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.40.43:407][570]LogFbx: =================================================
+[2018.06.20-21.40.43:407][570]LogFbx: 	Attribute (polySurface12mesh) Type (4).
+[2018.06.20-21.40.43:407][570]LogFbx: 		[Node Attribute Child 1] polySurface12 (Type Mesh).
+[2018.06.20-21.40.43:407][570]LogFbx: Dumping Node END [polySurface12]
+[2018.06.20-21.40.43:407][570]LogFbx: =================================================
+[2018.06.20-21.40.43:407][570]LogFbx: Dumping Node START [skinCluster1Set] 
+[2018.06.20-21.40.43:407][570]LogFbx: 	Total Deformer Count 2091718976.
+[2018.06.20-21.40.43:407][570]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.40.43:407][570]LogFbx: =================================================
+[2018.06.20-21.40.43:407][570]LogFbx: 	Attribute (skinCluster1Setmesh) Type (4).
+[2018.06.20-21.40.43:407][570]LogFbx: 		[Node Attribute Child 1] skinCluster1Set (Type Mesh).
+[2018.06.20-21.40.43:407][570]LogFbx: Dumping Node END [skinCluster1Set]
+[2018.06.20-21.40.43:407][570]LogFbx: =================================================
+[2018.06.20-21.40.43:407][570]LogFbx: Dumping Node START [polySurface12] 
+[2018.06.20-21.40.43:407][570]LogFbx: 	Total Deformer Count 2091725456.
+[2018.06.20-21.40.43:407][570]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.40.43:407][570]LogFbx: =================================================
+[2018.06.20-21.40.43:407][570]LogFbx: 	Attribute (polySurface12mesh) Type (4).
+[2018.06.20-21.40.43:408][570]LogFbx: 		[Node Attribute Child 1] polySurface12 (Type Mesh).
+[2018.06.20-21.40.43:408][570]LogFbx: Dumping Node END [polySurface12]
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(0) Hips
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(1) Spine
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(2) Spine1
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(3) Spine2
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(4) Neck
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(5) Head
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(8) LeftArm
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(10) LeftHand
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(31) RightShoulder
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(32) RightArm
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(33) RightForeArm
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(34) RightHand
+[2018.06.20-21.40.43:409][570]LogFbx: SortedLinks :(35) RightHandThumb1
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(36) RightHandThumb2
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(37) RightHandThumb3
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(38) RightHandThumb4
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(39) RightHandIndex1
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(40) RightHandIndex2
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(41) RightHandIndex3
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(42) RightHandIndex4
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(47) RightHandRing1
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(48) RightHandRing2
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(49) RightHandRing3
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(50) RightHandRing4
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(51) RightHandPinky1
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(52) RightHandPinky2
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(53) RightHandPinky3
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(54) RightHandPinky4
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(55) LeftUpLeg
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(56) LeftLeg
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(57) LeftFoot
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(58) LeftToeBase
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(59) LeftToe_End
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(60) RightUpLeg
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(61) RightLeg
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(62) RightFoot
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(63) RightToeBase
+[2018.06.20-21.40.43:410][570]LogFbx: SortedLinks :(64) RightToe_End
+[2018.06.20-21.40.43:411][570]LogFbx: Parsing AnimStack mixamo.com
+[2018.06.20-21.40.43:611][570]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/Pistol_Idle_Anim.Pistol_Idle_Anim
+[2018.06.20-21.40.43:612][570]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Pistol_Idle_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.20-21.40.43:621][570]FBXImport: Warning: Ignoring mesh skinCluster1Set because it but no weights. 
+[2018.06.20-21.40.43:621][570]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.06.20-21.40.43:621][570]FBXImport: Warning: Ignoring mesh skinCluster1Set because it but no weights. 
+[2018.06.20-21.40.45:018][679]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_10.DebugSkelMeshComponent_18) Already registered. Aborting.
+[2018.06.20-21.40.45:057][679]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_37:PersistentLevel.Actor_10.DebugSkelMeshComponent_18) - call TermArticulated first.
+[2018.06.20-21.40.45:417][679]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.06.20-21.41.04:175][366]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\zkolman\Downloads\Pistol Walk.fbx)
+[2018.06.20-21.41.04:181][366]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.06.20-21.41.04:181][366]LogFbx: ItemName: NodeAttribute, ItemCount : 65
+[2018.06.20-21.41.04:181][366]LogFbx: ItemName: Model, ItemCount : 67
+[2018.06.20-21.41.04:181][366]LogFbx: ItemName: Geometry, ItemCount : 2
+[2018.06.20-21.41.04:181][366]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.06.20-21.41.04:181][366]LogFbx: ItemName: Deformer, ItemCount : 54
+[2018.06.20-21.41.04:181][366]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.06.20-21.41.04:181][366]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.06.20-21.41.04:181][366]LogFbx: ItemName: AnimationCurveNode, ItemCount : 54
+[2018.06.20-21.41.04:182][366]LogFbx: ItemName: AnimationCurve, ItemCount : 315
+[2018.06.20-21.41.04:186][366]LogFbx: Loading FBX Scene from C:\Users\zkolman\Downloads\Pistol Walk.fbx
+[2018.06.20-21.41.04:223][366]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.20-21.41.08:067][366]LogFbx: Loading FBX Scene from C:\Users\zkolman\Downloads\Pistol Walk.fbx
+[2018.06.20-21.41.08:105][366]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.20-21.41.08:108][366]LogFbx: =================================================
+[2018.06.20-21.41.08:108][366]LogFbx: Dumping Node START [skinCluster1Set] 
+[2018.06.20-21.41.08:108][366]LogFbx: 	Total Deformer Count 2091719136.
+[2018.06.20-21.41.08:108][366]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.41.08:108][366]LogFbx: =================================================
+[2018.06.20-21.41.08:108][366]LogFbx: 	Attribute (skinCluster1Setmesh) Type (4).
+[2018.06.20-21.41.08:108][366]LogFbx: 		[Node Attribute Child 1] skinCluster1Set (Type Mesh).
+[2018.06.20-21.41.08:109][366]LogFbx: Dumping Node END [skinCluster1Set]
+[2018.06.20-21.41.08:109][366]LogFbx: =================================================
+[2018.06.20-21.41.08:109][366]LogFbx: Dumping Node START [polySurface12] 
+[2018.06.20-21.41.08:109][366]LogFbx: 	Total Deformer Count 2091719136.
+[2018.06.20-21.41.08:109][366]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.41.08:109][366]LogFbx: =================================================
+[2018.06.20-21.41.08:109][366]LogFbx: 	Attribute (polySurface12mesh) Type (4).
+[2018.06.20-21.41.08:109][366]LogFbx: 		[Node Attribute Child 1] polySurface12 (Type Mesh).
+[2018.06.20-21.41.08:109][366]LogFbx: Dumping Node END [polySurface12]
+[2018.06.20-21.41.08:109][366]LogFbx: =================================================
+[2018.06.20-21.41.08:109][366]LogFbx: Dumping Node START [skinCluster1Set] 
+[2018.06.20-21.41.08:109][366]LogFbx: 	Total Deformer Count 2091719136.
+[2018.06.20-21.41.08:109][366]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.41.08:109][366]LogFbx: =================================================
+[2018.06.20-21.41.08:109][366]LogFbx: 	Attribute (skinCluster1Setmesh) Type (4).
+[2018.06.20-21.41.08:109][366]LogFbx: 		[Node Attribute Child 1] skinCluster1Set (Type Mesh).
+[2018.06.20-21.41.08:109][366]LogFbx: Dumping Node END [skinCluster1Set]
+[2018.06.20-21.41.08:109][366]LogFbx: =================================================
+[2018.06.20-21.41.08:109][366]LogFbx: Dumping Node START [polySurface12] 
+[2018.06.20-21.41.08:109][366]LogFbx: 	Total Deformer Count 2091721536.
+[2018.06.20-21.41.08:109][366]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.41.08:109][366]LogFbx: =================================================
+[2018.06.20-21.41.08:109][366]LogFbx: 	Attribute (polySurface12mesh) Type (4).
+[2018.06.20-21.41.08:109][366]LogFbx: 		[Node Attribute Child 1] polySurface12 (Type Mesh).
+[2018.06.20-21.41.08:109][366]LogFbx: Dumping Node END [polySurface12]
+[2018.06.20-21.41.08:111][366]LogFbx: Valid bind pose for Pose (BindPose) - polySurface12
+[2018.06.20-21.41.08:113][366]LogFbx: Triangulating skeletal mesh polySurface12
+[2018.06.20-21.41.08:755][366]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2018.06.20-21.41.09:007][366]LogSkeletalMesh: Section 0: 6597 vertices, 52 active bones
+[2018.06.20-21.41.09:013][366]LogSkeletalMesh: Section 0: Material=0, 6714 triangles
+[2018.06.20-21.41.09:023][366]LogFbx: =================================================
+[2018.06.20-21.41.09:023][366]LogFbx: Dumping Node START [skinCluster1Set] 
+[2018.06.20-21.41.09:023][366]LogFbx: 	Total Deformer Count -1850444528.
+[2018.06.20-21.41.09:023][366]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.41.09:023][366]LogFbx: =================================================
+[2018.06.20-21.41.09:023][366]LogFbx: 	Attribute (skinCluster1Setmesh) Type (4).
+[2018.06.20-21.41.09:023][366]LogFbx: 		[Node Attribute Child 1] skinCluster1Set (Type Mesh).
+[2018.06.20-21.41.09:023][366]LogFbx: Dumping Node END [skinCluster1Set]
+[2018.06.20-21.41.09:023][366]LogFbx: =================================================
+[2018.06.20-21.41.09:023][366]LogFbx: Dumping Node START [polySurface12] 
+[2018.06.20-21.41.09:023][366]LogFbx: 	Total Deformer Count -1850444528.
+[2018.06.20-21.41.09:023][366]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.41.09:023][366]LogFbx: =================================================
+[2018.06.20-21.41.09:023][366]LogFbx: 	Attribute (polySurface12mesh) Type (4).
+[2018.06.20-21.41.09:023][366]LogFbx: 		[Node Attribute Child 1] polySurface12 (Type Mesh).
+[2018.06.20-21.41.09:023][366]LogFbx: Dumping Node END [polySurface12]
+[2018.06.20-21.41.09:023][366]LogFbx: =================================================
+[2018.06.20-21.41.09:023][366]LogFbx: Dumping Node START [skinCluster1Set] 
+[2018.06.20-21.41.09:023][366]LogFbx: 	Total Deformer Count -1850444528.
+[2018.06.20-21.41.09:023][366]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.41.09:023][366]LogFbx: =================================================
+[2018.06.20-21.41.09:024][366]LogFbx: 	Attribute (skinCluster1Setmesh) Type (4).
+[2018.06.20-21.41.09:024][366]LogFbx: 		[Node Attribute Child 1] skinCluster1Set (Type Mesh).
+[2018.06.20-21.41.09:024][366]LogFbx: Dumping Node END [skinCluster1Set]
+[2018.06.20-21.41.09:024][366]LogFbx: =================================================
+[2018.06.20-21.41.09:024][366]LogFbx: Dumping Node START [polySurface12] 
+[2018.06.20-21.41.09:024][366]LogFbx: 	Total Deformer Count -1850457568.
+[2018.06.20-21.41.09:024][366]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.06.20-21.41.09:024][366]LogFbx: =================================================
+[2018.06.20-21.41.09:024][366]LogFbx: 	Attribute (polySurface12mesh) Type (4).
+[2018.06.20-21.41.09:024][366]LogFbx: 		[Node Attribute Child 1] polySurface12 (Type Mesh).
+[2018.06.20-21.41.09:024][366]LogFbx: Dumping Node END [polySurface12]
+[2018.06.20-21.41.09:025][366]LogFbx: SortedLinks :(0) Hips
+[2018.06.20-21.41.09:025][366]LogFbx: SortedLinks :(1) Spine
+[2018.06.20-21.41.09:025][366]LogFbx: SortedLinks :(2) Spine1
+[2018.06.20-21.41.09:025][366]LogFbx: SortedLinks :(3) Spine2
+[2018.06.20-21.41.09:025][366]LogFbx: SortedLinks :(4) Neck
+[2018.06.20-21.41.09:025][366]LogFbx: SortedLinks :(5) Head
+[2018.06.20-21.41.09:025][366]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.06.20-21.41.09:025][366]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.06.20-21.41.09:025][366]LogFbx: SortedLinks :(8) LeftArm
+[2018.06.20-21.41.09:025][366]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.06.20-21.41.09:025][366]LogFbx: SortedLinks :(10) LeftHand
+[2018.06.20-21.41.09:025][366]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.06.20-21.41.09:025][366]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.06.20-21.41.09:025][366]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.06.20-21.41.09:025][366]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.06.20-21.41.09:025][366]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.06.20-21.41.09:025][366]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.06.20-21.41.09:025][366]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.06.20-21.41.09:025][366]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.06.20-21.41.09:025][366]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.06.20-21.41.09:025][366]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.06.20-21.41.09:025][366]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.06.20-21.41.09:025][366]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.06.20-21.41.09:025][366]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.06.20-21.41.09:025][366]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.06.20-21.41.09:025][366]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(31) RightShoulder
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(32) RightArm
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(33) RightForeArm
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(34) RightHand
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(35) RightHandThumb1
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(36) RightHandThumb2
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(37) RightHandThumb3
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(38) RightHandThumb4
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(39) RightHandIndex1
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(40) RightHandIndex2
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(41) RightHandIndex3
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(42) RightHandIndex4
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(47) RightHandRing1
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(48) RightHandRing2
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(49) RightHandRing3
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(50) RightHandRing4
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(51) RightHandPinky1
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(52) RightHandPinky2
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(53) RightHandPinky3
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(54) RightHandPinky4
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(55) LeftUpLeg
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(56) LeftLeg
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(57) LeftFoot
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(58) LeftToeBase
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(59) LeftToe_End
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(60) RightUpLeg
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(61) RightLeg
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(62) RightFoot
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(63) RightToeBase
+[2018.06.20-21.41.09:026][366]LogFbx: SortedLinks :(64) RightToe_End
+[2018.06.20-21.41.09:027][366]LogFbx: Parsing AnimStack mixamo.com
+[2018.06.20-21.41.09:176][366]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/Pistol_Walk_Anim.Pistol_Walk_Anim
+[2018.06.20-21.41.09:176][366]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Pistol_Walk_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.20-21.41.09:185][366]FBXImport: Warning: Ignoring mesh skinCluster1Set because it but no weights. 
+[2018.06.20-21.41.09:185][366]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.06.20-21.41.09:186][366]FBXImport: Warning: Ignoring mesh skinCluster1Set because it but no weights. 
+[2018.06.20-21.41.43:052][228]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.06.20-21.41.44:283][252]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.06.20-21.41.44:308][252]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.41.44:309][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.20-21.41.44:309][252]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 20, 2018, 11:41:44 AM)
+[2018.06.20-21.41.44:309][252]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.20-21.41.44:332][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023283s)
+[2018.06.20-21.41.44:333][252]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.20-21.41.44:333][252]LogPlayLevel: PIE: World Init took: (0.001204s)
+[2018.06.20-21.41.44:334][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024859s)
+[2018.06.20-21.41.44:387][252]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.20-21.41.44:398][252]LogInit: FAudioDevice initialized.
+[2018.06.20-21.41.44:442][252]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.20-21.41.44:445][252]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.20-16.41.44
+[2018.06.20-21.41.44:445][252]LogWorld: Bringing up level for play took: 0.002423
+[2018.06.20-21.41.44:451][252]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.888
+[2018.06.20-21.41.44:451][252]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.41.45:770][308]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.41.45:824][308]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.41.47:102][375]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.06.20-21.41.50:588][535]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.06.20-21.41.50:600][535]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.41.50:601][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.20-21.41.50:601][535]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 20, 2018, 11:41:50 AM)
+[2018.06.20-21.41.50:601][535]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.20-21.41.50:621][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019703s)
+[2018.06.20-21.41.50:622][535]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.20-21.41.50:622][535]LogPlayLevel: PIE: World Init took: (0.001237s)
+[2018.06.20-21.41.50:622][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021354s)
+[2018.06.20-21.41.50:671][535]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.20-21.41.50:681][535]LogInit: FAudioDevice initialized.
+[2018.06.20-21.41.50:729][535]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.20-21.41.50:731][535]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.20-16.41.50
+[2018.06.20-21.41.50:732][535]LogWorld: Bringing up level for play took: 0.002406
+[2018.06.20-21.41.50:740][535]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.823
+[2018.06.20-21.41.50:740][535]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.41.56:882][861]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.41.56:946][861]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.20-21.42.15:703][938]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.06.20-21.42.28:929][262]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.Actor_11.DebugSkelMeshComponent_20) Already registered. Aborting.
+[2018.06.20-21.42.29:211][262]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_43:PersistentLevel.Actor_11.DebugSkelMeshComponent_20) - call TermArticulated first.
+[2018.06.20-21.42.33:491][509]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.Actor_12.DebugSkelMeshComponent_22) Already registered. Aborting.
+[2018.06.20-21.42.33:769][509]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_46:PersistentLevel.Actor_12.DebugSkelMeshComponent_22) - call TermArticulated first.
+[2018.06.20-21.42.53:294][916]LogBlueprint: Warning: [Huey] 'Speed' variable not found. Base class was probably changed. /Game/Mannequin/Animations/Huey.Huey
+[2018.06.20-21.42.53:294][916]LogBlueprint: Warning: [Huey] 'Speed' variable not found. Base class was probably changed. /Game/Mannequin/Animations/Huey.Huey
+[2018.06.20-21.42.53:294][916]LogBlueprint: Warning: [Huey] 'IsInAir?' variable not found. Base class was probably changed. /Game/Mannequin/Animations/Huey.Huey
+[2018.06.20-21.42.53:294][916]LogBlueprint: Warning: [Huey] 'IsInAir?' variable not found. Base class was probably changed. /Game/Mannequin/Animations/Huey.Huey
+[2018.06.20-21.43.07:082][863]LogSlate: Took 0.034788 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.06.20-21.43.24:592][938]BlueprintLog: New page: Compile Huey
+[2018.06.20-21.43.53:100][ 18]LogEditorTransaction: Undo Move Nodes
+[2018.06.20-21.43.53:388][ 18]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.Actor_11.DebugSkelMeshComponent_20) Already registered. Aborting.
+[2018.06.20-21.43.53:395][ 18]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.Actor_12.DebugSkelMeshComponent_22) Already registered. Aborting.
+[2018.06.20-21.43.54:062][ 57]LogEditorTransaction: Undo Paste clipboard contents
+[2018.06.20-21.43.54:352][ 57]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.Actor_11.DebugSkelMeshComponent_20) Already registered. Aborting.
+[2018.06.20-21.43.54:355][ 57]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.Actor_12.DebugSkelMeshComponent_22) Already registered. Aborting.
+[2018.06.20-21.44.04:284][854]LogEditorTransaction: Undo Add New Function
+[2018.06.20-21.44.04:579][854]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.Actor_11.DebugSkelMeshComponent_20) Already registered. Aborting.
+[2018.06.20-21.44.04:582][854]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.Actor_12.DebugSkelMeshComponent_22) Already registered. Aborting.
+[2018.06.20-21.44.23:006][208]LogEditorTransaction: Undo Add New Function
+[2018.06.20-21.44.23:301][208]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.Actor_11.DebugSkelMeshComponent_20) Already registered. Aborting.
+[2018.06.20-21.44.23:305][208]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.Actor_12.DebugSkelMeshComponent_22) Already registered. Aborting.
+[2018.06.20-21.44.23:599][225]LogEditorTransaction: Undo Move Node
+[2018.06.20-21.44.23:890][225]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.Actor_11.DebugSkelMeshComponent_20) Already registered. Aborting.
+[2018.06.20-21.44.23:892][225]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.Actor_12.DebugSkelMeshComponent_22) Already registered. Aborting.
+[2018.06.20-21.44.44:407][820]BlueprintLog: New page: Compile Huey
+[2018.06.20-21.45.09:618][781]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.Actor_13.DebugSkelMeshComponent_24) Already registered. Aborting.
+[2018.06.20-21.45.09:648][781]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_48:PersistentLevel.Actor_13.DebugSkelMeshComponent_24) - call TermArticulated first.
+[2018.06.20-21.45.10:056][781]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.06.20-21.46.21:886][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.06.20-21.46.41:062][618]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.994 s
+[2018.06.20-21.46.41:073][618]LogOutputDevice: Error: === Handled ensure: ===
+[2018.06.20-21.46.41:073][618]LogOutputDevice: Error: 
+[2018.06.20-21.46.41:073][618]LogOutputDevice: Error: Ensure condition failed: Node->IsA(UEdGraphNode_Comment::StaticClass())||Node->IsA(UEdGraphNode_Documentation::StaticClass()) [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\KismetCompiler\Private\KismetCompiler.cpp] [Line: 517]
+[2018.06.20-21.46.41:073][618]LogOutputDevice: Error: 
+[2018.06.20-21.46.41:073][618]LogOutputDevice: Error: Stack: 
+[2018.06.20-21.46.41:073][618]LogOutputDevice: Error: [Callstack] 0x00000000C0892786 UE4Editor-Core.dll!UnknownFunction []
+[2018.06.20-21.46.41:073][618]LogOutputDevice: Error: [Callstack] 0x00000000C063123A UE4Editor-Core.dll!UnknownFunction []
+[2018.06.20-21.46.41:073][618]LogOutputDevice: Error: [Callstack] 0x00000000C064B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.06.20-21.46.41:073][618]LogOutputDevice: Error: [Callstack] 0x00000000B783F52C UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.06.20-21.46.41:073][618]LogOutputDevice: Error: [Callstack] 0x00000000B784E800 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.06.20-21.46.41:073][618]LogOutputDevice: Error: [Callstack] 0x00000000B78331E6 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.06.20-21.46.41:073][618]LogOutputDevice: Error: [Callstack] 0x00000000B7818D61 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.06.20-21.46.41:073][618]LogOutputDevice: Error: [Callstack] 0x00000000B781D9A2 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000B780AFF2 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000B7809942 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000B7808C79 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000BB43B33C UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000BF473A1F UE4Editor-AnimGraph.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000BC8DE90E UE4Editor-Engine.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000B8F5BB20 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000B8EFAE77 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000B8F3955B UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000B8F6CD34 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000B8EFA8FB UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000B8F0039A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000B8EFEBD7 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000B8F9461C UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000B8F7B0D9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000C9A05EFC UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000C99D8095 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000C9A728A7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000C9A5B092 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000C9A4D902 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000DB22E54B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000DB221A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000DB2303EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000DB21D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000FE971C24 USER32.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000FE97156C USER32.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000DB231516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x0000000035F350C8 UE4Editor.exe!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x0000000035F45430 UE4Editor.exe!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x0000000035F454AA UE4Editor.exe!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x0000000035F52379 UE4Editor.exe!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x0000000035F53D57 UE4Editor.exe!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000FE2B8364 KERNEL32.DLL!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: [Callstack] 0x00000000FF2E70B1 ntdll.dll!UnknownFunction []
+[2018.06.20-21.46.41:074][618]LogOutputDevice: Error: 
+[2018.06.20-21.46.41:076][618]LogStats:                SubmitErrorReport -  0.000 s
