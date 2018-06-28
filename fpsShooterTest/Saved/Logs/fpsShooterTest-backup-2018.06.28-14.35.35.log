@@ -1,0 +1,1274 @@
+﻿Log file open, 06/28/18 14:30:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: fpsShooterTest
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-319810129) SRandInit(-319810128).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.269404
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.28-19.30.56:171][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.28-19.30.56:172][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.28-19.30.56:182][  0]LogInit: Computer: CDM-TS210WS01
+[2018.06.28-19.30.56:182][  0]LogInit: User: zkolman
+[2018.06.28-19.30.56:182][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.06.28-19.30.56:182][  0]LogInit: High frequency timer resolution =3.117495 MHz
+[2018.06.28-19.30.56:182][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.06.28-19.30.56:182][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.28-19.30.56:182][  0]LogMemory: Process Physical Memory: 274.21 MB used, 274.21 MB peak
+[2018.06.28-19.30.56:182][  0]LogMemory: Process Virtual Memory: 272.59 MB used, 272.59 MB peak
+[2018.06.28-19.30.56:182][  0]LogMemory: Physical Memory: 6673.03 MB used,  9668.73 MB free, 16341.76 MB total
+[2018.06.28-19.30.56:182][  0]LogMemory: Virtual Memory: 652.75 MB used,  9668.73 MB free, 134217728.00 MB total
+[2018.06.28-19.30.56:409][  0]LogInit: Using OS detected language (en-US).
+[2018.06.28-19.30.56:409][  0]LogInit: Using OS detected locale (en-US).
+[2018.06.28-19.30.56:413][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.06.28-19.30.56:901][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.28-19.30.57:188][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.28-19.30.57:203][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 660' (Feature Level 11_0)
+[2018.06.28-19.30.57:203][  0]LogD3D11RHI:       1476/0/2560 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.06.28-19.30.57:205][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.28-19.30.57:205][  0]LogD3D11RHI:       0/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.28-19.30.57:205][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.28-19.30.57:211][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.28-19.30.57:211][  0]LogD3D11RHI:     GPU DeviceId: 0x1185 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.28-19.30.57:211][  0]LogWindows: EnumDisplayDevices:
+[2018.06.28-19.30.57:211][  0]LogWindows:    0. 'NVIDIA GeForce GTX 660' (P:1 D:1)
+[2018.06.28-19.30.57:211][  0]LogWindows:    1. 'NVIDIA GeForce GTX 660' (P:0 D:1)
+[2018.06.28-19.30.57:211][  0]LogWindows:    2. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2018.06.28-19.30.57:212][  0]LogWindows:    3. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2018.06.28-19.30.57:212][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.06.28-19.30.57:212][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 660
+[2018.06.28-19.30.57:212][  0]LogD3D11RHI:   Driver Version: 327.23 (internal:9.18.13.2723, unified:327.23)
+[2018.06.28-19.30.57:212][  0]LogD3D11RHI:      Driver Date: 9-12-2013
+[2018.06.28-19.30.57:212][  0]LogRHI: Texture pool is 1033 MB (70% of 1476 MB)
+[2018.06.28-19.30.57:221][  0]LogD3D11RHI: NvAPI_D3D_GetCurrentSLIState failed: 0xfffffff7
+[2018.06.28-19.30.57:221][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.28-19.30.57:235][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.06.28-19.30.57:245][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.28-19.30.58:130][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.28-19.30.58:131][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.28-19.30.58:131][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Intermediate/Shaders/WorkingDirectory/16800/).
+[2018.06.28-19.30.58:131][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/zkolman/AppData/Local/Temp/UnrealShaderWorkingDir/F10026154086C9E9EA767E8FC5FE17DA/'.
+[2018.06.28-19.30.58:131][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.28-19.30.59:297][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.28-19.30.59:373][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.28-19.30.59:450][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.28-19.30.59:528][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.28-19.30.59:606][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.28-19.30.59:684][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.28-19.30.59:762][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.28-19.30.59:839][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.28-19.30.59:906][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.28-19.30.59:982][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.28-19.31.00:058][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.28-19.31.00:133][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.28-19.31.00:208][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.28-19.31.00:282][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.28-19.31.00:434][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.28-19.31.00:434][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.28-19.31.00:510][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.28-19.31.00:572][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.28-19.31.00:698][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.28-19.31.00:737][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.28-19.31.00:813][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.28-19.31.00:890][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.28-19.31.00:967][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.28-19.31.01:043][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.28-19.31.01:043][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.28-19.31.01:760][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.28-19.31.01:850][  0]LogDerivedDataCache: Loaded boot cache 0.09s 78MB C:/Users/zkolman/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.06.28-19.31.01:850][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/zkolman/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.06.28-19.31.01:850][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.28-19.31.01:850][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.28-19.31.01:850][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.28-19.31.01:850][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.28-19.31.01:873][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.28-19.31.01:886][  0]LogDerivedDataCache: Using Local data cache path C:/Users/zkolman/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.28-19.31.01:899][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.28-19.31.01:899][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.28-19.31.01:900][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.28-19.31.01:900][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.28-19.31.02:401][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.28-19.31.02:872][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.28-19.31.02:935][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.28-19.31.02:935][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.28-19.31.02:935][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.28-19.31.02:935][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.28-19.31.02:935][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.28-19.31.02:977][  0]LogNetVersion: fpsShooterTest , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3260148410)
+[2018.06.28-19.31.03:190][  0]LogAssetRegistry: FAssetRegistry took 0.0278 seconds to start up
+[2018.06.28-19.31.03:854][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.046314 seconds
+[2018.06.28-19.31.03:859][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.06.28-19.31.03:860][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.06.28-19.31.03:860][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.28-19.31.03:941][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.06.28-19.31.07:633][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.28-19.31.07:694][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.28-19.31.08:694][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.06.28-19.31.09:312][  0]SourceControl: Source control is disabled
+[2018.06.28-19.31.09:312][  0]SourceControl: Source control is disabled
+[2018.06.28-19.31.09:396][  0]SourceControl: Source control is disabled
+[2018.06.28-19.31.09:477][  0]SourceControl: Source control is disabled
+[2018.06.28-19.31.10:741][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.28-19.31.11:164][  0]LogOcInput: OculusInput pre-init called
+[2018.06.28-19.31.11:588][  0]LogEngine: Initializing Engine...
+[2018.06.28-19.31.11:591][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.28-19.31.11:841][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.28-19.31.11:841][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.28-19.31.12:047][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.28-19.31.12:055][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-19.31.12:088][  0]LogInit: FAudioDevice initialized.
+[2018.06.28-19.31.12:318][  0]LogDerivedDataCache: Saved boot cache 0.23s 78MB C:/Users/zkolman/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.06.28-19.31.12:333][  0]LogInit: Texture streaming: Enabled
+[2018.06.28-19.31.12:490][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.28-19.31.12:680][  0]LogInit: Transaction tracking system initialized
+[2018.06.28-19.31.13:162][  0]BlueprintLog: New page: Editor Load
+[2018.06.28-19.31.14:501][  0]LocalizationService: Localization service is disabled
+[2018.06.28-19.31.15:881][  0]LogConsoleResponse: Display: 
+[2018.06.28-19.31.16:126][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.28-19.31.16:127][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.28-19.31.16:127][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.28-19.31.16:391][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/' took 0.02s
+[2018.06.28-19.31.17:967][  0]SourceControl: Source control is disabled
+[2018.06.28-19.31.17:967][  0]Cmd: MAP LOAD FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.28-19.31.17:968][  0]LightingResults: New page: Lighting Build
+[2018.06.28-19.31.18:031][  0]MapCheck: New page: Map Check
+[2018.06.28-19.31.18:031][  0]LightingResults: New page: Lighting Build
+[2018.06.28-19.31.18:751][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.28-19.31.18:775][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.28-19.31.18:794][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.28-19.31.18:859][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.115ms to complete.
+[2018.06.28-19.31.18:859][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.892
+[2018.06.28-19.31.19:025][  0]LogCollectionManager: Loaded 0 collections in 0.002828 seconds
+[2018.06.28-19.31.19:129][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Collections/' took 0.01s
+[2018.06.28-19.31.19:129][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/Developers/zkolman/Collections/' took 0.01s
+[2018.06.28-19.31.19:129][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/Collections/' took 0.01s
+[2018.06.28-19.31.19:129][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.06.28-19.31.19:140][  0]LogContentBrowser: Native class hierarchy populated in 0.0111 seconds. Added 2363 classes and 519 folders.
+[2018.06.28-19.31.19:241][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.06.28-19.31.19:308][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.06.28-19.31.19:372][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.06.28-19.31.19:466][  0]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.28-19.31.19:468][  0]LogSlate: Took 0.000347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.28-19.31.19:474][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.28-19.31.19:597][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 9 NumSamples 1 (Frame:1).
+[2018.06.28-19.31.19:925][  0]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.28-19.31.20:128][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.06.28-19.31.20:128][  0]LogLoad: (Engine Initialization) Total time: 27.61 seconds
+[2018.06.28-19.31.20:128][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.28-19.31.20:128][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.06.28-19.31.20:193][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.06.28-19.31.20:328][  1]LogAssetRegistry: Asset discovery search completed in 17.1604 seconds
+[2018.06.28-19.31.20:330][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.06.28-19.31.20:330][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2018.06.28-19.31.29:143][900]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.28-19.31.29:218][900]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.06.28-19.31.29:488][900]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.28-19.31.29:541][900]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.06.28-19.31.30:009][900]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.06.28-19.31.30:045][900]LogRenderer: Reallocating scene render targets to support 1208x888 Format 9 NumSamples 1 (Frame:1).
+[2018.06.28-19.31.46:918][209]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.06.28-19.31.46:963][209]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) - call TermArticulated first.
+[2018.06.28-19.31.48:755][327]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.28-19.31.55:296][831]LogSavePackage: Save=4.84ms
+[2018.06.28-19.31.55:296][831]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/UE4_Mannequin_Skeleton88C4005B4CA4BF48F74319AD78BD08BE.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2018.06.28-19.31.55:298][831]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset
+[2018.06.28-19.31.59:007][104]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.06.28-19.32.01:486][335]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2018.06.28-19.32.01:497][335]LogBlueprint: Warning: [Compiler Ue4ASP_Character] [0068.97] Compile of Ue4ASP_Character successful, but with 1 Warning(s) [in 44 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2018.06.28-19.32.01:579][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aim_Space_Hip.Aim_Space_Hip
+[2018.06.28-19.32.01:579][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Aim_Space_Hip) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:583][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aim_Space_Hip.Aim_Space_Hip
+[2018.06.28-19.32.01:583][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_0) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:590][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aim_Space_Hip.Aim_Space_Hip
+[2018.06.28-19.32.01:591][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_1) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:601][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aim_Space_Ironsights.Aim_Space_Ironsights
+[2018.06.28-19.32.01:602][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Aim_Space_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:605][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aim_Space_Ironsights.Aim_Space_Ironsights
+[2018.06.28-19.32.01:606][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_2) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:613][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aim_Space_Ironsights.Aim_Space_Ironsights
+[2018.06.28-19.32.01:614][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_3) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:623][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip
+[2018.06.28-19.32.01:624][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Crouch_Walk_Bwd_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:633][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip
+[2018.06.28-19.32.01:633][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Crouch_Walk_Lt_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_10) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:642][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip
+[2018.06.28-19.32.01:643][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Crouch_Walk_Fwd_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:651][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip
+[2018.06.28-19.32.01:652][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Crouch_Walk_Rt_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_12) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:654][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip
+[2018.06.28-19.32.01:655][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_4) using current/default (AnimCompress_BitwiseCompressOnly_7) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:656][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip
+[2018.06.28-19.32.01:657][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_5) using current/default (AnimCompress_BitwiseCompressOnly_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:658][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip
+[2018.06.28-19.32.01:659][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_6) using current/default (AnimCompress_BitwiseCompressOnly_9) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:660][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip
+[2018.06.28-19.32.01:661][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_7) using current/default (AnimCompress_BitwiseCompressOnly_10) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:669][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2018.06.28-19.32.01:670][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jog_Bwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_34) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:678][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2018.06.28-19.32.01:678][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jog_Lt_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:686][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2018.06.28-19.32.01:686][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jog_Fwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_35) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:696][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2018.06.28-19.32.01:696][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jog_Rt_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_37) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:699][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2018.06.28-19.32.01:699][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_8) using current/default (AnimCompress_BitwiseCompressOnly_15) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:700][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2018.06.28-19.32.01:701][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_9) using current/default (AnimCompress_BitwiseCompressOnly_16) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:702][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2018.06.28-19.32.01:702][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_10) using current/default (AnimCompress_BitwiseCompressOnly_17) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:703][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2018.06.28-19.32.01:704][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_11) using current/default (AnimCompress_BitwiseCompressOnly_18) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:716][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip
+[2018.06.28-19.32.01:717][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Crouch_Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:723][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip
+[2018.06.28-19.32.01:724][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_12) using current/default (AnimCompress_BitwiseCompressOnly_23) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:735][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip
+[2018.06.28-19.32.01:736][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_13) using current/default (AnimCompress_BitwiseCompressOnly_24) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:752][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.Crouch_Idle_Rifle_Ironsights
+[2018.06.28-19.32.01:753][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Crouch_Idle_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:759][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.Crouch_Idle_Rifle_Ironsights
+[2018.06.28-19.32.01:760][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_14) using current/default (AnimCompress_BitwiseCompressOnly_26) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:771][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.Crouch_Idle_Rifle_Ironsights
+[2018.06.28-19.32.01:772][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_15) using current/default (AnimCompress_BitwiseCompressOnly_27) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:783][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.Crouch_to_Stand_Rifle_Hip
+[2018.06.28-19.32.01:784][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Crouch_to_Stand_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:785][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.Crouch_to_Stand_Rifle_Hip
+[2018.06.28-19.32.01:786][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_16) using current/default (AnimCompress_BitwiseCompressOnly_29) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:790][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.Crouch_to_Stand_Rifle_Hip
+[2018.06.28-19.32.01:791][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_17) using current/default (AnimCompress_BitwiseCompressOnly_30) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:797][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.Crouch_to_Stand_Rifle_Ironsights
+[2018.06.28-19.32.01:798][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Crouch_to_Stand_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:799][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.Crouch_to_Stand_Rifle_Ironsights
+[2018.06.28-19.32.01:800][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_18) using current/default (AnimCompress_BitwiseCompressOnly_32) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:804][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.Crouch_to_Stand_Rifle_Ironsights
+[2018.06.28-19.32.01:805][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_19) using current/default (AnimCompress_BitwiseCompressOnly_33) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:812][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights
+[2018.06.28-19.32.01:813][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Crouch_Walk_Bwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_7) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:815][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights
+[2018.06.28-19.32.01:816][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_20) using current/default (AnimCompress_BitwiseCompressOnly_35) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:821][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights
+[2018.06.28-19.32.01:822][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_21) using current/default (AnimCompress_BitwiseCompressOnly_36) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:831][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights
+[2018.06.28-19.32.01:831][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Crouch_Walk_Fwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_9) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:834][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights
+[2018.06.28-19.32.01:834][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_22) using current/default (AnimCompress_BitwiseCompressOnly_38) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:840][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights
+[2018.06.28-19.32.01:841][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_23) using current/default (AnimCompress_BitwiseCompressOnly_39) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:849][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights
+[2018.06.28-19.32.01:850][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Crouch_Walk_Lt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_11) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:852][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights
+[2018.06.28-19.32.01:853][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_24) using current/default (AnimCompress_BitwiseCompressOnly_41) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:859][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights
+[2018.06.28-19.32.01:859][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_25) using current/default (AnimCompress_BitwiseCompressOnly_42) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:868][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights
+[2018.06.28-19.32.01:868][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Crouch_Walk_Rt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_13) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:871][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights
+[2018.06.28-19.32.01:871][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_26) using current/default (AnimCompress_BitwiseCompressOnly_44) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:877][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights
+[2018.06.28-19.32.01:878][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_27) using current/default (AnimCompress_BitwiseCompressOnly_45) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:886][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_1.Death_1
+[2018.06.28-19.32.01:887][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Death_1) using current/default (AnimCompress_BitwiseCompressOnly_14) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:890][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_1.Death_1
+[2018.06.28-19.32.01:891][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_28) using current/default (AnimCompress_BitwiseCompressOnly_47) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:897][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_1.Death_1
+[2018.06.28-19.32.01:897][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_29) using current/default (AnimCompress_BitwiseCompressOnly_48) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:906][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_2.Death_2
+[2018.06.28-19.32.01:907][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Death_2) using current/default (AnimCompress_BitwiseCompressOnly_15) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:910][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_2.Death_2
+[2018.06.28-19.32.01:910][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_30) using current/default (AnimCompress_BitwiseCompressOnly_50) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:917][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_2.Death_2
+[2018.06.28-19.32.01:917][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_31) using current/default (AnimCompress_BitwiseCompressOnly_51) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:926][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_3.Death_3
+[2018.06.28-19.32.01:926][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Death_3) using current/default (AnimCompress_BitwiseCompressOnly_16) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:929][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_3.Death_3
+[2018.06.28-19.32.01:930][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_32) using current/default (AnimCompress_BitwiseCompressOnly_53) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:936][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_3.Death_3
+[2018.06.28-19.32.01:936][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_33) using current/default (AnimCompress_BitwiseCompressOnly_54) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:947][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_Ironsights_1.Death_Ironsights_1
+[2018.06.28-19.32.01:948][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Death_Ironsights_1) using current/default (AnimCompress_BitwiseCompressOnly_17) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:951][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_Ironsights_1.Death_Ironsights_1
+[2018.06.28-19.32.01:952][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_34) using current/default (AnimCompress_BitwiseCompressOnly_56) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:959][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_Ironsights_1.Death_Ironsights_1
+[2018.06.28-19.32.01:959][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_35) using current/default (AnimCompress_BitwiseCompressOnly_57) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:968][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_Ironsights_2.Death_Ironsights_2
+[2018.06.28-19.32.01:969][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Death_Ironsights_2) using current/default (AnimCompress_BitwiseCompressOnly_18) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:972][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_Ironsights_2.Death_Ironsights_2
+[2018.06.28-19.32.01:972][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_36) using current/default (AnimCompress_BitwiseCompressOnly_59) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:979][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_Ironsights_2.Death_Ironsights_2
+[2018.06.28-19.32.01:980][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_37) using current/default (AnimCompress_BitwiseCompressOnly_60) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:988][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Equip_Pistol_Standing.Equip_Pistol_Standing
+[2018.06.28-19.32.01:989][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Equip_Pistol_Standing) using current/default (AnimCompress_BitwiseCompressOnly_19) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:992][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Equip_Pistol_Standing.Equip_Pistol_Standing
+[2018.06.28-19.32.01:992][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_38) using current/default (AnimCompress_BitwiseCompressOnly_62) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.01:998][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Equip_Pistol_Standing.Equip_Pistol_Standing
+[2018.06.28-19.32.01:999][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_39) using current/default (AnimCompress_BitwiseCompressOnly_63) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:007][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Equip_Rifle_Standing.Equip_Rifle_Standing
+[2018.06.28-19.32.02:008][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Equip_Rifle_Standing) using current/default (AnimCompress_BitwiseCompressOnly_20) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:011][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Equip_Rifle_Standing.Equip_Rifle_Standing
+[2018.06.28-19.32.02:011][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_40) using current/default (AnimCompress_BitwiseCompressOnly_65) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:017][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Equip_Rifle_Standing.Equip_Rifle_Standing
+[2018.06.28-19.32.02:018][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_41) using current/default (AnimCompress_BitwiseCompressOnly_66) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:025][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Rifle_Hip.Fire_Rifle_Hip
+[2018.06.28-19.32.02:025][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fire_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_21) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:027][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Rifle_Hip.Fire_Rifle_Hip
+[2018.06.28-19.32.02:027][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_42) using current/default (AnimCompress_BitwiseCompressOnly_68) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:032][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Rifle_Hip.Fire_Rifle_Hip
+[2018.06.28-19.32.02:032][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_43) using current/default (AnimCompress_BitwiseCompressOnly_69) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:038][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Rifle_Ironsights.Fire_Rifle_Ironsights
+[2018.06.28-19.32.02:038][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fire_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_22) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:040][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Rifle_Ironsights.Fire_Rifle_Ironsights
+[2018.06.28-19.32.02:040][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_44) using current/default (AnimCompress_BitwiseCompressOnly_71) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:044][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Rifle_Ironsights.Fire_Rifle_Ironsights
+[2018.06.28-19.32.02:045][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_45) using current/default (AnimCompress_BitwiseCompressOnly_72) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:051][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Hip.Fire_Shotgun_Hip
+[2018.06.28-19.32.02:052][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fire_Shotgun_Hip) using current/default (AnimCompress_BitwiseCompressOnly_23) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:054][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Hip.Fire_Shotgun_Hip
+[2018.06.28-19.32.02:054][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_46) using current/default (AnimCompress_BitwiseCompressOnly_74) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:060][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Hip.Fire_Shotgun_Hip
+[2018.06.28-19.32.02:060][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_47) using current/default (AnimCompress_BitwiseCompressOnly_75) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:068][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Ironsights.Fire_Shotgun_Ironsights
+[2018.06.28-19.32.02:068][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fire_Shotgun_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_24) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:070][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Ironsights.Fire_Shotgun_Ironsights
+[2018.06.28-19.32.02:071][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_48) using current/default (AnimCompress_BitwiseCompressOnly_77) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:076][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Ironsights.Fire_Shotgun_Ironsights
+[2018.06.28-19.32.02:076][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_49) using current/default (AnimCompress_BitwiseCompressOnly_78) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:084][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_1.Hit_React_1
+[2018.06.28-19.32.02:084][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Hit_React_1) using current/default (AnimCompress_BitwiseCompressOnly_25) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:086][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_1.Hit_React_1
+[2018.06.28-19.32.02:086][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_50) using current/default (AnimCompress_BitwiseCompressOnly_80) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:091][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_1.Hit_React_1
+[2018.06.28-19.32.02:092][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_51) using current/default (AnimCompress_BitwiseCompressOnly_81) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:099][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_2.Hit_React_2
+[2018.06.28-19.32.02:100][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Hit_React_2) using current/default (AnimCompress_BitwiseCompressOnly_26) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:102][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_2.Hit_React_2
+[2018.06.28-19.32.02:102][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_52) using current/default (AnimCompress_BitwiseCompressOnly_83) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:107][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_2.Hit_React_2
+[2018.06.28-19.32.02:108][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_53) using current/default (AnimCompress_BitwiseCompressOnly_84) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:115][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_3.Hit_React_3
+[2018.06.28-19.32.02:115][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Hit_React_3) using current/default (AnimCompress_BitwiseCompressOnly_27) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:117][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_3.Hit_React_3
+[2018.06.28-19.32.02:117][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_54) using current/default (AnimCompress_BitwiseCompressOnly_86) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:122][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_3.Hit_React_3
+[2018.06.28-19.32.02:123][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_55) using current/default (AnimCompress_BitwiseCompressOnly_87) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:130][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_4.Hit_React_4
+[2018.06.28-19.32.02:130][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Hit_React_4) using current/default (AnimCompress_BitwiseCompressOnly_28) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:132][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_4.Hit_React_4
+[2018.06.28-19.32.02:133][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_56) using current/default (AnimCompress_BitwiseCompressOnly_89) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:138][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_4.Hit_React_4
+[2018.06.28-19.32.02:138][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_57) using current/default (AnimCompress_BitwiseCompressOnly_90) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:149][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Pistol.Idle_Pistol
+[2018.06.28-19.32.02:150][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Idle_Pistol) using current/default (AnimCompress_BitwiseCompressOnly_29) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:157][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Pistol.Idle_Pistol
+[2018.06.28-19.32.02:158][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_58) using current/default (AnimCompress_BitwiseCompressOnly_92) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:170][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Pistol.Idle_Pistol
+[2018.06.28-19.32.02:171][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_59) using current/default (AnimCompress_BitwiseCompressOnly_93) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:187][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2018.06.28-19.32.02:188][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_30) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:194][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2018.06.28-19.32.02:195][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_60) using current/default (AnimCompress_BitwiseCompressOnly_95) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:206][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2018.06.28-19.32.02:207][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_61) using current/default (AnimCompress_BitwiseCompressOnly_96) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:222][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip_Break1.Idle_Rifle_Hip_Break1
+[2018.06.28-19.32.02:223][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Idle_Rifle_Hip_Break1) using current/default (AnimCompress_BitwiseCompressOnly_31) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:228][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip_Break1.Idle_Rifle_Hip_Break1
+[2018.06.28-19.32.02:228][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_62) using current/default (AnimCompress_BitwiseCompressOnly_98) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:238][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip_Break1.Idle_Rifle_Hip_Break1
+[2018.06.28-19.32.02:239][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_63) using current/default (AnimCompress_BitwiseCompressOnly_99) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:252][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip_Break2.Idle_Rifle_Hip_Break2
+[2018.06.28-19.32.02:253][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Idle_Rifle_Hip_Break2) using current/default (AnimCompress_BitwiseCompressOnly_32) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:257][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip_Break2.Idle_Rifle_Hip_Break2
+[2018.06.28-19.32.02:258][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_64) using current/default (AnimCompress_BitwiseCompressOnly_101) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:267][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip_Break2.Idle_Rifle_Hip_Break2
+[2018.06.28-19.32.02:268][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_65) using current/default (AnimCompress_BitwiseCompressOnly_102) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:282][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights
+[2018.06.28-19.32.02:283][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Idle_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_33) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:289][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights
+[2018.06.28-19.32.02:290][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_66) using current/default (AnimCompress_BitwiseCompressOnly_104) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:302][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights
+[2018.06.28-19.32.02:303][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_67) using current/default (AnimCompress_BitwiseCompressOnly_105) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:315][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Jog.Jump_From_Jog
+[2018.06.28-19.32.02:315][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jump_From_Jog) using current/default (AnimCompress_BitwiseCompressOnly_38) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:317][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Jog.Jump_From_Jog
+[2018.06.28-19.32.02:317][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_68) using current/default (AnimCompress_BitwiseCompressOnly_107) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:322][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Jog.Jump_From_Jog
+[2018.06.28-19.32.02:322][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_69) using current/default (AnimCompress_BitwiseCompressOnly_108) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:330][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Stand.Jump_From_Stand
+[2018.06.28-19.32.02:330][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jump_From_Stand) using current/default (AnimCompress_BitwiseCompressOnly_39) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:332][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Stand.Jump_From_Stand
+[2018.06.28-19.32.02:333][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_70) using current/default (AnimCompress_BitwiseCompressOnly_110) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:338][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Stand.Jump_From_Stand
+[2018.06.28-19.32.02:338][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_71) using current/default (AnimCompress_BitwiseCompressOnly_111) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:346][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Stand_Ironsights.Jump_From_Stand_Ironsights
+[2018.06.28-19.32.02:347][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jump_From_Stand_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_40) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:349][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Stand_Ironsights.Jump_From_Stand_Ironsights
+[2018.06.28-19.32.02:349][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_72) using current/default (AnimCompress_BitwiseCompressOnly_113) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:354][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Stand_Ironsights.Jump_From_Stand_Ironsights
+[2018.06.28-19.32.02:355][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_73) using current/default (AnimCompress_BitwiseCompressOnly_114) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:362][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Death_1.Prone_Death_1
+[2018.06.28-19.32.02:362][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Prone_Death_1) using current/default (AnimCompress_BitwiseCompressOnly_41) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:364][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Death_1.Prone_Death_1
+[2018.06.28-19.32.02:365][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_74) using current/default (AnimCompress_BitwiseCompressOnly_116) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:369][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Death_1.Prone_Death_1
+[2018.06.28-19.32.02:369][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_75) using current/default (AnimCompress_BitwiseCompressOnly_117) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:378][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Death_2.Prone_Death_2
+[2018.06.28-19.32.02:378][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Prone_Death_2) using current/default (AnimCompress_BitwiseCompressOnly_42) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:381][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Death_2.Prone_Death_2
+[2018.06.28-19.32.02:382][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_76) using current/default (AnimCompress_BitwiseCompressOnly_119) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:388][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Death_2.Prone_Death_2
+[2018.06.28-19.32.02:389][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_77) using current/default (AnimCompress_BitwiseCompressOnly_120) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:396][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Fire_1.Prone_Fire_1
+[2018.06.28-19.32.02:397][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Prone_Fire_1) using current/default (AnimCompress_BitwiseCompressOnly_43) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:398][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Fire_1.Prone_Fire_1
+[2018.06.28-19.32.02:398][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_78) using current/default (AnimCompress_BitwiseCompressOnly_122) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:402][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Fire_1.Prone_Fire_1
+[2018.06.28-19.32.02:403][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_79) using current/default (AnimCompress_BitwiseCompressOnly_123) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:409][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Fire_2.Prone_Fire_2
+[2018.06.28-19.32.02:409][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Prone_Fire_2) using current/default (AnimCompress_BitwiseCompressOnly_44) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:411][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Fire_2.Prone_Fire_2
+[2018.06.28-19.32.02:411][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_80) using current/default (AnimCompress_BitwiseCompressOnly_125) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:415][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Fire_2.Prone_Fire_2
+[2018.06.28-19.32.02:415][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_81) using current/default (AnimCompress_BitwiseCompressOnly_126) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:428][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Idle.Prone_Idle
+[2018.06.28-19.32.02:429][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Prone_Idle) using current/default (AnimCompress_BitwiseCompressOnly_45) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:437][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Idle.Prone_Idle
+[2018.06.28-19.32.02:438][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_82) using current/default (AnimCompress_BitwiseCompressOnly_128) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:453][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Idle.Prone_Idle
+[2018.06.28-19.32.02:454][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_83) using current/default (AnimCompress_BitwiseCompressOnly_129) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:470][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Reload_Rifle.Prone_Reload_Rifle
+[2018.06.28-19.32.02:471][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Prone_Reload_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_46) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:475][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Reload_Rifle.Prone_Reload_Rifle
+[2018.06.28-19.32.02:476][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_84) using current/default (AnimCompress_BitwiseCompressOnly_131) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:484][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Reload_Rifle.Prone_Reload_Rifle
+[2018.06.28-19.32.02:484][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_85) using current/default (AnimCompress_BitwiseCompressOnly_132) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:496][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Reload_Shotgun.Prone_Reload_Shotgun
+[2018.06.28-19.32.02:497][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Prone_Reload_Shotgun) using current/default (AnimCompress_BitwiseCompressOnly_47) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:502][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Reload_Shotgun.Prone_Reload_Shotgun
+[2018.06.28-19.32.02:503][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_86) using current/default (AnimCompress_BitwiseCompressOnly_134) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:513][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Reload_Shotgun.Prone_Reload_Shotgun
+[2018.06.28-19.32.02:514][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_87) using current/default (AnimCompress_BitwiseCompressOnly_135) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:524][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_To_Stand.Prone_To_Stand
+[2018.06.28-19.32.02:524][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Prone_To_Stand) using current/default (AnimCompress_BitwiseCompressOnly_48) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:527][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_To_Stand.Prone_To_Stand
+[2018.06.28-19.32.02:527][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_88) using current/default (AnimCompress_BitwiseCompressOnly_137) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:533][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_To_Stand.Prone_To_Stand
+[2018.06.28-19.32.02:533][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_89) using current/default (AnimCompress_BitwiseCompressOnly_138) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:542][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Pistol.Reload_Pistol
+[2018.06.28-19.32.02:542][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Reload_Pistol) using current/default (AnimCompress_BitwiseCompressOnly_49) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:545][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Pistol.Reload_Pistol
+[2018.06.28-19.32.02:546][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_90) using current/default (AnimCompress_BitwiseCompressOnly_140) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:551][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Pistol.Reload_Pistol
+[2018.06.28-19.32.02:552][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_91) using current/default (AnimCompress_BitwiseCompressOnly_141) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:561][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Rifle_Hip.Reload_Rifle_Hip
+[2018.06.28-19.32.02:561][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Reload_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_50) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:564][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Rifle_Hip.Reload_Rifle_Hip
+[2018.06.28-19.32.02:565][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_92) using current/default (AnimCompress_BitwiseCompressOnly_143) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:571][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Rifle_Hip.Reload_Rifle_Hip
+[2018.06.28-19.32.02:572][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_93) using current/default (AnimCompress_BitwiseCompressOnly_144) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:581][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Rifle_Ironsights.Reload_Rifle_Ironsights
+[2018.06.28-19.32.02:582][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Reload_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_51) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:585][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Rifle_Ironsights.Reload_Rifle_Ironsights
+[2018.06.28-19.32.02:585][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_94) using current/default (AnimCompress_BitwiseCompressOnly_146) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:592][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Rifle_Ironsights.Reload_Rifle_Ironsights
+[2018.06.28-19.32.02:592][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_95) using current/default (AnimCompress_BitwiseCompressOnly_147) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:603][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Hip.Reload_Shotgun_Hip
+[2018.06.28-19.32.02:604][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Reload_Shotgun_Hip) using current/default (AnimCompress_BitwiseCompressOnly_52) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:609][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Hip.Reload_Shotgun_Hip
+[2018.06.28-19.32.02:610][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_96) using current/default (AnimCompress_BitwiseCompressOnly_149) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:619][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Hip.Reload_Shotgun_Hip
+[2018.06.28-19.32.02:620][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_97) using current/default (AnimCompress_BitwiseCompressOnly_150) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:633][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Ironsights.Reload_Shotgun_Ironsights
+[2018.06.28-19.32.02:634][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Reload_Shotgun_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_53) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:639][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Ironsights.Reload_Shotgun_Ironsights
+[2018.06.28-19.32.02:640][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_98) using current/default (AnimCompress_BitwiseCompressOnly_152) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:650][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Ironsights.Reload_Shotgun_Ironsights
+[2018.06.28-19.32.02:651][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_99) using current/default (AnimCompress_BitwiseCompressOnly_153) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:661][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Sprint_Fwd_Rifle.Sprint_Fwd_Rifle
+[2018.06.28-19.32.02:661][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Sprint_Fwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_54) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:663][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Sprint_Fwd_Rifle.Sprint_Fwd_Rifle
+[2018.06.28-19.32.02:664][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_100) using current/default (AnimCompress_BitwiseCompressOnly_155) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:669][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Sprint_Fwd_Rifle.Sprint_Fwd_Rifle
+[2018.06.28-19.32.02:669][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_101) using current/default (AnimCompress_BitwiseCompressOnly_156) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:677][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.Stand_to_Crouch_Rifle_Hip
+[2018.06.28-19.32.02:677][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Stand_to_Crouch_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_55) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:679][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.Stand_to_Crouch_Rifle_Hip
+[2018.06.28-19.32.02:679][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_102) using current/default (AnimCompress_BitwiseCompressOnly_158) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:685][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.Stand_to_Crouch_Rifle_Hip
+[2018.06.28-19.32.02:685][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_103) using current/default (AnimCompress_BitwiseCompressOnly_159) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:692][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.Stand_to_Crouch_Rifle_Ironsights
+[2018.06.28-19.32.02:693][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Stand_to_Crouch_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_56) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:695][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.Stand_to_Crouch_Rifle_Ironsights
+[2018.06.28-19.32.02:695][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_104) using current/default (AnimCompress_BitwiseCompressOnly_161) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:700][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.Stand_to_Crouch_Rifle_Ironsights
+[2018.06.28-19.32.02:700][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_105) using current/default (AnimCompress_BitwiseCompressOnly_162) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:708][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_To_Prone.Stand_To_Prone
+[2018.06.28-19.32.02:708][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Stand_To_Prone) using current/default (AnimCompress_BitwiseCompressOnly_57) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:711][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_To_Prone.Stand_To_Prone
+[2018.06.28-19.32.02:711][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_106) using current/default (AnimCompress_BitwiseCompressOnly_164) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:717][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_To_Prone.Stand_To_Prone
+[2018.06.28-19.32.02:718][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_107) using current/default (AnimCompress_BitwiseCompressOnly_165) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:726][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights
+[2018.06.28-19.32.02:727][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Walk_Bwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_58) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:729][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights
+[2018.06.28-19.32.02:730][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_108) using current/default (AnimCompress_BitwiseCompressOnly_167) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:736][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights
+[2018.06.28-19.32.02:736][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_109) using current/default (AnimCompress_BitwiseCompressOnly_168) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:745][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.Walk_Fwd_Rifle_Ironsights
+[2018.06.28-19.32.02:745][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Walk_Fwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_59) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:748][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.Walk_Fwd_Rifle_Ironsights
+[2018.06.28-19.32.02:748][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_110) using current/default (AnimCompress_BitwiseCompressOnly_170) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:754][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.Walk_Fwd_Rifle_Ironsights
+[2018.06.28-19.32.02:755][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_111) using current/default (AnimCompress_BitwiseCompressOnly_171) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:763][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Lt_Rifle_Ironsights.Walk_Lt_Rifle_Ironsights
+[2018.06.28-19.32.02:763][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Walk_Lt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_60) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:766][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Lt_Rifle_Ironsights.Walk_Lt_Rifle_Ironsights
+[2018.06.28-19.32.02:766][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_112) using current/default (AnimCompress_BitwiseCompressOnly_173) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:772][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Lt_Rifle_Ironsights.Walk_Lt_Rifle_Ironsights
+[2018.06.28-19.32.02:773][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_113) using current/default (AnimCompress_BitwiseCompressOnly_174) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:781][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Rt_Rifle_Ironsights.Walk_Rt_Rifle_Ironsights
+[2018.06.28-19.32.02:782][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Walk_Rt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_61) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:785][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Rt_Rifle_Ironsights.Walk_Rt_Rifle_Ironsights
+[2018.06.28-19.32.02:785][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_114) using current/default (AnimCompress_BitwiseCompressOnly_176) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:791][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Rt_Rifle_Ironsights.Walk_Rt_Rifle_Ironsights
+[2018.06.28-19.32.02:792][335]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_115) using current/default (AnimCompress_BitwiseCompressOnly_177) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.28-19.32.02:928][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Aim_Space_Hip" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Aim_Space_Hip.uasset" SILENT=true
+[2018.06.28-19.32.02:956][335]LogSavePackage: Save=12.26ms
+[2018.06.28-19.32.02:956][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Aim_Space_Hip25D61A0F4D3D3405B82B0DB6526641D8.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Aim_Space_Hip.uasset'
+[2018.06.28-19.32.02:958][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Aim_Space_Hip.uasset
+[2018.06.28-19.32.02:979][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Aim_Space_Ironsights" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Aim_Space_Ironsights.uasset" SILENT=true
+[2018.06.28-19.32.03:007][335]LogSavePackage: Save=12.01ms
+[2018.06.28-19.32.03:007][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Aim_Space_IronsightsB484C34D492718D4DACCD2BFA6FAEC8C.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Aim_Space_Ironsights.uasset'
+[2018.06.28-19.32.03:009][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Aim_Space_Ironsights.uasset
+[2018.06.28-19.32.03:030][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/BS_CrouchWalk" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/BS_CrouchWalk.uasset" SILENT=true
+[2018.06.28-19.32.03:057][335]LogSavePackage: Save=12.08ms
+[2018.06.28-19.32.03:057][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/BS_CrouchWalk0867C9EF4C4594585377B89E7554B95A.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/BS_CrouchWalk.uasset'
+[2018.06.28-19.32.03:059][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/BS_CrouchWalk.uasset
+[2018.06.28-19.32.03:077][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/BS_Jog" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/BS_Jog.uasset" SILENT=true
+[2018.06.28-19.32.03:105][335]LogSavePackage: Save=12.12ms
+[2018.06.28-19.32.03:105][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/BS_JogCD359A1D40C745EA75D7CFB54FE80BC6.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/BS_Jog.uasset'
+[2018.06.28-19.32.03:107][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/BS_Jog.uasset
+[2018.06.28-19.32.03:127][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Crouch_Idle_Rifle_Hip" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset" SILENT=true
+[2018.06.28-19.32.03:157][335]LogSavePackage: Save=14.16ms
+[2018.06.28-19.32.03:157][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Crouch_Idle_Rifle_HipD28C1C674ECA2E94160DB1BB309FDA31.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset'
+[2018.06.28-19.32.03:159][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset
+[2018.06.28-19.32.03:210][335]LogSavePackage: Save=14.79ms
+[2018.06.28-19.32.03:210][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Crouch_Idle_Rifle_Ironsights4517990E45FF574D316450B43FA66CD6.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset'
+[2018.06.28-19.32.03:213][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset
+[2018.06.28-19.32.03:271][335]LogSavePackage: Save=12.94ms
+[2018.06.28-19.32.03:271][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Crouch_to_Stand_Rifle_Hip173EE5044C9725744B2298B68E516BF0.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset'
+[2018.06.28-19.32.03:273][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset
+[2018.06.28-19.32.03:321][335]LogSavePackage: Save=12.41ms
+[2018.06.28-19.32.03:321][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Crouch_to_Stand_Rifle_Ironsights6869656244CC46CD4030A5A832446B13.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset'
+[2018.06.28-19.32.03:323][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset
+[2018.06.28-19.32.03:371][335]LogSavePackage: Save=11.30ms
+[2018.06.28-19.32.03:372][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Crouch_Walk_Bwd_Rifle_Hip2314809047911E70029042A77C436893.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset'
+[2018.06.28-19.32.03:374][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset
+[2018.06.28-19.32.03:419][335]LogSavePackage: Save=12.16ms
+[2018.06.28-19.32.03:419][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Crouch_Walk_Bwd_Rifle_IronsightsA858BA6B42C57980AF08C4A983D0A398.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset'
+[2018.06.28-19.32.03:421][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset
+[2018.06.28-19.32.03:468][335]LogSavePackage: Save=11.18ms
+[2018.06.28-19.32.03:468][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Crouch_Walk_Fwd_Rifle_Hip8B0867BC444C5C6561E915B83FBBA1F3.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset'
+[2018.06.28-19.32.03:469][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset
+[2018.06.28-19.32.03:517][335]LogSavePackage: Save=12.68ms
+[2018.06.28-19.32.03:517][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Crouch_Walk_Fwd_Rifle_Ironsights53B7AAA44104B5C40DD27FABAC74BDBC.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset'
+[2018.06.28-19.32.03:519][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset
+[2018.06.28-19.32.03:565][335]LogSavePackage: Save=11.44ms
+[2018.06.28-19.32.03:565][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Crouch_Walk_Lt_Rifle_Hip0D858BAA4C568BB5B170D5B9F9904EC6.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset'
+[2018.06.28-19.32.03:567][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset
+[2018.06.28-19.32.03:618][335]LogSavePackage: Save=11.80ms
+[2018.06.28-19.32.03:618][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Crouch_Walk_Lt_Rifle_Ironsights61471DB74EC7B1B9A87F0D91793B0271.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset'
+[2018.06.28-19.32.03:620][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset
+[2018.06.28-19.32.03:665][335]LogSavePackage: Save=11.49ms
+[2018.06.28-19.32.03:665][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Crouch_Walk_Rt_Rifle_Hip77AE41C645445D59497F04934092517B.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset'
+[2018.06.28-19.32.03:667][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset
+[2018.06.28-19.32.03:711][335]LogSavePackage: Save=11.79ms
+[2018.06.28-19.32.03:711][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Crouch_Walk_Rt_Rifle_Ironsights10E6E090422880DED0E892BCFD638596.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset'
+[2018.06.28-19.32.03:713][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset
+[2018.06.28-19.32.03:737][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Death_1" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Death_1.uasset" SILENT=true
+[2018.06.28-19.32.03:766][335]LogSavePackage: Save=11.71ms
+[2018.06.28-19.32.03:766][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Death_1A238EFDD4EE1B9A0B8762499F520ED00.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Death_1.uasset'
+[2018.06.28-19.32.03:767][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Death_1.uasset
+[2018.06.28-19.32.03:783][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Death_2" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Death_2.uasset" SILENT=true
+[2018.06.28-19.32.03:812][335]LogSavePackage: Save=11.85ms
+[2018.06.28-19.32.03:812][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Death_23DCCAC9C4ECFBEF72DAC758C753A1653.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Death_2.uasset'
+[2018.06.28-19.32.03:813][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Death_2.uasset
+[2018.06.28-19.32.03:829][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Death_3" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Death_3.uasset" SILENT=true
+[2018.06.28-19.32.03:858][335]LogSavePackage: Save=11.56ms
+[2018.06.28-19.32.03:858][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Death_33A99D9DE4E1C0A385CA4CB963EB2570C.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Death_3.uasset'
+[2018.06.28-19.32.03:859][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Death_3.uasset
+[2018.06.28-19.32.03:875][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Death_Ironsights_1" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Death_Ironsights_1.uasset" SILENT=true
+[2018.06.28-19.32.03:904][335]LogSavePackage: Save=11.93ms
+[2018.06.28-19.32.03:904][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Death_Ironsights_1A76802D44CD6C09BEE0D3DA21C24701F.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Death_Ironsights_1.uasset'
+[2018.06.28-19.32.03:905][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Death_Ironsights_1.uasset
+[2018.06.28-19.32.03:923][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Death_Ironsights_2" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Death_Ironsights_2.uasset" SILENT=true
+[2018.06.28-19.32.03:951][335]LogSavePackage: Save=11.87ms
+[2018.06.28-19.32.03:951][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Death_Ironsights_2F354A1404F7B18E566424CB7B3B82BEF.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Death_Ironsights_2.uasset'
+[2018.06.28-19.32.03:953][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Death_Ironsights_2.uasset
+[2018.06.28-19.32.03:969][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Equip_Pistol_Standing" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Equip_Pistol_Standing.uasset" SILENT=true
+[2018.06.28-19.32.03:997][335]LogSavePackage: Save=11.43ms
+[2018.06.28-19.32.03:997][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Equip_Pistol_StandingD0C8B731486D9618CE16A2AEFA83A4AB.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Equip_Pistol_Standing.uasset'
+[2018.06.28-19.32.03:999][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Equip_Pistol_Standing.uasset
+[2018.06.28-19.32.04:016][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Equip_Rifle_Standing" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Equip_Rifle_Standing.uasset" SILENT=true
+[2018.06.28-19.32.04:044][335]LogSavePackage: Save=11.53ms
+[2018.06.28-19.32.04:044][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Equip_Rifle_StandingBED605054BC2C1B53EBADFAB40A2AADD.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Equip_Rifle_Standing.uasset'
+[2018.06.28-19.32.04:046][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Equip_Rifle_Standing.uasset
+[2018.06.28-19.32.04:061][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Fire_Rifle_Hip" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Fire_Rifle_Hip.uasset" SILENT=true
+[2018.06.28-19.32.04:089][335]LogSavePackage: Save=10.96ms
+[2018.06.28-19.32.04:089][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Fire_Rifle_Hip375148FF4D7F35BA4E9C27BF4CAEC744.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Fire_Rifle_Hip.uasset'
+[2018.06.28-19.32.04:091][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Fire_Rifle_Hip.uasset
+[2018.06.28-19.32.04:107][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Fire_Rifle_Ironsights" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset" SILENT=true
+[2018.06.28-19.32.04:136][335]LogSavePackage: Save=11.22ms
+[2018.06.28-19.32.04:136][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Fire_Rifle_Ironsights34A2B3994FB827A217085DB9080297A1.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset'
+[2018.06.28-19.32.04:137][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset
+[2018.06.28-19.32.04:154][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Fire_Shotgun_Hip" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Fire_Shotgun_Hip.uasset" SILENT=true
+[2018.06.28-19.32.04:183][335]LogSavePackage: Save=11.49ms
+[2018.06.28-19.32.04:183][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Fire_Shotgun_Hip65A9C7044BB130E08A862AA1D1697107.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Fire_Shotgun_Hip.uasset'
+[2018.06.28-19.32.04:184][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Fire_Shotgun_Hip.uasset
+[2018.06.28-19.32.04:229][335]LogSavePackage: Save=11.54ms
+[2018.06.28-19.32.04:229][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Fire_Shotgun_Ironsights824EFE02421990BACB08AA82F2C6B524.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Fire_Shotgun_Ironsights.uasset'
+[2018.06.28-19.32.04:231][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Fire_Shotgun_Ironsights.uasset
+[2018.06.28-19.32.04:247][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Hit_React_1" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Hit_React_1.uasset" SILENT=true
+[2018.06.28-19.32.04:275][335]LogSavePackage: Save=11.34ms
+[2018.06.28-19.32.04:275][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Hit_React_1F739D5C84E9627D3B70DA0B9B40D9631.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Hit_React_1.uasset'
+[2018.06.28-19.32.04:277][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Hit_React_1.uasset
+[2018.06.28-19.32.04:294][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Hit_React_2" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Hit_React_2.uasset" SILENT=true
+[2018.06.28-19.32.04:322][335]LogSavePackage: Save=11.25ms
+[2018.06.28-19.32.04:322][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Hit_React_2216730C44DBF952E46A144B85EB2F623.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Hit_React_2.uasset'
+[2018.06.28-19.32.04:324][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Hit_React_2.uasset
+[2018.06.28-19.32.04:340][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Hit_React_3" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Hit_React_3.uasset" SILENT=true
+[2018.06.28-19.32.04:368][335]LogSavePackage: Save=11.23ms
+[2018.06.28-19.32.04:368][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Hit_React_3699C67224E28703D065730A33F284135.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Hit_React_3.uasset'
+[2018.06.28-19.32.04:370][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Hit_React_3.uasset
+[2018.06.28-19.32.04:388][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Hit_React_4" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Hit_React_4.uasset" SILENT=true
+[2018.06.28-19.32.04:416][335]LogSavePackage: Save=11.41ms
+[2018.06.28-19.32.04:416][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Hit_React_47BD1FD924003BE06B8D7718298E0593B.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Hit_React_4.uasset'
+[2018.06.28-19.32.04:418][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Hit_React_4.uasset
+[2018.06.28-19.32.04:434][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Idle_Pistol" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Idle_Pistol.uasset" SILENT=true
+[2018.06.28-19.32.04:464][335]LogSavePackage: Save=12.94ms
+[2018.06.28-19.32.04:464][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Idle_Pistol1C1AB48B45A708978F86058CA2C714F4.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Idle_Pistol.uasset'
+[2018.06.28-19.32.04:466][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Idle_Pistol.uasset
+[2018.06.28-19.32.04:483][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Idle_Rifle_Hip" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Idle_Rifle_Hip.uasset" SILENT=true
+[2018.06.28-19.32.04:514][335]LogSavePackage: Save=13.92ms
+[2018.06.28-19.32.04:514][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Idle_Rifle_Hip8CE91716410D3A18E3CCDC808B29C8C3.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Idle_Rifle_Hip.uasset'
+[2018.06.28-19.32.04:516][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Idle_Rifle_Hip.uasset
+[2018.06.28-19.32.04:533][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Idle_Rifle_Hip_Break1" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset" SILENT=true
+[2018.06.28-19.32.04:563][335]LogSavePackage: Save=12.96ms
+[2018.06.28-19.32.04:563][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Idle_Rifle_Hip_Break1488C79034F8986823FA42B91CB63F3A8.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset'
+[2018.06.28-19.32.04:565][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset
+[2018.06.28-19.32.04:583][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Idle_Rifle_Hip_Break2" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset" SILENT=true
+[2018.06.28-19.32.04:613][335]LogSavePackage: Save=12.50ms
+[2018.06.28-19.32.04:613][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Idle_Rifle_Hip_Break257BDD5B34A2842F06730EC806816D77F.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset'
+[2018.06.28-19.32.04:614][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset
+[2018.06.28-19.32.04:630][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Idle_Rifle_Ironsights" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Idle_Rifle_Ironsights.uasset" SILENT=true
+[2018.06.28-19.32.04:661][335]LogSavePackage: Save=13.20ms
+[2018.06.28-19.32.04:661][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Idle_Rifle_IronsightsC900220940F3B3915E10719AD885AAC7.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Idle_Rifle_Ironsights.uasset'
+[2018.06.28-19.32.04:663][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Idle_Rifle_Ironsights.uasset
+[2018.06.28-19.32.04:679][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Jog_Bwd_Rifle" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Jog_Bwd_Rifle.uasset" SILENT=true
+[2018.06.28-19.32.04:708][335]LogSavePackage: Save=11.58ms
+[2018.06.28-19.32.04:708][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Jog_Bwd_Rifle27A4D56E4A45A7E694D7C287B8CD4825.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Jog_Bwd_Rifle.uasset'
+[2018.06.28-19.32.04:710][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Jog_Bwd_Rifle.uasset
+[2018.06.28-19.32.04:726][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Jog_Fwd_Rifle" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Jog_Fwd_Rifle.uasset" SILENT=true
+[2018.06.28-19.32.04:755][335]LogSavePackage: Save=11.33ms
+[2018.06.28-19.32.04:755][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Jog_Fwd_RifleEA329A904DFA6C7FA6F966902C9F011F.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Jog_Fwd_Rifle.uasset'
+[2018.06.28-19.32.04:757][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Jog_Fwd_Rifle.uasset
+[2018.06.28-19.32.04:773][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Jog_Lt_Rifle" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Jog_Lt_Rifle.uasset" SILENT=true
+[2018.06.28-19.32.04:802][335]LogSavePackage: Save=11.51ms
+[2018.06.28-19.32.04:803][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Jog_Lt_Rifle984879E040BAED53030FA4A5C0E67500.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Jog_Lt_Rifle.uasset'
+[2018.06.28-19.32.04:804][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Jog_Lt_Rifle.uasset
+[2018.06.28-19.32.04:821][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Jog_Rt_Rifle" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Jog_Rt_Rifle.uasset" SILENT=true
+[2018.06.28-19.32.04:851][335]LogSavePackage: Save=11.68ms
+[2018.06.28-19.32.04:851][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Jog_Rt_RifleFA3D94034985FCC1712294AF0D6DC9BA.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Jog_Rt_Rifle.uasset'
+[2018.06.28-19.32.04:853][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Jog_Rt_Rifle.uasset
+[2018.06.28-19.32.04:871][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Jump_From_Jog" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Jump_From_Jog.uasset" SILENT=true
+[2018.06.28-19.32.04:900][335]LogSavePackage: Save=11.58ms
+[2018.06.28-19.32.04:900][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Jump_From_Jog92726EE24EA4656BD076BFA786B02939.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Jump_From_Jog.uasset'
+[2018.06.28-19.32.04:902][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Jump_From_Jog.uasset
+[2018.06.28-19.32.04:922][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Jump_From_Stand" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Jump_From_Stand.uasset" SILENT=true
+[2018.06.28-19.32.04:951][335]LogSavePackage: Save=11.75ms
+[2018.06.28-19.32.04:951][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Jump_From_Stand93279A1C414ED573D84C0AA289BC9593.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Jump_From_Stand.uasset'
+[2018.06.28-19.32.04:953][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Jump_From_Stand.uasset
+[2018.06.28-19.32.05:007][335]LogSavePackage: Save=11.59ms
+[2018.06.28-19.32.05:007][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Jump_From_Stand_Ironsights2C280E814705CF103D836D94FE40272C.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Jump_From_Stand_Ironsights.uasset'
+[2018.06.28-19.32.05:009][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Jump_From_Stand_Ironsights.uasset
+[2018.06.28-19.32.05:026][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Prone_Death_1" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Prone_Death_1.uasset" SILENT=true
+[2018.06.28-19.32.05:056][335]LogSavePackage: Save=11.69ms
+[2018.06.28-19.32.05:056][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Prone_Death_13AE2708049B2F5102C961CAEECD45DA3.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Prone_Death_1.uasset'
+[2018.06.28-19.32.05:057][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Prone_Death_1.uasset
+[2018.06.28-19.32.05:075][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Prone_Death_2" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Prone_Death_2.uasset" SILENT=true
+[2018.06.28-19.32.05:105][335]LogSavePackage: Save=11.93ms
+[2018.06.28-19.32.05:105][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Prone_Death_2C13AA39E4ACC4264885A28984C094E8E.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Prone_Death_2.uasset'
+[2018.06.28-19.32.05:107][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Prone_Death_2.uasset
+[2018.06.28-19.32.05:123][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Prone_Fire_1" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Prone_Fire_1.uasset" SILENT=true
+[2018.06.28-19.32.05:152][335]LogSavePackage: Save=11.37ms
+[2018.06.28-19.32.05:153][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Prone_Fire_14A5C48B1432F7D70A50BC4BF4A1A0432.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Prone_Fire_1.uasset'
+[2018.06.28-19.32.05:154][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Prone_Fire_1.uasset
+[2018.06.28-19.32.05:172][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Prone_Fire_2" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Prone_Fire_2.uasset" SILENT=true
+[2018.06.28-19.32.05:202][335]LogSavePackage: Save=12.18ms
+[2018.06.28-19.32.05:203][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Prone_Fire_212637A6843E39DF3CB5C808AC6A01E17.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Prone_Fire_2.uasset'
+[2018.06.28-19.32.05:204][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Prone_Fire_2.uasset
+[2018.06.28-19.32.05:221][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Prone_Idle" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Prone_Idle.uasset" SILENT=true
+[2018.06.28-19.32.05:254][335]LogSavePackage: Save=14.19ms
+[2018.06.28-19.32.05:254][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Prone_Idle501E70ED4BEA950393F41D9EAA81349D.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Prone_Idle.uasset'
+[2018.06.28-19.32.05:256][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Prone_Idle.uasset
+[2018.06.28-19.32.05:273][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Prone_Reload_Rifle" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Prone_Reload_Rifle.uasset" SILENT=true
+[2018.06.28-19.32.05:303][335]LogSavePackage: Save=12.42ms
+[2018.06.28-19.32.05:303][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Prone_Reload_RifleD58E8FF94DFE3BC4D972F0A86D7AE877.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Prone_Reload_Rifle.uasset'
+[2018.06.28-19.32.05:305][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Prone_Reload_Rifle.uasset
+[2018.06.28-19.32.05:321][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Prone_Reload_Shotgun" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Prone_Reload_Shotgun.uasset" SILENT=true
+[2018.06.28-19.32.05:353][335]LogSavePackage: Save=13.12ms
+[2018.06.28-19.32.05:353][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Prone_Reload_Shotgun95BDFAD24983FC48ABE64AB49EDAD0A7.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Prone_Reload_Shotgun.uasset'
+[2018.06.28-19.32.05:354][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Prone_Reload_Shotgun.uasset
+[2018.06.28-19.32.05:378][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Prone_To_Stand" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Prone_To_Stand.uasset" SILENT=true
+[2018.06.28-19.32.05:407][335]LogSavePackage: Save=11.32ms
+[2018.06.28-19.32.05:407][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Prone_To_StandBBC8D117473D4555452F538B83F541C2.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Prone_To_Stand.uasset'
+[2018.06.28-19.32.05:409][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Prone_To_Stand.uasset
+[2018.06.28-19.32.05:425][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Reload_Pistol" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Reload_Pistol.uasset" SILENT=true
+[2018.06.28-19.32.05:454][335]LogSavePackage: Save=11.60ms
+[2018.06.28-19.32.05:454][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Reload_Pistol2FE74B844904227E4B6B9C9AEF9A46CD.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Reload_Pistol.uasset'
+[2018.06.28-19.32.05:456][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Reload_Pistol.uasset
+[2018.06.28-19.32.05:473][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Reload_Rifle_Hip" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Reload_Rifle_Hip.uasset" SILENT=true
+[2018.06.28-19.32.05:504][335]LogSavePackage: Save=12.85ms
+[2018.06.28-19.32.05:504][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Reload_Rifle_HipE11293664D3F760A4B0733880A0E2AE0.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Reload_Rifle_Hip.uasset'
+[2018.06.28-19.32.05:506][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Reload_Rifle_Hip.uasset
+[2018.06.28-19.32.05:553][335]LogSavePackage: Save=12.12ms
+[2018.06.28-19.32.05:553][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Reload_Rifle_Ironsights34507C414BFA5D8C5CDBFA9EE7DDDA7C.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Reload_Rifle_Ironsights.uasset'
+[2018.06.28-19.32.05:555][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Reload_Rifle_Ironsights.uasset
+[2018.06.28-19.32.05:573][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Reload_Shotgun_Hip" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Reload_Shotgun_Hip.uasset" SILENT=true
+[2018.06.28-19.32.05:604][335]LogSavePackage: Save=12.82ms
+[2018.06.28-19.32.05:604][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Reload_Shotgun_HipE2BBE8424473EA08EE5A669D79C17237.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Reload_Shotgun_Hip.uasset'
+[2018.06.28-19.32.05:605][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Reload_Shotgun_Hip.uasset
+[2018.06.28-19.32.05:653][335]LogSavePackage: Save=12.53ms
+[2018.06.28-19.32.05:653][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Reload_Shotgun_Ironsights6BABB0CE425C6628A79B2BB020443F41.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Reload_Shotgun_Ironsights.uasset'
+[2018.06.28-19.32.05:655][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Reload_Shotgun_Ironsights.uasset
+[2018.06.28-19.32.05:672][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Sprint_Fwd_Rifle" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Sprint_Fwd_Rifle.uasset" SILENT=true
+[2018.06.28-19.32.05:702][335]LogSavePackage: Save=11.50ms
+[2018.06.28-19.32.05:702][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Sprint_Fwd_Rifle59711E2443219781606942942DC8FE72.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Sprint_Fwd_Rifle.uasset'
+[2018.06.28-19.32.05:704][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Sprint_Fwd_Rifle.uasset
+[2018.06.28-19.32.05:751][335]LogSavePackage: Save=11.30ms
+[2018.06.28-19.32.05:751][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Stand_to_Crouch_Rifle_Hip2E3805644ADEC849D6489187CA77C3EA.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.uasset'
+[2018.06.28-19.32.05:753][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.uasset
+[2018.06.28-19.32.05:802][335]LogSavePackage: Save=11.45ms
+[2018.06.28-19.32.05:802][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Stand_to_Crouch_Rifle_Ironsights444AA3504055AFE4E389B9B9BDAD14DF.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.uasset'
+[2018.06.28-19.32.05:803][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.uasset
+[2018.06.28-19.32.05:821][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Stand_To_Prone" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Stand_To_Prone.uasset" SILENT=true
+[2018.06.28-19.32.05:858][335]LogSavePackage: Save=16.51ms
+[2018.06.28-19.32.05:858][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Stand_To_ProneD8538503402759FE07E4EC919ED2679A.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Stand_To_Prone.uasset'
+[2018.06.28-19.32.05:861][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Stand_To_Prone.uasset
+[2018.06.28-19.32.06:205][335]LogSavePackage: Save=250.71ms
+[2018.06.28-19.32.06:205][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/UE4ASP_HeroTPP_AnimBlueprint49DB56554EF97CCEA5A85DB30D38630A.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset'
+[2018.06.28-19.32.06:207][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset
+[2018.06.28-19.32.06:257][335]LogSavePackage: Save=12.10ms
+[2018.06.28-19.32.06:257][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Walk_Bwd_Rifle_Ironsights54EDF84D488E8AB37F61D0AB19A26DC3.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset'
+[2018.06.28-19.32.06:259][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset
+[2018.06.28-19.32.06:309][335]LogSavePackage: Save=11.99ms
+[2018.06.28-19.32.06:309][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Walk_Fwd_Rifle_Ironsights34C3C89B4DAC508C445591A14327A897.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset'
+[2018.06.28-19.32.06:311][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset
+[2018.06.28-19.32.06:362][335]LogSavePackage: Save=11.98ms
+[2018.06.28-19.32.06:362][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Walk_Lt_Rifle_IronsightsE8770B654C262452E6D53AA2705103A0.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset'
+[2018.06.28-19.32.06:364][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset
+[2018.06.28-19.32.06:413][335]LogSavePackage: Save=11.91ms
+[2018.06.28-19.32.06:413][335]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Walk_Rt_Rifle_Ironsights0D0588D143D9CCE897A8DA94B8FEF9A7.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset'
+[2018.06.28-19.32.06:416][335]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset
+[2018.06.28-19.32.08:524][462]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.Actor_2.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.06.28-19.32.08:576][462]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.Actor_2.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2018.06.28-19.32.09:006][462]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.06.28-19.32.38:809][164]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.06.28-19.32.38:855][164]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_8) - call TermArticulated first.
+[2018.06.28-19.32.39:274][164]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.06.28-19.32.49:807][ 11]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.06.28-19.32.54:805][494]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.Actor_4.DebugSkelMeshComponent_12) Already registered. Aborting.
+[2018.06.28-19.32.54:853][494]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.Actor_4.DebugSkelMeshComponent_12) - call TermArticulated first.
+[2018.06.28-19.32.55:283][494]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.06.28-19.33.24:949][730]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.Actor_5.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.06.28-19.33.24:997][730]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.Actor_5.DebugSkelMeshComponent_14) - call TermArticulated first.
+[2018.06.28-19.35.11:180][944]LogSavePackage: Save=5.26ms
+[2018.06.28-19.35.11:180][944]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Pistol_Idle_Skeleton80C37F9D4654E2EC0415CAA1ADC0D01A.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/Mannequin/Animations/Pistol_Idle_Skeleton.uasset'
+[2018.06.28-19.35.11:181][944]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/Mannequin/Animations/Pistol_Idle_Skeleton.uasset
+[2018.06.28-19.35.22:933][142]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.28-19.35.23:110][143]Cmd: QUIT_EDITOR
+[2018.06.28-19.35.23:144][143]LogExit: Preparing to exit.
+[2018.06.28-19.35.23:812][143]LogDirectoryWatcher: A directory notification for 'C:/Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/' was aborted.
+[2018.06.28-19.35.23:834][143]LogExit: Editor shut down
+[2018.06.28-19.35.23:839][143]LogExit: Transaction tracking system shut down
+[2018.06.28-19.35.23:990][143]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.06.28-19.35.23:990][143]LogDirectoryWatcher: A directory notification for '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/' was aborted.
+[2018.06.28-19.35.23:990][143]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.06.28-19.35.23:991][143]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.06.28-19.35.23:991][143]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.06.28-19.35.23:991][143]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.06.28-19.35.23:991][143]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.06.28-19.35.24:045][143]LogExit: Object subsystem successfully closed.
+[2018.06.28-19.35.24:061][143]LogD3D11RHI: Shutdown
+[2018.06.28-19.35.24:061][143]LogD3D11RHI: CleanupD3DDevice
+[2018.06.28-19.35.24:066][143]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.06.28-19.35.24:085][143]LogModuleManager: Shutting down and abandoning module AnimationEditor (554)
+[2018.06.28-19.35.24:085][143]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (552)
+[2018.06.28-19.35.24:085][143]LogModuleManager: Shutting down and abandoning module SkeletonEditor (550)
+[2018.06.28-19.35.24:085][143]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.06.28-19.35.24:085][143]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.06.28-19.35.24:085][143]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.06.28-19.35.24:086][143]LogDirectoryWatcher: A directory notification for 'C:/UE_4.18/FeaturePacks/' was aborted.
+[2018.06.28-19.35.24:087][143]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.06.28-19.35.24:087][143]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.06.28-19.35.24:087][143]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.06.28-19.35.24:087][143]LogDirectoryWatcher: A directory notification for 'C:/Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/Collections/' was aborted.
+[2018.06.28-19.35.24:087][143]LogDirectoryWatcher: A directory notification for 'C:/Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/Developers/zkolman/Collections/' was aborted.
+[2018.06.28-19.35.24:087][143]LogDirectoryWatcher: A directory notification for 'C:/Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Collections/' was aborted.
+[2018.06.28-19.35.24:087][143]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.06.28-19.35.24:087][143]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.06.28-19.35.24:087][143]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.06.28-19.35.24:087][143]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.06.28-19.35.24:087][143]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.06.28-19.35.24:087][143]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.06.28-19.35.24:087][143]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.06.28-19.35.24:087][143]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.06.28-19.35.24:087][143]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.06.28-19.35.24:087][143]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.06.28-19.35.24:087][143]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.06.28-19.35.24:087][143]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.06.28-19.35.24:087][143]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.06.28-19.35.24:087][143]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.06.28-19.35.24:087][143]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.06.28-19.35.24:088][143]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.06.28-19.35.24:088][143]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.06.28-19.35.24:088][143]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.06.28-19.35.24:088][143]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.06.28-19.35.24:088][143]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.06.28-19.35.24:088][143]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.06.28-19.35.24:088][143]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.06.28-19.35.24:088][143]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.06.28-19.35.24:088][143]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.06.28-19.35.24:088][143]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.06.28-19.35.24:088][143]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.06.28-19.35.24:088][143]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.06.28-19.35.24:088][143]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.06.28-19.35.24:088][143]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.06.28-19.35.24:088][143]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.06.28-19.35.24:088][143]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.06.28-19.35.24:088][143]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.06.28-19.35.24:088][143]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.06.28-19.35.24:088][143]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.06.28-19.35.24:088][143]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.06.28-19.35.24:088][143]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.06.28-19.35.24:088][143]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.06.28-19.35.24:088][143]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.06.28-19.35.24:088][143]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.06.28-19.35.24:088][143]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.06.28-19.35.24:088][143]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.06.28-19.35.24:162][143]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.06.28-19.35.24:162][143]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.06.28-19.35.24:162][143]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.06.28-19.35.24:162][143]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.06.28-19.35.24:162][143]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.06.28-19.35.24:162][143]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.06.28-19.35.24:162][143]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.06.28-19.35.24:162][143]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.06.28-19.35.24:162][143]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.06.28-19.35.24:163][143]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.06.28-19.35.24:163][143]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.06.28-19.35.24:163][143]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.06.28-19.35.24:163][143]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.06.28-19.35.24:163][143]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.06.28-19.35.24:163][143]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.06.28-19.35.24:163][143]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.06.28-19.35.24:163][143]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.06.28-19.35.24:163][143]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.06.28-19.35.24:163][143]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.06.28-19.35.24:163][143]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.06.28-19.35.24:163][143]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.06.28-19.35.24:163][143]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.06.28-19.35.24:163][143]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.06.28-19.35.24:163][143]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.06.28-19.35.24:229][143]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.06.28-19.35.24:229][143]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.06.28-19.35.24:229][143]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.06.28-19.35.24:229][143]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.06.28-19.35.24:229][143]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.06.28-19.35.24:229][143]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.06.28-19.35.24:229][143]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.06.28-19.35.24:229][143]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.06.28-19.35.24:229][143]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.06.28-19.35.24:229][143]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.06.28-19.35.24:230][143]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.06.28-19.35.24:230][143]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.06.28-19.35.24:230][143]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.06.28-19.35.24:230][143]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.06.28-19.35.24:230][143]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.06.28-19.35.24:230][143]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.06.28-19.35.24:230][143]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.06.28-19.35.24:230][143]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.06.28-19.35.24:230][143]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.06.28-19.35.24:230][143]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.06.28-19.35.24:230][143]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.06.28-19.35.24:230][143]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.06.28-19.35.24:230][143]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.06.28-19.35.24:230][143]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.06.28-19.35.24:230][143]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.06.28-19.35.24:230][143]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.06.28-19.35.24:230][143]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.06.28-19.35.24:231][143]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.06.28-19.35.24:231][143]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.06.28-19.35.24:231][143]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.06.28-19.35.24:255][143]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.06.28-19.35.24:255][143]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.06.28-19.35.24:255][143]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.06.28-19.35.24:255][143]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.06.28-19.35.24:255][143]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.06.28-19.35.24:255][143]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.06.28-19.35.24:255][143]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.06.28-19.35.24:255][143]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.06.28-19.35.24:255][143]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.06.28-19.35.24:255][143]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.06.28-19.35.24:255][143]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.06.28-19.35.24:255][143]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.06.28-19.35.24:256][143]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.06.28-19.35.24:256][143]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.06.28-19.35.24:256][143]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.06.28-19.35.24:256][143]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.06.28-19.35.24:256][143]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.06.28-19.35.24:256][143]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.06.28-19.35.24:256][143]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.06.28-19.35.24:256][143]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.06.28-19.35.24:256][143]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.06.28-19.35.24:256][143]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.06.28-19.35.24:256][143]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.06.28-19.35.24:256][143]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.06.28-19.35.24:256][143]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.06.28-19.35.24:256][143]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.06.28-19.35.24:256][143]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.06.28-19.35.24:256][143]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.06.28-19.35.24:256][143]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.06.28-19.35.24:256][143]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.06.28-19.35.24:256][143]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.06.28-19.35.24:256][143]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.06.28-19.35.24:256][143]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.06.28-19.35.24:256][143]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.06.28-19.35.24:256][143]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.06.28-19.35.24:257][143]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.06.28-19.35.24:257][143]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.06.28-19.35.24:257][143]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.06.28-19.35.24:258][143]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.06.28-19.35.24:258][143]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.06.28-19.35.24:258][143]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.06.28-19.35.24:258][143]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.06.28-19.35.24:258][143]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.06.28-19.35.24:258][143]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.06.28-19.35.24:258][143]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.06.28-19.35.24:258][143]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.06.28-19.35.24:359][143]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.06.28-19.35.24:729][143]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.06.28-19.35.24:729][143]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.06.28-19.35.24:729][143]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.06.28-19.35.24:729][143]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.06.28-19.35.24:729][143]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.06.28-19.35.24:730][143]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.06.28-19.35.24:731][143]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.06.28-19.35.24:731][143]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.06.28-19.35.24:731][143]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.06.28-19.35.24:731][143]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.06.28-19.35.24:731][143]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.06.28-19.35.24:731][143]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.06.28-19.35.24:731][143]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.06.28-19.35.24:731][143]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.06.28-19.35.24:731][143]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.06.28-19.35.24:731][143]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.06.28-19.35.24:737][143]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.06.28-19.35.24:737][143]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.06.28-19.35.24:737][143]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.06.28-19.35.24:737][143]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.06.28-19.35.24:737][143]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.06.28-19.35.24:737][143]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.06.28-19.35.24:737][143]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.06.28-19.35.24:737][143]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.06.28-19.35.24:737][143]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.06.28-19.35.24:737][143]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.06.28-19.35.24:737][143]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.06.28-19.35.24:737][143]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.06.28-19.35.24:738][143]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.06.28-19.35.24:738][143]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.06.28-19.35.24:738][143]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.06.28-19.35.24:738][143]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.06.28-19.35.24:740][143]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.06.28-19.35.24:740][143]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.06.28-19.35.24:740][143]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.06.28-19.35.24:740][143]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.06.28-19.35.24:740][143]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.06.28-19.35.24:740][143]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.06.28-19.35.24:740][143]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.06.28-19.35.24:740][143]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.06.28-19.35.24:741][143]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.06.28-19.35.24:741][143]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.06.28-19.35.24:741][143]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.06.28-19.35.24:741][143]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.06.28-19.35.24:741][143]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.06.28-19.35.24:741][143]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.06.28-19.35.24:742][143]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.06.28-19.35.24:742][143]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.06.28-19.35.24:742][143]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.06.28-19.35.24:778][143]LogDerivedDataCache: Shutdown
+[2018.06.28-19.35.24:778][143]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.06.28-19.35.24:778][143]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.06.28-19.35.24:778][143]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.06.28-19.35.24:778][143]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.06.28-19.35.24:778][143]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.06.28-19.35.24:778][143]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.06.28-19.35.24:778][143]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.06.28-19.35.24:778][143]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.06.28-19.35.24:778][143]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.06.28-19.35.24:778][143]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.06.28-19.35.24:779][143]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.06.28-19.35.24:780][143]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.06.28-19.35.24:780][143]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.06.28-19.35.24:780][143]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.06.28-19.35.24:780][143]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.06.28-19.35.24:780][143]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C10B8A6-4D7B-10AE-2765-64BFB7C194E8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=0c8fe7f14212ae8460981ab0a8559ebb%7C755f7370592a4f5da2847d8c01c6faeb%7Cff20797a-266b-46c0-81ad-d45b3380ed11&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.06.28-19.35.24:801][143]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.06.28-19.35.24:803][143]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.06.28-19.35.24:803][143]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.06.28-19.35.24:803][143]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.06.28-19.35.24:803][143]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.06.28-19.35.24:803][143]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.06.28-19.35.24:803][143]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.06.28-19.35.24:803][143]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.06.28-19.35.24:805][143]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.06.28-19.35.24:805][143]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.06.28-19.35.24:805][143]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.06.28-19.35.24:805][143]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.06.28-19.35.24:805][143]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.06.28-19.35.24:805][143]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.06.28-19.35.24:805][143]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.06.28-19.35.24:805][143]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.06.28-19.35.24:805][143]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.06.28-19.35.24:805][143]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.06.28-19.35.24:805][143]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.06.28-19.35.24:810][143]LogExit: Exiting.
+[2018.06.28-19.35.24:834][143]Log file closed, 06/28/18 14:35:24
