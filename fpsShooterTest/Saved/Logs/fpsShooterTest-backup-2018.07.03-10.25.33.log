@@ -1,0 +1,1490 @@
+﻿Log file open, 07/02/18 16:29:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: fpsShooterTest
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2061981486) SRandInit(-2061981486).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.654043
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.02-21.29.37:748][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.02-21.29.37:748][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.02-21.29.37:816][  0]LogInit: Computer: CDM-TS210WS04
+[2018.07.02-21.29.37:816][  0]LogInit: User: zkolman
+[2018.07.02-21.29.37:816][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.07.02-21.29.37:816][  0]LogInit: High frequency timer resolution =3.117492 MHz
+[2018.07.02-21.29.37:816][  0]LogMemory: Memory total: Physical=20.0GB (20GB approx)
+[2018.07.02-21.29.37:816][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.02-21.29.37:816][  0]LogMemory: Process Physical Memory: 273.88 MB used, 273.88 MB peak
+[2018.07.02-21.29.37:816][  0]LogMemory: Process Virtual Memory: 272.53 MB used, 272.53 MB peak
+[2018.07.02-21.29.37:816][  0]LogMemory: Physical Memory: 5206.78 MB used,  15230.96 MB free, 20437.75 MB total
+[2018.07.02-21.29.37:816][  0]LogMemory: Virtual Memory: 686.17 MB used,  15230.96 MB free, 134217728.00 MB total
+[2018.07.02-21.29.38:359][  0]LogInit: Using OS detected language (en-US).
+[2018.07.02-21.29.38:359][  0]LogInit: Using OS detected locale (en-US).
+[2018.07.02-21.29.38:711][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.07.02-21.29.39:355][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.02-21.29.42:465][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.02-21.29.42:513][  0]LogD3D11RHI:    0. 'NVIDIA Quadro 2000' (Feature Level 11_0)
+[2018.07.02-21.29.42:513][  0]LogD3D11RHI:       979/0/10218 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.07.02-21.29.42:516][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.02-21.29.42:516][  0]LogD3D11RHI:       0/0/10218 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.02-21.29.42:516][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.02-21.29.42:521][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.02-21.29.42:530][  0]LogD3D11RHI:     GPU DeviceId: 0xdd8 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.02-21.29.42:530][  0]LogWindows: EnumDisplayDevices:
+[2018.07.02-21.29.42:530][  0]LogWindows:    0. 'NVIDIA Quadro 2000' (P:0 D:1)
+[2018.07.02-21.29.42:530][  0]LogWindows:    1. 'NVIDIA Quadro 2000' (P:1 D:1)
+[2018.07.02-21.29.42:530][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.02-21.29.42:530][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro 2000
+[2018.07.02-21.29.42:530][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.02-21.29.42:530][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.02-21.29.42:530][  0]LogRHI: Texture pool is 685 MB (70% of 979 MB)
+[2018.07.02-21.29.42:562][  0]LogD3D11RHI: Display: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2018.07.02-21.29.42:563][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.02-21.29.42:685][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.07.02-21.29.42:732][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Intermediate/Shaders/WorkingDirectory/2864/).
+[2018.07.02-21.29.42:732][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/zkolman/AppData/Local/Temp/UnrealShaderWorkingDir/E421BC264C62CA1F80D550847C7E2B15/'.
+[2018.07.02-21.29.42:733][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.02-21.29.46:942][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.02-21.29.47:007][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.02-21.29.47:071][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.02-21.29.47:138][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.02-21.29.47:215][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.02-21.29.47:280][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.02-21.29.47:345][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.02-21.29.47:410][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.02-21.29.47:481][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.02-21.29.47:546][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.02-21.29.47:615][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.02-21.29.47:682][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.02-21.29.47:749][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.02-21.29.47:814][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.02-21.29.47:943][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.02-21.29.47:943][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.02-21.29.48:027][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.02-21.29.48:082][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.02-21.29.48:234][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.02-21.29.48:268][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.02-21.29.48:331][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.02-21.29.48:394][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.02-21.29.48:457][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.02-21.29.48:529][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.02-21.29.48:529][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.02-21.29.49:456][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.02-21.29.50:094][  0]LogDerivedDataCache: Loaded boot cache 0.64s 78MB C:/Users/zkolman/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.07.02-21.29.50:094][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/zkolman/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.07.02-21.29.50:094][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.02-21.29.50:094][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.02-21.29.50:094][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.02-21.29.50:094][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.02-21.29.50:140][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.02-21.29.50:152][  0]LogDerivedDataCache: Using Local data cache path C:/Users/zkolman/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.02-21.29.50:195][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.02-21.29.50:217][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.02-21.29.50:256][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.02-21.29.50:256][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.02-21.29.55:922][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.02-21.29.56:883][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.02-21.29.56:960][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.02-21.29.56:960][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.02-21.29.56:960][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.02-21.29.56:960][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.02-21.29.56:960][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.02-21.29.57:188][  0]LogNetVersion: fpsShooterTest , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3260148410)
+[2018.07.02-21.29.58:170][  0]LogAssetRegistry: FAssetRegistry took 0.0274 seconds to start up
+[2018.07.02-21.30.03:795][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.059347 seconds
+[2018.07.02-21.30.03:843][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.07.02-21.30.03:843][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.07.02-21.30.03:843][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.02-21.30.03:925][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.07.02-21.30.27:197][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.02-21.30.27:256][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.02-21.30.28:978][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.07.02-21.30.30:224][  0]SourceControl: Source control is disabled
+[2018.07.02-21.30.30:224][  0]SourceControl: Source control is disabled
+[2018.07.02-21.30.30:334][  0]SourceControl: Source control is disabled
+[2018.07.02-21.30.30:419][  0]SourceControl: Source control is disabled
+[2018.07.02-21.30.32:196][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.02-21.30.32:604][  0]LogOcInput: OculusInput pre-init called
+[2018.07.02-21.30.33:379][  0]LogEngine: Initializing Engine...
+[2018.07.02-21.30.33:434][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.02-21.30.34:406][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.02-21.30.34:408][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.02-21.30.34:692][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.02-21.30.34:711][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.02-21.30.34:746][  0]LogInit: FAudioDevice initialized.
+[2018.07.02-21.30.34:857][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/zkolman/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.07.02-21.30.34:870][  0]LogInit: Texture streaming: Enabled
+[2018.07.02-21.30.35:080][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.02-21.30.35:319][  0]LogInit: Transaction tracking system initialized
+[2018.07.02-21.30.36:110][  0]BlueprintLog: New page: Editor Load
+[2018.07.02-21.30.37:861][  0]LocalizationService: Localization service is disabled
+[2018.07.02-21.30.39:269][  0]LogConsoleResponse: Display: 
+[2018.07.02-21.30.42:741][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/' took 0.02s
+[2018.07.02-21.30.42:741][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.02-21.30.42:748][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.02-21.30.42:748][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.02-21.30.46:012][  0]SourceControl: Source control is disabled
+[2018.07.02-21.30.46:024][  0]Cmd: MAP LOAD FILE="../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.02-21.30.46:043][  0]LightingResults: New page: Lighting Build
+[2018.07.02-21.30.46:140][  0]MapCheck: New page: Map Check
+[2018.07.02-21.30.46:140][  0]LightingResults: New page: Lighting Build
+[2018.07.02-21.30.51:565][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.02-21.30.51:718][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.02-21.30.51:753][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.02-21.30.51:824][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.266ms to complete.
+[2018.07.02-21.30.51:824][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 5.799
+[2018.07.02-21.30.52:205][  0]LogCollectionManager: Loaded 0 collections in 0.002596 seconds
+[2018.07.02-21.30.52:379][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Collections/' took 0.01s
+[2018.07.02-21.30.52:379][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Developers/zkolman/Collections/' took 0.01s
+[2018.07.02-21.30.52:379][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Collections/' took 0.01s
+[2018.07.02-21.30.52:379][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.07.02-21.30.52:393][  0]LogContentBrowser: Native class hierarchy populated in 0.0121 seconds. Added 2363 classes and 519 folders.
+[2018.07.02-21.30.52:504][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.02-21.30.54:055][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.02-21.30.54:133][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.07.02-21.30.54:350][  0]LogSlate: Took 0.013618 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.02-21.30.54:366][  0]LogSlate: Took 0.013346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.02-21.30.54:393][  0]LogSlate: Took 0.021351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.02-21.30.54:936][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.07.02-21.30.55:070][  0]LogSlate: Took 0.024470 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.02-21.30.55:295][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.07.02-21.30.55:295][  0]LogLoad: (Engine Initialization) Total time: 95.42 seconds
+[2018.07.02-21.30.55:296][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.02-21.30.55:296][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.07.02-21.30.55:307][  0]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2018.07.02-21.30.56:007][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.02-21.30.56:035][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.02-21.30.56:426][  3]LogAssetRegistry: Asset discovery search completed in 58.2768 seconds
+[2018.07.02-21.30.56:428][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.07.02-21.30.56:428][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2018.07.02-21.31.01:154][404]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.02-21.31.01:279][404]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.02-21.31.01:279][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.02-21.31.01:297][404]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 2, 2018, 11:31:01 AM)
+[2018.07.02-21.31.01:297][404]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.02-21.31.01:326][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028632s)
+[2018.07.02-21.31.01:327][404]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.02-21.31.01:327][404]LogPlayLevel: PIE: World Init took: (0.001242s)
+[2018.07.02-21.31.01:327][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.030252s)
+[2018.07.02-21.31.01:342][404]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.02-21.31.01:349][404]LogInit: FAudioDevice initialized.
+[2018.07.02-21.31.01:414][404]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.02-21.31.01:418][404]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.07.02-16.31.01
+[2018.07.02-21.31.01:419][404]LogWorld: Bringing up level for play took: 0.002681
+[2018.07.02-21.31.01:485][404]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.07.02-21.31.01:493][404]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.915
+[2018.07.02-21.31.01:493][404]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.02-21.31.01:551][404]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.07.02-21.31.03:597][477]LogScript: Warning: Attempted to access Icon via property Icon, but Icon is pending kill
+	Pistol_Child_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Pistol_Child_272
+	Function /Game/ThirdPersonBP/Weapons/MasterPickupBP.MasterPickupBP_C:On\OffVisibility\Custom:0062
+[2018.07.02-21.31.03:597][477]PIE: Error: Blueprint Runtime Error: Attempted to access Icon via property Icon, but Icon is pending kill from function: 'On\OffVisibility\Custom' from node: Set Render Custom Depth in graph: On\OffVisibility\Custom in object: MasterPickupBP with description: Attempted to access Icon via property Icon, but Icon is pending kill
+[2018.07.02-21.31.03:597][477]LogScript: Warning: Attempted to access Icon via property Icon, but Icon is pending kill
+	Pistol_Child_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Pistol_Child_272
+	Function /Game/ThirdPersonBP/Weapons/MasterPickupBP.MasterPickupBP_C:On\OffVisibility\Custom:0062
+[2018.07.02-21.31.03:597][477]PIE: Error: Blueprint Runtime Error: Attempted to access Icon via property Icon, but Icon is pending kill from function: 'On\OffVisibility\Custom' from node: Set Render Custom Depth in graph: On\OffVisibility\Custom in object: MasterPickupBP with description: Attempted to access Icon via property Icon, but Icon is pending kill
+[2018.07.02-21.31.06:573][587]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.02-21.31.06:632][587]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.02-21.31.11:425][767]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.02-21.31.11:563][767]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.07.02-21.31.12:085][767]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.02-21.31.12:147][767]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.07.02-21.31.12:400][767]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.07.02-21.31.13:094][767]LogSlate: Took 0.017695 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.02-21.31.13:168][767]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.07.02-21.31.14:486][800]LogRenderer: Reallocating scene render targets to support 1292x888 Format 10 NumSamples 1 (Frame:34).
+[2018.07.02-21.31.33:441][266]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.02-21.31.33:459][266]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.02-21.31.33:459][266]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.02-21.31.33:459][266]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 2, 2018, 11:31:33 AM)
+[2018.07.02-21.31.33:459][266]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.02-21.31.33:481][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021141s)
+[2018.07.02-21.31.33:481][266]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.02-21.31.33:482][266]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2018.07.02-21.31.33:482][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022402s)
+[2018.07.02-21.31.33:525][266]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.02-21.31.33:531][266]LogInit: FAudioDevice initialized.
+[2018.07.02-21.31.33:577][266]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.02-21.31.33:580][266]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.07.02-16.31.33
+[2018.07.02-21.31.33:580][266]LogWorld: Bringing up level for play took: 0.002821
+[2018.07.02-21.31.33:590][266]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.012
+[2018.07.02-21.31.33:590][266]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.02-21.31.35:128][317]LogScript: Warning: Attempted to access Icon via property Icon, but Icon is pending kill
+	Pistol_Child_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Pistol_Child_272
+	Function /Game/ThirdPersonBP/Weapons/MasterPickupBP.MasterPickupBP_C:On\OffVisibility\Custom:0062
+[2018.07.02-21.31.35:129][317]PIE: Error: Blueprint Runtime Error: Attempted to access Icon via property Icon, but Icon is pending kill from function: 'On\OffVisibility\Custom' from node: Set Render Custom Depth in graph: On\OffVisibility\Custom in object: MasterPickupBP with description: Attempted to access Icon via property Icon, but Icon is pending kill
+[2018.07.02-21.31.35:129][317]LogScript: Warning: Attempted to access Icon via property Icon, but Icon is pending kill
+	Pistol_Child_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Pistol_Child_272
+	Function /Game/ThirdPersonBP/Weapons/MasterPickupBP.MasterPickupBP_C:On\OffVisibility\Custom:0062
+[2018.07.02-21.31.35:129][317]PIE: Error: Blueprint Runtime Error: Attempted to access Icon via property Icon, but Icon is pending kill from function: 'On\OffVisibility\Custom' from node: Set Render Custom Depth in graph: On\OffVisibility\Custom in object: MasterPickupBP with description: Attempted to access Icon via property Icon, but Icon is pending kill
+[2018.07.02-21.31.40:437][508]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.02-21.31.40:497][508]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.02-21.31.57:705][115]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/Shooting__1__Anim.Shooting__1__Anim
+[2018.07.02-21.31.57:711][115]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/Shooting__1__Anim.Shooting__1__Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.02-21.31.57:833][115]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.07.02-21.31.57:908][115]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2018.07.02-21.31.58:477][115]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.07.02-21.40.59:340][943]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.02-21.41.08:384][970]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.020
+[2018.07.02-21.41.08:393][970]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mannequin/Animations/Pistol_Idle_Skeleton] ([1] browsable assets)...
+[2018.07.02-21.41.08:393][970]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Pistol_Idle_Skeleton]
+[2018.07.02-21.41.08:471][970]LogSavePackage: Save=4.72ms
+[2018.07.02-21.41.08:471][970]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Pistol_Idle_Skeleton_Auto1AB5BD92C471710E1550EDC80814DF03F.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Animations/Pistol_Idle_Skeleton_Auto1.uasset'
+[2018.07.02-21.41.08:472][970]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Animations/Pistol_Idle_Skeleton_Auto1.uasset
+[2018.07.02-21.41.08:473][970]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/Pistol_Idle] ([1] browsable assets)...
+[2018.07.02-21.41.08:600][970]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Mannequin/Animations/Pistol_Idle.Pistol_Idle]
+[2018.07.02-21.41.08:600][970]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Pistol_Idle]
+[2018.07.02-21.41.08:665][970]LogSavePackage: Save=28.89ms
+[2018.07.02-21.41.08:666][970]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Pistol_Idle_Auto143CC486046CC1E78BCA1879202AC301F.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Animations/Pistol_Idle_Auto1.uasset'
+[2018.07.02-21.41.08:668][970]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Animations/Pistol_Idle_Auto1.uasset
+[2018.07.02-21.41.08:669][970]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/WXPistol] ([1] browsable assets)...
+[2018.07.02-21.41.08:709][970]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/ThirdPersonBP/WXPistol.WXPistol]
+[2018.07.02-21.41.08:709][970]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/WXPistol]
+[2018.07.02-21.41.08:752][970]LogSavePackage: Save=10.67ms
+[2018.07.02-21.41.08:753][970]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/WXPistol_Auto130CBB8D24E5F833A13AB81878EE2F47C.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ThirdPersonBP/WXPistol_Auto1.uasset'
+[2018.07.02-21.41.08:754][970]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ThirdPersonBP/WXPistol_Auto1.uasset
+[2018.07.02-21.41.08:755][970]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/Shooting__1__Anim] ([1] browsable assets)...
+[2018.07.02-21.41.08:796][970]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Mannequin/Animations/Shooting__1__Anim.Shooting__1__Anim]
+[2018.07.02-21.41.08:796][970]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Shooting__1__Anim]
+[2018.07.02-21.41.08:845][970]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/Shooting__1__Anim.Shooting__1__Anim
+[2018.07.02-21.41.08:846][970]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Shooting__1__Anim) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.02-21.41.08:859][970]LogSavePackage: Save=29.83ms
+[2018.07.02-21.41.08:859][970]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Shooting__1__Anim_Auto1E907EE8C491A27CA8B8689A05E5E02E9.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Animations/Shooting__1__Anim_Auto1.uasset'
+[2018.07.02-21.41.08:861][970]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Animations/Shooting__1__Anim_Auto1.uasset
+[2018.07.02-21.41.08:861][970]LogFileHelpers: Auto-saving content packages took 0.476
+[2018.07.02-21.52.27:655][101]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.02-21.52.27:675][101]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.02-21.52.27:675][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.02-21.52.27:675][101]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 2, 2018, 11:52:27 AM)
+[2018.07.02-21.52.27:675][101]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.02-21.52.27:699][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023678s)
+[2018.07.02-21.52.27:700][101]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.02-21.52.27:701][101]LogPlayLevel: PIE: World Init took: (0.001507s)
+[2018.07.02-21.52.27:701][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025656s)
+[2018.07.02-21.52.27:730][101]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.02-21.52.27:737][101]LogInit: FAudioDevice initialized.
+[2018.07.02-21.52.27:789][101]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.02-21.52.27:791][101]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.07.02-16.52.27
+[2018.07.02-21.52.27:792][101]LogWorld: Bringing up level for play took: 0.002487
+[2018.07.02-21.52.27:802][101]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.792
+[2018.07.02-21.52.27:803][101]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.02-21.52.35:979][277]LogScript: Warning: Attempted to access Icon via property Icon, but Icon is pending kill
+	Pistol_Child_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Pistol_Child_272
+	Function /Game/ThirdPersonBP/Weapons/MasterPickupBP.MasterPickupBP_C:On\OffVisibility\Custom:0062
+[2018.07.02-21.52.35:979][277]PIE: Error: Blueprint Runtime Error: Attempted to access Icon via property Icon, but Icon is pending kill from function: 'On\OffVisibility\Custom' from node: Set Render Custom Depth in graph: On\OffVisibility\Custom in object: MasterPickupBP with description: Attempted to access Icon via property Icon, but Icon is pending kill
+[2018.07.02-21.52.35:979][277]LogScript: Warning: Attempted to access Icon via property Icon, but Icon is pending kill
+	Pistol_Child_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Pistol_Child_272
+	Function /Game/ThirdPersonBP/Weapons/MasterPickupBP.MasterPickupBP_C:On\OffVisibility\Custom:0062
+[2018.07.02-21.52.35:979][277]PIE: Error: Blueprint Runtime Error: Attempted to access Icon via property Icon, but Icon is pending kill from function: 'On\OffVisibility\Custom' from node: Set Render Custom Depth in graph: On\OffVisibility\Custom in object: MasterPickupBP with description: Attempted to access Icon via property Icon, but Icon is pending kill
+[2018.07.02-21.52.38:471][331]LogScript: Warning: Attempted to access Icon via property Icon, but Icon is pending kill
+	Rifle_Child_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Rifle_Child_387
+	Function /Game/ThirdPersonBP/Weapons/MasterPickupBP.MasterPickupBP_C:On\OffVisibility\Custom:0062
+[2018.07.02-21.52.38:471][331]PIE: Error: Blueprint Runtime Error: Attempted to access Icon via property Icon, but Icon is pending kill from function: 'On\OffVisibility\Custom' from node: Set Render Custom Depth in graph: On\OffVisibility\Custom in object: MasterPickupBP with description: Attempted to access Icon via property Icon, but Icon is pending kill
+[2018.07.02-21.52.38:471][331]LogScript: Warning: Attempted to access Icon via property Icon, but Icon is pending kill
+	Rifle_Child_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Rifle_Child_387
+	Function /Game/ThirdPersonBP/Weapons/MasterPickupBP.MasterPickupBP_C:On\OffVisibility\Custom:0062
+[2018.07.02-21.52.38:471][331]PIE: Error: Blueprint Runtime Error: Attempted to access Icon via property Icon, but Icon is pending kill from function: 'On\OffVisibility\Custom' from node: Set Render Custom Depth in graph: On\OffVisibility\Custom in object: MasterPickupBP with description: Attempted to access Icon via property Icon, but Icon is pending kill
+[2018.07.02-21.52.46:023][495]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.02-21.52.46:074][495]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.02-21.52.49:705][595]LogRenderer: Reallocating scene render targets to support 1292x888 Format 9 NumSamples 1 (Frame:4752).
+[2018.07.02-21.52.49:801][597]LogContentStreaming: Texture pool size now 600 MB
+[2018.07.02-21.52.50:526][624]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.02-21.52.50:550][624]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.02-21.52.50:550][624]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.02-21.52.50:550][624]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 2, 2018, 11:52:50 AM)
+[2018.07.02-21.52.50:550][624]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.02-21.52.50:570][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019735s)
+[2018.07.02-21.52.50:571][624]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.02-21.52.50:571][624]LogPlayLevel: PIE: World Init took: (0.001202s)
+[2018.07.02-21.52.50:571][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021350s)
+[2018.07.02-21.52.50:595][624]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.02-21.52.50:603][624]LogInit: FAudioDevice initialized.
+[2018.07.02-21.52.50:650][624]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.02-21.52.50:652][624]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.07.02-16.52.50
+[2018.07.02-21.52.50:653][624]LogWorld: Bringing up level for play took: 0.002363
+[2018.07.02-21.52.50:663][624]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.068
+[2018.07.02-21.52.50:663][624]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.02-21.52.54:235][721]LogScript: Warning: Attempted to access Icon via property Icon, but Icon is pending kill
+	Pistol_Child_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Pistol_Child_272
+	Function /Game/ThirdPersonBP/Weapons/MasterPickupBP.MasterPickupBP_C:On\OffVisibility\Custom:0062
+[2018.07.02-21.52.54:235][721]PIE: Error: Blueprint Runtime Error: Attempted to access Icon via property Icon, but Icon is pending kill from function: 'On\OffVisibility\Custom' from node: Set Render Custom Depth in graph: On\OffVisibility\Custom in object: MasterPickupBP with description: Attempted to access Icon via property Icon, but Icon is pending kill
+[2018.07.02-21.52.56:468][785]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.02-21.52.56:519][785]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.02-21.53.00:216][903]LogLinker: Warning: Asset '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Materials/PP_Outliner_Inst.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.07.02-21.53.00:231][903]LogLinker: Warning: Asset '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Materials/PP_Outliner_M.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.07.02-21.53.00:258][903]LogLinker: Warning: Asset '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Materials/MF_ConvolveTexture.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.07.02-21.53.00:281][903]LogLinker: Warning: Asset '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Materials/MF_ExtractDepth.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.07.02-21.53.00:293][903]LogLinker: Warning: Asset '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Materials/MF_SampleSceneTextureNeighbourUVs.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.07.02-21.53.00:916][903]LogAIModule: Creating AISystem for world DarkMap
+[2018.07.02-21.53.02:934][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/Pistol_Idle" FILE="../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Animations/Pistol_Idle.uasset" SILENT=true
+[2018.07.02-21.53.02:992][903]LogSavePackage: Save=19.13ms
+[2018.07.02-21.53.02:992][903]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Pistol_IdleDF41FE254CA6FE9B3122B196849B668E.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Animations/Pistol_Idle.uasset'
+[2018.07.02-21.53.02:995][903]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Animations/Pistol_Idle.uasset
+[2018.07.02-21.53.03:034][903]LogSavePackage: Save=4.77ms
+[2018.07.02-21.53.03:034][903]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Pistol_Idle_Skeleton483D5BCC4A1F3EE9163BDDA45B9B33B3.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Animations/Pistol_Idle_Skeleton.uasset'
+[2018.07.02-21.53.03:037][903]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Animations/Pistol_Idle_Skeleton.uasset
+[2018.07.02-21.53.03:074][903]LogSavePackage: Save=3.68ms
+[2018.07.02-21.53.03:074][903]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Shooting__1__AnimAF5FE76B4D7337619ECA21938410520E.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Animations/Shooting__1__Anim.uasset'
+[2018.07.02-21.53.03:077][903]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Animations/Shooting__1__Anim.uasset
+[2018.07.02-21.53.03:077][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/WXPistol" FILE="../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/ThirdPersonBP/WXPistol.uasset" SILENT=true
+[2018.07.02-21.53.03:115][903]LogSavePackage: Save=3.23ms
+[2018.07.02-21.53.03:115][903]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/WXPistol232D10B94C8B42634E06B69A95E47DCE.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/ThirdPersonBP/WXPistol.uasset'
+[2018.07.02-21.53.03:118][903]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/ThirdPersonBP/WXPistol.uasset
+[2018.07.02-21.53.03:120][903]Cmd: MAP LOAD FILE="../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Maps/DarkMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.02-21.53.03:120][903]LightingResults: New page: Lighting Build
+[2018.07.02-21.53.03:121][903]LoadErrors: New page: Loading map: DarkMap.umap
+[2018.07.02-21.53.03:122][903]MapCheck: New page: Map Check
+[2018.07.02-21.53.03:122][903]LightingResults: New page: Lighting Build
+[2018.07.02-21.53.03:151][903]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.02-21.53.03:203][903]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.02-21.53.03:289][903]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 85.965ms to complete.
+[2018.07.02-21.53.03:289][903]LogFileHelpers: Loading map 'DarkMap' took 0.171
+[2018.07.02-21.53.23:529][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\zkolman\Downloads\Mutant Walking.fbx)
+[2018.07.02-21.53.23:647][344]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.07.02-21.53.23:647][344]LogFbx: ItemName: NodeAttribute, ItemCount : 33
+[2018.07.02-21.53.23:647][344]LogFbx: ItemName: Model, ItemCount : 35
+[2018.07.02-21.53.23:647][344]LogFbx: ItemName: Material, ItemCount : 10
+[2018.07.02-21.53.23:647][344]LogFbx: ItemName: Geometry, ItemCount : 2
+[2018.07.02-21.53.23:647][344]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.07.02-21.53.23:647][344]LogFbx: ItemName: Deformer, ItemCount : 30
+[2018.07.02-21.53.23:647][344]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.07.02-21.53.23:647][344]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.07.02-21.53.23:647][344]LogFbx: ItemName: AnimationCurveNode, ItemCount : 30
+[2018.07.02-21.53.23:647][344]LogFbx: ItemName: AnimationCurve, ItemCount : 171
+[2018.07.02-21.53.23:676][344]LogFbx: Loading FBX Scene from C:\Users\zkolman\Downloads\Mutant Walking.fbx
+[2018.07.02-21.53.23:706][344]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.02-21.53.34:838][344]LogFbx: Loading FBX Scene from C:\Users\zkolman\Downloads\Mutant Walking.fbx
+[2018.07.02-21.53.34:860][344]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.02-21.53.34:875][344]LogFbx: =================================================
+[2018.07.02-21.53.34:875][344]LogFbx: Dumping Node START [default] 
+[2018.07.02-21.53.34:875][344]LogFbx: 	Total Deformer Count -1961005440.
+[2018.07.02-21.53.34:875][344]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.07.02-21.53.34:875][344]LogFbx: =================================================
+[2018.07.02-21.53.34:875][344]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2018.07.02-21.53.34:875][344]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2018.07.02-21.53.34:875][344]LogFbx: Dumping Node END [default]
+[2018.07.02-21.53.34:875][344]LogFbx: =================================================
+[2018.07.02-21.53.34:875][344]LogFbx: Dumping Node START [polySurface2] 
+[2018.07.02-21.53.34:876][344]LogFbx: 	Total Deformer Count -1399111376.
+[2018.07.02-21.53.34:876][344]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.07.02-21.53.34:876][344]LogFbx: =================================================
+[2018.07.02-21.53.34:876][344]LogFbx: 	Attribute (polySurface2mesh) Type (4).
+[2018.07.02-21.53.34:876][344]LogFbx: 		[Node Attribute Child 1] polySurface2 (Type Mesh).
+[2018.07.02-21.53.34:876][344]LogFbx: Dumping Node END [polySurface2]
+[2018.07.02-21.53.34:876][344]LogFbx: =================================================
+[2018.07.02-21.53.34:876][344]LogFbx: Dumping Node START [default] 
+[2018.07.02-21.53.34:876][344]LogFbx: 	Total Deformer Count -1961001296.
+[2018.07.02-21.53.34:876][344]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.07.02-21.53.34:876][344]LogFbx: =================================================
+[2018.07.02-21.53.34:876][344]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2018.07.02-21.53.34:876][344]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2018.07.02-21.53.34:876][344]LogFbx: Dumping Node END [default]
+[2018.07.02-21.53.34:876][344]LogFbx: =================================================
+[2018.07.02-21.53.34:876][344]LogFbx: Dumping Node START [polySurface2] 
+[2018.07.02-21.53.34:876][344]LogFbx: 	Total Deformer Count -1399105776.
+[2018.07.02-21.53.34:876][344]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.07.02-21.53.34:876][344]LogFbx: =================================================
+[2018.07.02-21.53.34:876][344]LogFbx: 	Attribute (polySurface2mesh) Type (4).
+[2018.07.02-21.53.34:876][344]LogFbx: 		[Node Attribute Child 1] polySurface2 (Type Mesh).
+[2018.07.02-21.53.34:876][344]LogFbx: Dumping Node END [polySurface2]
+[2018.07.02-21.53.34:884][344]LogFbx: Valid bind pose for Pose (BindPose) - polySurface2
+[2018.07.02-21.53.34:902][344]LogLinker: Can't find file '/Game/Mannequin/Boss/blinn1SGmat'
+[2018.07.02-21.53.34:902][344]LogLinker: Can't find file '/Game/Mannequin/Boss/blinn1SGmat'
+[2018.07.02-21.53.34:904][344]LogMaterial: Warning: Material /Game/Mannequin/Boss/blinn1SGmat.blinn1SGmat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.07.02-21.53.34:915][344]LogMaterial: Missing cached shader map for material blinn1SGmat, compiling. 
+[2018.07.02-21.53.35:056][344]LogMaterial: Missing cached shader map for material blinn1SGmat, compiling. 
+[2018.07.02-21.53.35:118][344]LogLinker: Can't find file '/Game/Mannequin/Boss/blinn2SGmat'
+[2018.07.02-21.53.35:118][344]LogLinker: Can't find file '/Game/Mannequin/Boss/blinn2SGmat'
+[2018.07.02-21.53.35:119][344]LogMaterial: Warning: Material /Game/Mannequin/Boss/blinn2SGmat.blinn2SGmat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.07.02-21.53.35:121][344]LogMaterial: Missing cached shader map for material blinn2SGmat, compiling. 
+[2018.07.02-21.53.35:182][344]LogMaterial: Missing cached shader map for material blinn2SGmat, compiling. 
+[2018.07.02-21.53.35:242][344]LogLinker: Can't find file '/Game/Mannequin/Boss/lambert2SGmat'
+[2018.07.02-21.53.35:242][344]LogLinker: Can't find file '/Game/Mannequin/Boss/lambert2SGmat'
+[2018.07.02-21.53.35:243][344]LogMaterial: Warning: Material /Game/Mannequin/Boss/lambert2SGmat.lambert2SGmat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.07.02-21.53.35:246][344]LogMaterial: Missing cached shader map for material lambert2SGmat, compiling. 
+[2018.07.02-21.53.35:308][344]LogMaterial: Missing cached shader map for material lambert2SGmat, compiling. 
+[2018.07.02-21.53.35:375][344]LogLinker: Can't find file '/Game/Mannequin/Boss/lambert3SGmat'
+[2018.07.02-21.53.35:375][344]LogLinker: Can't find file '/Game/Mannequin/Boss/lambert3SGmat'
+[2018.07.02-21.53.35:376][344]LogMaterial: Warning: Material /Game/Mannequin/Boss/lambert3SGmat.lambert3SGmat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.07.02-21.53.35:421][344]LogMaterial: Missing cached shader map for material lambert3SGmat, compiling. 
+[2018.07.02-21.53.35:502][344]LogMaterial: Missing cached shader map for material lambert3SGmat, compiling. 
+[2018.07.02-21.53.35:564][344]LogLinker: Can't find file '/Game/Mannequin/Boss/lambert4SGmat'
+[2018.07.02-21.53.35:564][344]LogLinker: Can't find file '/Game/Mannequin/Boss/lambert4SGmat'
+[2018.07.02-21.53.35:565][344]LogMaterial: Warning: Material /Game/Mannequin/Boss/lambert4SGmat.lambert4SGmat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.07.02-21.53.35:622][344]LogMaterial: Missing cached shader map for material lambert4SGmat, compiling. 
+[2018.07.02-21.53.35:745][344]LogMaterial: Missing cached shader map for material lambert4SGmat, compiling. 
+[2018.07.02-21.53.35:813][344]LogLinker: Can't find file '/Game/Mannequin/Boss/lambert5SGmat'
+[2018.07.02-21.53.35:813][344]LogLinker: Can't find file '/Game/Mannequin/Boss/lambert5SGmat'
+[2018.07.02-21.53.35:814][344]LogMaterial: Warning: Material /Game/Mannequin/Boss/lambert5SGmat.lambert5SGmat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.07.02-21.53.35:889][344]LogMaterial: Missing cached shader map for material lambert5SGmat, compiling. 
+[2018.07.02-21.53.35:951][344]LogMaterial: Missing cached shader map for material lambert5SGmat, compiling. 
+[2018.07.02-21.53.36:013][344]LogLinker: Can't find file '/Game/Mannequin/Boss/lambert6SGmat'
+[2018.07.02-21.53.36:013][344]LogLinker: Can't find file '/Game/Mannequin/Boss/lambert6SGmat'
+[2018.07.02-21.53.36:014][344]LogMaterial: Warning: Material /Game/Mannequin/Boss/lambert6SGmat.lambert6SGmat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.07.02-21.53.36:016][344]LogMaterial: Missing cached shader map for material lambert6SGmat, compiling. 
+[2018.07.02-21.53.36:083][344]LogMaterial: Missing cached shader map for material lambert6SGmat, compiling. 
+[2018.07.02-21.53.36:157][344]LogLinker: Can't find file '/Game/Mannequin/Boss/lambert7SGmat'
+[2018.07.02-21.53.36:157][344]LogLinker: Can't find file '/Game/Mannequin/Boss/lambert7SGmat'
+[2018.07.02-21.53.36:158][344]LogMaterial: Warning: Material /Game/Mannequin/Boss/lambert7SGmat.lambert7SGmat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.07.02-21.53.36:161][344]LogMaterial: Missing cached shader map for material lambert7SGmat, compiling. 
+[2018.07.02-21.53.36:242][344]LogMaterial: Missing cached shader map for material lambert7SGmat, compiling. 
+[2018.07.02-21.53.36:314][344]LogLinker: Can't find file '/Game/Mannequin/Boss/phong1SGmat'
+[2018.07.02-21.53.36:314][344]LogLinker: Can't find file '/Game/Mannequin/Boss/phong1SGmat'
+[2018.07.02-21.53.36:315][344]LogMaterial: Warning: Material /Game/Mannequin/Boss/phong1SGmat.phong1SGmat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.07.02-21.53.36:319][344]LogMaterial: Missing cached shader map for material phong1SGmat, compiling. 
+[2018.07.02-21.53.36:407][344]LogMaterial: Missing cached shader map for material phong1SGmat, compiling. 
+[2018.07.02-21.53.36:500][344]LogFbx: Triangulating skeletal mesh polySurface2
+[2018.07.02-21.53.36:714][344]LogFbx: Warning: Bones digested - 33  Depth of hierarchy - 12
+[2018.07.02-21.53.36:974][344]LogSkeletalMesh: Section 0: 316 vertices, 5 active bones
+[2018.07.02-21.53.36:974][344]LogSkeletalMesh: Section 1: 439 vertices, 2 active bones
+[2018.07.02-21.53.36:974][344]LogSkeletalMesh: Section 2: 970 vertices, 28 active bones
+[2018.07.02-21.53.36:974][344]LogSkeletalMesh: Section 3: 115 vertices, 14 active bones
+[2018.07.02-21.53.36:974][344]LogSkeletalMesh: Section 4: 31 vertices, 7 active bones
+[2018.07.02-21.53.36:975][344]LogSkeletalMesh: Section 5: 439 vertices, 2 active bones
+[2018.07.02-21.53.36:975][344]LogSkeletalMesh: Section 6: 439 vertices, 2 active bones
+[2018.07.02-21.53.36:975][344]LogSkeletalMesh: Section 7: 439 vertices, 2 active bones
+[2018.07.02-21.53.36:975][344]LogSkeletalMesh: Section 8: 439 vertices, 2 active bones
+[2018.07.02-21.53.37:794][344]LogSkeletalMesh: Section 0: Material=0, 515 triangles
+[2018.07.02-21.53.37:794][344]LogSkeletalMesh: Section 1: Material=1, 760 triangles
+[2018.07.02-21.53.37:794][344]LogSkeletalMesh: Section 2: Material=2, 1628 triangles
+[2018.07.02-21.53.37:794][344]LogSkeletalMesh: Section 3: Material=3, 152 triangles
+[2018.07.02-21.53.37:794][344]LogSkeletalMesh: Section 4: Material=4, 28 triangles
+[2018.07.02-21.53.37:794][344]LogSkeletalMesh: Section 5: Material=5, 760 triangles
+[2018.07.02-21.53.37:794][344]LogSkeletalMesh: Section 6: Material=6, 760 triangles
+[2018.07.02-21.53.37:794][344]LogSkeletalMesh: Section 7: Material=7, 760 triangles
+[2018.07.02-21.53.37:794][344]LogSkeletalMesh: Section 8: Material=8, 760 triangles
+[2018.07.02-21.53.37:833][344]LogLinker: Can't find file '/Game/Mannequin/Boss/Mutant_Walking_Skeleton'
+[2018.07.02-21.53.37:834][344]LogLinker: Can't find file '/Game/Mannequin/Boss/Mutant_Walking_Skeleton'
+[2018.07.02-21.53.37:841][344]LogLinker: Can't find file '/Game/Mannequin/Boss/Mutant_Walking_PhysicsAsset'
+[2018.07.02-21.53.37:841][344]LogLinker: Can't find file '/Game/Mannequin/Boss/Mutant_Walking_PhysicsAsset'
+[2018.07.02-21.53.37:892][344]LogFbx: =================================================
+[2018.07.02-21.53.37:892][344]LogFbx: Dumping Node START [default] 
+[2018.07.02-21.53.37:892][344]LogFbx: 	Total Deformer Count -1714711376.
+[2018.07.02-21.53.37:892][344]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.07.02-21.53.37:892][344]LogFbx: =================================================
+[2018.07.02-21.53.37:892][344]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2018.07.02-21.53.37:892][344]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2018.07.02-21.53.37:892][344]LogFbx: Dumping Node END [default]
+[2018.07.02-21.53.37:892][344]LogFbx: =================================================
+[2018.07.02-21.53.37:892][344]LogFbx: Dumping Node START [polySurface2] 
+[2018.07.02-21.53.37:892][344]LogFbx: 	Total Deformer Count -1706084064.
+[2018.07.02-21.53.37:892][344]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.07.02-21.53.37:892][344]LogFbx: =================================================
+[2018.07.02-21.53.37:892][344]LogFbx: 	Attribute (polySurface2mesh) Type (4).
+[2018.07.02-21.53.37:892][344]LogFbx: 		[Node Attribute Child 1] polySurface2 (Type Mesh).
+[2018.07.02-21.53.37:892][344]LogFbx: Dumping Node END [polySurface2]
+[2018.07.02-21.53.37:893][344]LogFbx: =================================================
+[2018.07.02-21.53.37:893][344]LogFbx: Dumping Node START [default] 
+[2018.07.02-21.53.37:893][344]LogFbx: 	Total Deformer Count -1714711488.
+[2018.07.02-21.53.37:893][344]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.07.02-21.53.37:893][344]LogFbx: =================================================
+[2018.07.02-21.53.37:893][344]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2018.07.02-21.53.37:893][344]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2018.07.02-21.53.37:893][344]LogFbx: Dumping Node END [default]
+[2018.07.02-21.53.37:893][344]LogFbx: =================================================
+[2018.07.02-21.53.37:893][344]LogFbx: Dumping Node START [polySurface2] 
+[2018.07.02-21.53.37:893][344]LogFbx: 	Total Deformer Count -1706084384.
+[2018.07.02-21.53.37:893][344]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.07.02-21.53.37:893][344]LogFbx: =================================================
+[2018.07.02-21.53.37:893][344]LogFbx: 	Attribute (polySurface2mesh) Type (4).
+[2018.07.02-21.53.37:893][344]LogFbx: 		[Node Attribute Child 1] polySurface2 (Type Mesh).
+[2018.07.02-21.53.37:893][344]LogFbx: Dumping Node END [polySurface2]
+[2018.07.02-21.53.37:895][344]LogFbx: SortedLinks :(0) Hips
+[2018.07.02-21.53.37:895][344]LogFbx: SortedLinks :(1) Spine
+[2018.07.02-21.53.37:895][344]LogFbx: SortedLinks :(2) Spine1
+[2018.07.02-21.53.37:895][344]LogFbx: SortedLinks :(3) Spine2
+[2018.07.02-21.53.37:895][344]LogFbx: SortedLinks :(4) Neck
+[2018.07.02-21.53.37:895][344]LogFbx: SortedLinks :(5) Head
+[2018.07.02-21.53.37:895][344]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.07.02-21.53.37:895][344]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.07.02-21.53.37:895][344]LogFbx: SortedLinks :(8) LeftArm
+[2018.07.02-21.53.37:895][344]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.07.02-21.53.37:895][344]LogFbx: SortedLinks :(10) LeftHand
+[2018.07.02-21.53.37:895][344]LogFbx: SortedLinks :(11) LeftHandIndex1
+[2018.07.02-21.53.37:895][344]LogFbx: SortedLinks :(12) LeftHandIndex2
+[2018.07.02-21.53.37:895][344]LogFbx: SortedLinks :(13) LeftHandIndex3
+[2018.07.02-21.53.37:895][344]LogFbx: SortedLinks :(14) LeftHandIndex4
+[2018.07.02-21.53.37:895][344]LogFbx: SortedLinks :(15) RightShoulder
+[2018.07.02-21.53.37:895][344]LogFbx: SortedLinks :(16) RightArm
+[2018.07.02-21.53.37:895][344]LogFbx: SortedLinks :(17) RightForeArm
+[2018.07.02-21.53.37:896][344]LogFbx: SortedLinks :(18) RightHand
+[2018.07.02-21.53.37:896][344]LogFbx: SortedLinks :(19) RightHandIndex1
+[2018.07.02-21.53.37:896][344]LogFbx: SortedLinks :(20) RightHandIndex2
+[2018.07.02-21.53.37:896][344]LogFbx: SortedLinks :(21) RightHandIndex3
+[2018.07.02-21.53.37:896][344]LogFbx: SortedLinks :(22) RightHandIndex4
+[2018.07.02-21.53.37:896][344]LogFbx: SortedLinks :(23) LeftUpLeg
+[2018.07.02-21.53.37:896][344]LogFbx: SortedLinks :(24) LeftLeg
+[2018.07.02-21.53.37:896][344]LogFbx: SortedLinks :(25) LeftFoot
+[2018.07.02-21.53.37:896][344]LogFbx: SortedLinks :(26) LeftToeBase
+[2018.07.02-21.53.37:896][344]LogFbx: SortedLinks :(27) LeftToe_End
+[2018.07.02-21.53.37:896][344]LogFbx: SortedLinks :(28) RightUpLeg
+[2018.07.02-21.53.37:896][344]LogFbx: SortedLinks :(29) RightLeg
+[2018.07.02-21.53.37:896][344]LogFbx: SortedLinks :(30) RightFoot
+[2018.07.02-21.53.37:896][344]LogFbx: SortedLinks :(31) RightToeBase
+[2018.07.02-21.53.37:896][344]LogFbx: SortedLinks :(32) RightToe_End
+[2018.07.02-21.53.37:914][344]LogFbx: Parsing AnimStack mixamo.com
+[2018.07.02-21.53.37:942][344]LogLinker: Can't find file '/Game/Mannequin/Boss/Mutant_Walking_Anim'
+[2018.07.02-21.53.37:942][344]LogLinker: Can't find file '/Game/Mannequin/Boss/Mutant_Walking_Anim'
+[2018.07.02-21.53.38:133][344]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Boss/Mutant_Walking_Anim.Mutant_Walking_Anim
+[2018.07.02-21.53.38:134][344]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Mutant_Walking_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.02-21.53.38:159][344]FBXImport: Warning: Ignoring mesh default because it but no weights. 
+[2018.07.02-21.53.38:159][344]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.02-21.53.38:159][344]FBXImport: Warning: Ignoring mesh default because it but no weights. 
+[2018.07.02-21.53.41:992][434]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.02-21.53.42:032][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.02-21.53.42:032][434]PIE: New page: PIE session: DarkMap (Jul 2, 2018, 11:53:42 AM)
+[2018.07.02-21.53.42:032][434]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DarkMap
+[2018.07.02-21.53.42:052][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019566s)
+[2018.07.02-21.53.42:054][434]LogAIModule: Creating AISystem for world DarkMap
+[2018.07.02-21.53.42:054][434]LogPlayLevel: PIE: World Init took: (0.002037s)
+[2018.07.02-21.53.42:055][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DarkMap.DarkMap to /Game/Maps/UEDPIE_0_DarkMap.DarkMap (0.022360s)
+[2018.07.02-21.53.42:115][434]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.02-21.53.42:132][434]LogInit: FAudioDevice initialized.
+[2018.07.02-21.53.42:204][434]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.02-21.53.42:210][434]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DarkMap.DarkMap up for play (max tick rate 0) at 2018.07.02-16.53.42
+[2018.07.02-21.53.42:210][434]LogWorld: Bringing up level for play took: 0.005510
+[2018.07.02-21.53.42:229][434]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DarkMap -0.366
+[2018.07.02-21.53.48:126][561]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.02-21.53.48:160][561]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.02-21.53.48:160][561]PIE: New page: PIE session: DarkMap (Jul 2, 2018, 11:53:48 AM)
+[2018.07.02-21.53.48:160][561]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DarkMap
+[2018.07.02-21.53.48:181][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020584s)
+[2018.07.02-21.53.48:183][561]LogAIModule: Creating AISystem for world DarkMap
+[2018.07.02-21.53.48:183][561]LogPlayLevel: PIE: World Init took: (0.002226s)
+[2018.07.02-21.53.48:184][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DarkMap.DarkMap to /Game/Maps/UEDPIE_0_DarkMap.DarkMap (0.023502s)
+[2018.07.02-21.53.48:219][561]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.02-21.53.48:236][561]LogInit: FAudioDevice initialized.
+[2018.07.02-21.53.48:308][561]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.02-21.53.48:314][561]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DarkMap.DarkMap up for play (max tick rate 0) at 2018.07.02-16.53.48
+[2018.07.02-21.53.48:315][561]LogWorld: Bringing up level for play took: 0.006302
+[2018.07.02-21.53.48:336][561]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DarkMap -0.26
+[2018.07.02-21.53.54:185][649]LogScript: Warning: Attempted to access Icon via property Icon, but Icon is pending kill
+	Pistol_Child_C /Game/Maps/UEDPIE_0_DarkMap.DarkMap:PersistentLevel.Pistol_Child_345
+	Function /Game/ThirdPersonBP/Weapons/MasterPickupBP.MasterPickupBP_C:On\OffVisibility\Custom:0062
+[2018.07.02-21.53.54:185][649]PIE: Error: Blueprint Runtime Error: Attempted to access Icon via property Icon, but Icon is pending kill from function: 'On\OffVisibility\Custom' from node: Set Render Custom Depth in graph: On\OffVisibility\Custom in object: MasterPickupBP with description: Attempted to access Icon via property Icon, but Icon is pending kill
+[2018.07.02-21.53.54:185][649]LogScript: Warning: Attempted to access Icon via property Icon, but Icon is pending kill
+	Pistol_Child_C /Game/Maps/UEDPIE_0_DarkMap.DarkMap:PersistentLevel.Pistol_Child_345
+	Function /Game/ThirdPersonBP/Weapons/MasterPickupBP.MasterPickupBP_C:On\OffVisibility\Custom:0062
+[2018.07.02-21.53.54:185][649]PIE: Error: Blueprint Runtime Error: Attempted to access Icon via property Icon, but Icon is pending kill from function: 'On\OffVisibility\Custom' from node: Set Render Custom Depth in graph: On\OffVisibility\Custom in object: MasterPickupBP with description: Attempted to access Icon via property Icon, but Icon is pending kill
+[2018.07.02-21.54.37:851][841]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.02-21.54.37:870][841]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.02-21.54.37:870][841]PIE: New page: PIE session: DarkMap (Jul 2, 2018, 11:54:37 AM)
+[2018.07.02-21.54.37:870][841]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DarkMap
+[2018.07.02-21.54.37:879][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008308s)
+[2018.07.02-21.54.37:879][841]LogAIModule: Creating AISystem for world DarkMap
+[2018.07.02-21.54.37:880][841]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2018.07.02-21.54.37:880][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DarkMap.DarkMap to /Game/Maps/UEDPIE_0_DarkMap.DarkMap (0.009389s)
+[2018.07.02-21.54.37:900][841]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.02-21.54.37:908][841]LogInit: FAudioDevice initialized.
+[2018.07.02-21.54.37:957][841]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.02-21.54.37:961][841]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DarkMap.DarkMap up for play (max tick rate 0) at 2018.07.02-16.54.37
+[2018.07.02-21.54.37:961][841]LogWorld: Bringing up level for play took: 0.003627
+[2018.07.02-21.54.37:969][841]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DarkMap -0.627
+[2018.07.02-21.54.41:198][913]LogScript: Warning: Attempted to access Icon via property Icon, but Icon is pending kill
+	Pistol_Child_C /Game/Maps/UEDPIE_0_DarkMap.DarkMap:PersistentLevel.Pistol_Child_345
+	Function /Game/ThirdPersonBP/Weapons/MasterPickupBP.MasterPickupBP_C:On\OffVisibility\Custom:0062
+[2018.07.02-21.54.41:198][913]PIE: Error: Blueprint Runtime Error: Attempted to access Icon via property Icon, but Icon is pending kill from function: 'On\OffVisibility\Custom' from node: Set Render Custom Depth in graph: On\OffVisibility\Custom in object: MasterPickupBP with description: Attempted to access Icon via property Icon, but Icon is pending kill
+[2018.07.02-21.54.59:967][367]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.07.02-21.55.00:863][367]LogSlate: Took 0.013706 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.02-21.55.22:998][109]LogAnimation: Warning: AnimBP HueyBP_C is incompatible with skeleton Mutant_Walking_Skeleton, removing AnimBP from actor.
+[2018.07.02-21.55.22:999][109]LogAnimation: Warning: AnimBP HueyBP_C is incompatible with skeleton Mutant_Walking_Skeleton, removing AnimBP from actor.
+[2018.07.02-21.55.22:999][109]LogAnimation: Warning: AnimBP HueyBP_C is incompatible with skeleton Mutant_Walking_Skeleton, removing AnimBP from actor.
+[2018.07.02-21.55.45:616][163]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.07.02-21.55.46:856][175]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.02-21.55.46:886][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.02-21.55.46:886][175]PIE: New page: PIE session: DarkMap (Jul 2, 2018, 11:55:46 AM)
+[2018.07.02-21.55.46:886][175]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DarkMap
+[2018.07.02-21.55.46:894][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007875s)
+[2018.07.02-21.55.46:895][175]LogAIModule: Creating AISystem for world DarkMap
+[2018.07.02-21.55.46:895][175]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2018.07.02-21.55.46:895][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DarkMap.DarkMap to /Game/Maps/UEDPIE_0_DarkMap.DarkMap (0.008884s)
+[2018.07.02-21.55.46:919][175]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.02-21.55.46:926][175]LogInit: FAudioDevice initialized.
+[2018.07.02-21.55.46:972][175]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.02-21.55.46:975][175]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DarkMap.DarkMap up for play (max tick rate 0) at 2018.07.02-16.55.46
+[2018.07.02-21.55.46:976][175]LogWorld: Bringing up level for play took: 0.003445
+[2018.07.02-21.55.46:985][175]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DarkMap 0.389
+[2018.07.02-21.56.03:148][833]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.07.02-21.56.04:003][834]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.02-21.56.04:025][834]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.02-21.56.04:025][834]PIE: New page: PIE session: DarkMap (Jul 2, 2018, 11:56:04 AM)
+[2018.07.02-21.56.04:025][834]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DarkMap
+[2018.07.02-21.56.04:034][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008251s)
+[2018.07.02-21.56.04:034][834]LogAIModule: Creating AISystem for world DarkMap
+[2018.07.02-21.56.04:035][834]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2018.07.02-21.56.04:035][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DarkMap.DarkMap to /Game/Maps/UEDPIE_0_DarkMap.DarkMap (0.009387s)
+[2018.07.02-21.56.04:057][834]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.02-21.56.04:064][834]LogInit: FAudioDevice initialized.
+[2018.07.02-21.56.04:110][834]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.02-21.56.04:114][834]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DarkMap.DarkMap up for play (max tick rate 0) at 2018.07.02-16.56.04
+[2018.07.02-21.56.04:114][834]LogWorld: Bringing up level for play took: 0.003564
+[2018.07.02-21.56.04:124][834]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DarkMap -0.473
+[2018.07.02-21.57.39:035][969]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.07.02-21.57.40:270][989]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.02-21.57.40:291][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.02-21.57.40:291][989]PIE: New page: PIE session: DarkMap (Jul 2, 2018, 11:57:40 AM)
+[2018.07.02-21.57.40:291][989]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DarkMap
+[2018.07.02-21.57.40:299][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007901s)
+[2018.07.02-21.57.40:300][989]LogAIModule: Creating AISystem for world DarkMap
+[2018.07.02-21.57.40:300][989]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2018.07.02-21.57.40:300][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DarkMap.DarkMap to /Game/Maps/UEDPIE_0_DarkMap.DarkMap (0.008963s)
+[2018.07.02-21.57.40:323][989]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.02-21.57.40:330][989]LogInit: FAudioDevice initialized.
+[2018.07.02-21.57.40:376][989]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.02-21.57.40:380][989]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DarkMap.DarkMap up for play (max tick rate 0) at 2018.07.02-16.57.40
+[2018.07.02-21.57.40:380][989]LogWorld: Bringing up level for play took: 0.003442
+[2018.07.02-21.57.40:389][989]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DarkMap -0.21
+[2018.07.02-21.57.44:427][122]LogScript: Warning: Attempted to access Icon via property Icon, but Icon is pending kill
+	Pistol_Child_C /Game/Maps/UEDPIE_0_DarkMap.DarkMap:PersistentLevel.Pistol_Child_345
+	Function /Game/ThirdPersonBP/Weapons/MasterPickupBP.MasterPickupBP_C:On\OffVisibility\Custom:0062
+[2018.07.02-21.57.44:427][122]PIE: Error: Blueprint Runtime Error: Attempted to access Icon via property Icon, but Icon is pending kill from function: 'On\OffVisibility\Custom' from node: Set Render Custom Depth in graph: On\OffVisibility\Custom in object: MasterPickupBP with description: Attempted to access Icon via property Icon, but Icon is pending kill
+[2018.07.02-21.57.44:427][122]LogScript: Warning: Attempted to access Icon via property Icon, but Icon is pending kill
+	Pistol_Child_C /Game/Maps/UEDPIE_0_DarkMap.DarkMap:PersistentLevel.Pistol_Child_345
+	Function /Game/ThirdPersonBP/Weapons/MasterPickupBP.MasterPickupBP_C:On\OffVisibility\Custom:0062
+[2018.07.02-21.57.44:427][122]PIE: Error: Blueprint Runtime Error: Attempted to access Icon via property Icon, but Icon is pending kill from function: 'On\OffVisibility\Custom' from node: Set Render Custom Depth in graph: On\OffVisibility\Custom in object: MasterPickupBP with description: Attempted to access Icon via property Icon, but Icon is pending kill
+[2018.07.02-22.03.54:112][633]BlueprintLog: New page: Compile Pistol_Child
+[2018.07.02-22.03.55:031][651]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.02-22.03.55:057][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.02-22.03.55:057][651]PIE: New page: PIE session: DarkMap (Jul 2, 2018, 12:03:55 PM)
+[2018.07.02-22.03.55:057][651]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DarkMap
+[2018.07.02-22.03.55:065][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008086s)
+[2018.07.02-22.03.55:066][651]LogAIModule: Creating AISystem for world DarkMap
+[2018.07.02-22.03.55:066][651]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2018.07.02-22.03.55:066][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DarkMap.DarkMap to /Game/Maps/UEDPIE_0_DarkMap.DarkMap (0.009175s)
+[2018.07.02-22.03.55:091][651]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.02-22.03.55:098][651]LogInit: FAudioDevice initialized.
+[2018.07.02-22.03.55:138][651]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.02-22.03.55:142][651]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DarkMap.DarkMap up for play (max tick rate 0) at 2018.07.02-17.03.55
+[2018.07.02-22.03.55:143][651]LogWorld: Bringing up level for play took: 0.003495
+[2018.07.02-22.03.55:149][651]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DarkMap 0.542
+[2018.07.02-22.03.58:957][758]LogScript: Warning: Attempted to access Icon via property Icon, but Icon is pending kill
+	Pistol_Child_C /Game/Maps/UEDPIE_0_DarkMap.DarkMap:PersistentLevel.Pistol_Child_345
+	Function /Game/ThirdPersonBP/Weapons/MasterPickupBP.MasterPickupBP_C:On\OffVisibility\Custom:0062
+[2018.07.02-22.03.58:957][758]PIE: Error: Blueprint Runtime Error: Attempted to access Icon via property Icon, but Icon is pending kill from function: 'On\OffVisibility\Custom' from node: Set Render Custom Depth in graph: On\OffVisibility\Custom in object: MasterPickupBP with description: Attempted to access Icon via property Icon, but Icon is pending kill
+[2018.07.02-22.03.58:957][758]LogScript: Warning: Attempted to access Icon via property Icon, but Icon is pending kill
+	Pistol_Child_C /Game/Maps/UEDPIE_0_DarkMap.DarkMap:PersistentLevel.Pistol_Child_345
+	Function /Game/ThirdPersonBP/Weapons/MasterPickupBP.MasterPickupBP_C:On\OffVisibility\Custom:0062
+[2018.07.02-22.03.58:957][758]PIE: Error: Blueprint Runtime Error: Attempted to access Icon via property Icon, but Icon is pending kill from function: 'On\OffVisibility\Custom' from node: Set Render Custom Depth in graph: On\OffVisibility\Custom in object: MasterPickupBP with description: Attempted to access Icon via property Icon, but Icon is pending kill
+[2018.07.02-22.04.37:577][158]BlueprintLog: New page: Compile Pistol_Child
+[2018.07.02-22.04.38:093][158]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.02-22.04.38:118][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.02-22.04.38:118][158]PIE: New page: PIE session: DarkMap (Jul 2, 2018, 12:04:38 PM)
+[2018.07.02-22.04.38:118][158]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DarkMap
+[2018.07.02-22.04.38:126][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007911s)
+[2018.07.02-22.04.38:127][158]LogAIModule: Creating AISystem for world DarkMap
+[2018.07.02-22.04.38:127][158]LogPlayLevel: PIE: World Init took: (0.000747s)
+[2018.07.02-22.04.38:127][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DarkMap.DarkMap to /Game/Maps/UEDPIE_0_DarkMap.DarkMap (0.008936s)
+[2018.07.02-22.04.38:151][158]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.02-22.04.38:157][158]LogInit: FAudioDevice initialized.
+[2018.07.02-22.04.38:197][158]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.02-22.04.38:201][158]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DarkMap.DarkMap up for play (max tick rate 0) at 2018.07.02-17.04.38
+[2018.07.02-22.04.38:201][158]LogWorld: Bringing up level for play took: 0.003493
+[2018.07.02-22.04.38:208][158]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DarkMap -0.401
+[2018.07.02-22.04.42:055][288]LogScript: Warning: Attempted to access Icon via property Icon, but Icon is pending kill
+	Pistol_Child_C /Game/Maps/UEDPIE_0_DarkMap.DarkMap:PersistentLevel.Pistol_Child_345
+	Function /Game/ThirdPersonBP/Weapons/MasterPickupBP.MasterPickupBP_C:On\OffVisibility\Custom:0062
+[2018.07.02-22.04.42:055][288]PIE: Error: Blueprint Runtime Error: Attempted to access Icon via property Icon, but Icon is pending kill from function: 'On\OffVisibility\Custom' from node: Set Render Custom Depth in graph: On\OffVisibility\Custom in object: MasterPickupBP with description: Attempted to access Icon via property Icon, but Icon is pending kill
+[2018.07.02-22.06.03:265][738]BlueprintLog: New page: Compile Pistol_Child
+[2018.07.02-22.06.03:993][749]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.02-22.06.04:018][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.02-22.06.04:018][749]PIE: New page: PIE session: DarkMap (Jul 2, 2018, 12:06:04 PM)
+[2018.07.02-22.06.04:018][749]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DarkMap
+[2018.07.02-22.06.04:026][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008143s)
+[2018.07.02-22.06.04:027][749]LogAIModule: Creating AISystem for world DarkMap
+[2018.07.02-22.06.04:027][749]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2018.07.02-22.06.04:027][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DarkMap.DarkMap to /Game/Maps/UEDPIE_0_DarkMap.DarkMap (0.009201s)
+[2018.07.02-22.06.04:051][749]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.02-22.06.04:058][749]LogInit: FAudioDevice initialized.
+[2018.07.02-22.06.04:101][749]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.02-22.06.04:105][749]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DarkMap.DarkMap up for play (max tick rate 0) at 2018.07.02-17.06.04
+[2018.07.02-22.06.04:106][749]LogWorld: Bringing up level for play took: 0.003513
+[2018.07.02-22.06.04:112][749]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DarkMap -0.498
+[2018.07.02-22.06.07:564][858]LogScript: Warning: Attempted to access Icon via property Icon, but Icon is pending kill
+	Pistol_Child_C /Game/Maps/UEDPIE_0_DarkMap.DarkMap:PersistentLevel.Pistol_Child_345
+	Function /Game/ThirdPersonBP/Weapons/MasterPickupBP.MasterPickupBP_C:On\OffVisibility\Custom:0062
+[2018.07.02-22.06.07:565][858]PIE: Error: Blueprint Runtime Error: Attempted to access Icon via property Icon, but Icon is pending kill from function: 'On\OffVisibility\Custom' from node: Set Render Custom Depth in graph: On\OffVisibility\Custom in object: MasterPickupBP with description: Attempted to access Icon via property Icon, but Icon is pending kill
+[2018.07.02-22.07.02:683][196]LogSavePackage: Save=92.73ms
+[2018.07.02-22.07.02:683][196]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/DarkMap_Auto220EE3C78447DB996D24F629B39FB7AB8.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Maps/DarkMap_Auto2.umap'
+[2018.07.02-22.07.02:686][196]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Maps/DarkMap_Auto2.umap
+[2018.07.02-22.07.02:688][196]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/DarkMap' took 0.156
+[2018.07.02-22.07.02:688][196]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.156
+[2018.07.02-22.07.02:690][196]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Boss/Mutant_Walking] ([1] browsable assets)...
+[2018.07.02-22.07.02:705][196]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Mannequin/Boss/Mutant_Walking.Mutant_Walking]
+[2018.07.02-22.07.02:705][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Boss/Mutant_Walking]
+[2018.07.02-22.07.02:723][196]LogSavePackage: Save=16.54ms
+[2018.07.02-22.07.02:723][196]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Mutant_Walking_Auto2BB8AF24A4F7C89AAF98D0DAD7E218006.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Boss/Mutant_Walking_Auto2.uasset'
+[2018.07.02-22.07.02:725][196]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Boss/Mutant_Walking_Auto2.uasset
+[2018.07.02-22.07.02:726][196]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.07.02-22.07.02:740][196]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.07.02-22.07.02:740][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.07.02-22.07.03:194][196]LogSavePackage: Save=419.66ms
+[2018.07.02-22.07.03:194][196]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/ThirdPersonCharacter_Auto2EE1E88724EA23B6DE5D51CAE3D0B56A2.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2018.07.02-22.07.03:214][196]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset
+[2018.07.02-22.07.03:215][196]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Weapons/Pistol_Child] ([1] browsable assets)...
+[2018.07.02-22.07.03:229][196]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Weapons/Pistol_Child.Pistol_Child]
+[2018.07.02-22.07.03:230][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Weapons/Pistol_Child]
+[2018.07.02-22.07.03:290][196]LogSavePackage: Save=27.19ms
+[2018.07.02-22.07.03:290][196]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Pistol_Child_Auto282B3FBEB457AE3B2EB4EBBA4308C0A12.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ThirdPersonBP/Weapons/Pistol_Child_Auto2.uasset'
+[2018.07.02-22.07.03:292][196]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ThirdPersonBP/Weapons/Pistol_Child_Auto2.uasset
+[2018.07.02-22.07.03:292][196]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Boss/blinn1SGmat] ([1] browsable assets)...
+[2018.07.02-22.07.03:307][196]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Boss/blinn1SGmat.blinn1SGmat]
+[2018.07.02-22.07.03:307][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Boss/blinn1SGmat]
+[2018.07.02-22.07.03:332][196]LogSavePackage: Save=23.70ms
+[2018.07.02-22.07.03:332][196]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/blinn1SGmat_Auto25238DD864EB3E05FF4E4D4BD8313F7FA.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Boss/blinn1SGmat_Auto2.uasset'
+[2018.07.02-22.07.03:334][196]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Boss/blinn1SGmat_Auto2.uasset
+[2018.07.02-22.07.03:334][196]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Boss/blinn2SGmat] ([1] browsable assets)...
+[2018.07.02-22.07.03:355][196]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Boss/blinn2SGmat.blinn2SGmat]
+[2018.07.02-22.07.03:355][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Boss/blinn2SGmat]
+[2018.07.02-22.07.03:366][196]LogSavePackage: Save=9.83ms
+[2018.07.02-22.07.03:366][196]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/blinn2SGmat_Auto218C308524C3276CA70F9E0B8C74FB0F0.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Boss/blinn2SGmat_Auto2.uasset'
+[2018.07.02-22.07.03:368][196]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Boss/blinn2SGmat_Auto2.uasset
+[2018.07.02-22.07.03:368][196]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Boss/lambert2SGmat] ([1] browsable assets)...
+[2018.07.02-22.07.03:383][196]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Boss/lambert2SGmat.lambert2SGmat]
+[2018.07.02-22.07.03:383][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Boss/lambert2SGmat]
+[2018.07.02-22.07.03:394][196]LogSavePackage: Save=9.89ms
+[2018.07.02-22.07.03:394][196]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/lambert2SGmat_Auto2211B8FE54331AEC81FDC5E98A8A8DD34.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Boss/lambert2SGmat_Auto2.uasset'
+[2018.07.02-22.07.03:396][196]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Boss/lambert2SGmat_Auto2.uasset
+[2018.07.02-22.07.03:397][196]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Boss/lambert3SGmat] ([1] browsable assets)...
+[2018.07.02-22.07.03:412][196]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Boss/lambert3SGmat.lambert3SGmat]
+[2018.07.02-22.07.03:412][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Boss/lambert3SGmat]
+[2018.07.02-22.07.03:423][196]LogSavePackage: Save=10.02ms
+[2018.07.02-22.07.03:423][196]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/lambert3SGmat_Auto2861977294369BEB7FDA631967B3E363D.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Boss/lambert3SGmat_Auto2.uasset'
+[2018.07.02-22.07.03:425][196]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Boss/lambert3SGmat_Auto2.uasset
+[2018.07.02-22.07.03:425][196]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Boss/lambert4SGmat] ([1] browsable assets)...
+[2018.07.02-22.07.03:440][196]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Boss/lambert4SGmat.lambert4SGmat]
+[2018.07.02-22.07.03:440][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Boss/lambert4SGmat]
+[2018.07.02-22.07.03:451][196]LogSavePackage: Save=9.79ms
+[2018.07.02-22.07.03:451][196]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/lambert4SGmat_Auto220B593AC4C64A72723A2CFA4E43F6FBE.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Boss/lambert4SGmat_Auto2.uasset'
+[2018.07.02-22.07.03:452][196]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Boss/lambert4SGmat_Auto2.uasset
+[2018.07.02-22.07.03:453][196]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Boss/lambert5SGmat] ([1] browsable assets)...
+[2018.07.02-22.07.03:467][196]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Boss/lambert5SGmat.lambert5SGmat]
+[2018.07.02-22.07.03:468][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Boss/lambert5SGmat]
+[2018.07.02-22.07.03:480][196]LogSavePackage: Save=10.52ms
+[2018.07.02-22.07.03:480][196]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/lambert5SGmat_Auto24A9E59AE430E74A3F0C0CE9687B23179.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Boss/lambert5SGmat_Auto2.uasset'
+[2018.07.02-22.07.03:482][196]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Boss/lambert5SGmat_Auto2.uasset
+[2018.07.02-22.07.03:483][196]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Boss/lambert6SGmat] ([1] browsable assets)...
+[2018.07.02-22.07.03:496][196]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Boss/lambert6SGmat.lambert6SGmat]
+[2018.07.02-22.07.03:496][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Boss/lambert6SGmat]
+[2018.07.02-22.07.03:507][196]LogSavePackage: Save=9.79ms
+[2018.07.02-22.07.03:507][196]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/lambert6SGmat_Auto294586A0C46E660915020A4A519EFA651.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Boss/lambert6SGmat_Auto2.uasset'
+[2018.07.02-22.07.03:509][196]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Boss/lambert6SGmat_Auto2.uasset
+[2018.07.02-22.07.03:509][196]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Boss/lambert7SGmat] ([1] browsable assets)...
+[2018.07.02-22.07.03:524][196]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Boss/lambert7SGmat.lambert7SGmat]
+[2018.07.02-22.07.03:524][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Boss/lambert7SGmat]
+[2018.07.02-22.07.03:535][196]LogSavePackage: Save=10.07ms
+[2018.07.02-22.07.03:535][196]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/lambert7SGmat_Auto2F39FAA10460E2311245F479359DF22FD.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Boss/lambert7SGmat_Auto2.uasset'
+[2018.07.02-22.07.03:537][196]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Boss/lambert7SGmat_Auto2.uasset
+[2018.07.02-22.07.03:538][196]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Boss/phong1SGmat] ([1] browsable assets)...
+[2018.07.02-22.07.03:552][196]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Boss/phong1SGmat.phong1SGmat]
+[2018.07.02-22.07.03:552][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Boss/phong1SGmat]
+[2018.07.02-22.07.03:563][196]LogSavePackage: Save=10.32ms
+[2018.07.02-22.07.03:563][196]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/phong1SGmat_Auto2A7491A7F4C6D709CA8219B95370DB040.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Boss/phong1SGmat_Auto2.uasset'
+[2018.07.02-22.07.03:565][196]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Boss/phong1SGmat_Auto2.uasset
+[2018.07.02-22.07.03:566][196]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mannequin/Boss/Mutant_Walking_Skeleton] ([1] browsable assets)...
+[2018.07.02-22.07.03:566][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Boss/Mutant_Walking_Skeleton]
+[2018.07.02-22.07.03:568][196]LogSavePackage: Save=1.54ms
+[2018.07.02-22.07.03:568][196]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Mutant_Walking_Skeleton_Auto2384009344D6310F8A7D692A460E7D536.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Boss/Mutant_Walking_Skeleton_Auto2.uasset'
+[2018.07.02-22.07.03:570][196]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Boss/Mutant_Walking_Skeleton_Auto2.uasset
+[2018.07.02-22.07.03:570][196]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Boss/Mutant_Walking_PhysicsAsset] ([1] browsable assets)...
+[2018.07.02-22.07.03:585][196]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Mannequin/Boss/Mutant_Walking_PhysicsAsset.Mutant_Walking_PhysicsAsset]
+[2018.07.02-22.07.03:585][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Boss/Mutant_Walking_PhysicsAsset]
+[2018.07.02-22.07.03:594][196]LogSavePackage: Save=7.40ms
+[2018.07.02-22.07.03:594][196]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Mutant_Walking_PhysicsAsset_Auto6E064A0B4B45A35BE55873BA205F4507.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Boss/Mutant_Walking_PhysicsAsset_Auto2.uasset'
+[2018.07.02-22.07.03:595][196]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Boss/Mutant_Walking_PhysicsAsset_Auto2.uasset
+[2018.07.02-22.07.03:596][196]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Boss/Mutant_Walking_Anim] ([1] browsable assets)...
+[2018.07.02-22.07.03:611][196]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Mannequin/Boss/Mutant_Walking_Anim.Mutant_Walking_Anim]
+[2018.07.02-22.07.03:611][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Boss/Mutant_Walking_Anim]
+[2018.07.02-22.07.03:621][196]LogSavePackage: Save=8.51ms
+[2018.07.02-22.07.03:621][196]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Mutant_Walking_Anim_Auto27DC76FCD4B245447406A418A3B403269.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Boss/Mutant_Walking_Anim_Auto2.uasset'
+[2018.07.02-22.07.03:622][196]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Mannequin/Boss/Mutant_Walking_Anim_Auto2.uasset
+[2018.07.02-22.07.03:622][196]LogFileHelpers: Auto-saving content packages took 0.934
+[2018.07.02-22.09.17:750][651]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.02-22.09.17:779][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.02-22.09.17:779][651]PIE: New page: PIE session: DarkMap (Jul 2, 2018, 12:09:17 PM)
+[2018.07.02-22.09.17:779][651]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DarkMap
+[2018.07.02-22.09.17:787][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008143s)
+[2018.07.02-22.09.17:788][651]LogAIModule: Creating AISystem for world DarkMap
+[2018.07.02-22.09.17:788][651]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2018.07.02-22.09.17:788][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DarkMap.DarkMap to /Game/Maps/UEDPIE_0_DarkMap.DarkMap (0.009348s)
+[2018.07.02-22.09.17:813][651]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.02-22.09.17:820][651]LogInit: FAudioDevice initialized.
+[2018.07.02-22.09.17:865][651]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.02-22.09.17:869][651]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DarkMap.DarkMap up for play (max tick rate 0) at 2018.07.02-17.09.17
+[2018.07.02-22.09.17:869][651]LogWorld: Bringing up level for play took: 0.003610
+[2018.07.02-22.09.17:877][651]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DarkMap -0.735
+[2018.07.02-22.09.21:858][786]LogScript: Warning: Attempted to access Icon via property Icon, but Icon is pending kill
+	Pistol_Child_C /Game/Maps/UEDPIE_0_DarkMap.DarkMap:PersistentLevel.Pistol_Child_345
+	Function /Game/ThirdPersonBP/Weapons/MasterPickupBP.MasterPickupBP_C:On\OffVisibility\Custom:0062
+[2018.07.02-22.09.21:858][786]PIE: Error: Blueprint Runtime Error: Attempted to access Icon via property Icon, but Icon is pending kill from function: 'On\OffVisibility\Custom' from node: Set Render Custom Depth in graph: On\OffVisibility\Custom in object: MasterPickupBP with description: Attempted to access Icon via property Icon, but Icon is pending kill
+[2018.07.02-22.12.09:778][606]BlueprintLog: New page: Compile Pistol_Child
+[2018.07.02-22.12.10:434][613]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.02-22.12.10:458][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.02-22.12.10:459][613]PIE: New page: PIE session: DarkMap (Jul 2, 2018, 12:12:10 PM)
+[2018.07.02-22.12.10:459][613]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DarkMap
+[2018.07.02-22.12.10:467][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008119s)
+[2018.07.02-22.12.10:468][613]LogAIModule: Creating AISystem for world DarkMap
+[2018.07.02-22.12.10:468][613]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2018.07.02-22.12.10:468][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DarkMap.DarkMap to /Game/Maps/UEDPIE_0_DarkMap.DarkMap (0.009252s)
+[2018.07.02-22.12.10:492][613]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.02-22.12.10:499][613]LogInit: FAudioDevice initialized.
+[2018.07.02-22.12.10:537][613]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.02-22.12.10:541][613]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DarkMap.DarkMap up for play (max tick rate 0) at 2018.07.02-17.12.10
+[2018.07.02-22.12.10:541][613]LogWorld: Bringing up level for play took: 0.003526
+[2018.07.02-22.12.10:548][613]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DarkMap -0.067
+[2018.07.02-22.12.14:426][744]LogScript: Warning: Attempted to access Icon via property Icon, but Icon is pending kill
+	Pistol_Child_C /Game/Maps/UEDPIE_0_DarkMap.DarkMap:PersistentLevel.Pistol_Child_345
+	Function /Game/ThirdPersonBP/Weapons/MasterPickupBP.MasterPickupBP_C:On\OffVisibility\Custom:0062
+[2018.07.02-22.12.14:427][744]PIE: Error: Blueprint Runtime Error: Attempted to access Icon via property Icon, but Icon is pending kill from function: 'On\OffVisibility\Custom' from node: Set Render Custom Depth in graph: On\OffVisibility\Custom in object: MasterPickupBP with description: Attempted to access Icon via property Icon, but Icon is pending kill
+[2018.07.02-22.12.14:427][744]LogScript: Warning: Attempted to access Icon via property Icon, but Icon is pending kill
+	Pistol_Child_C /Game/Maps/UEDPIE_0_DarkMap.DarkMap:PersistentLevel.Pistol_Child_345
+	Function /Game/ThirdPersonBP/Weapons/MasterPickupBP.MasterPickupBP_C:On\OffVisibility\Custom:0062
+[2018.07.02-22.12.14:427][744]PIE: Error: Blueprint Runtime Error: Attempted to access Icon via property Icon, but Icon is pending kill from function: 'On\OffVisibility\Custom' from node: Set Render Custom Depth in graph: On\OffVisibility\Custom in object: MasterPickupBP with description: Attempted to access Icon via property Icon, but Icon is pending kill
+[2018.07.02-22.12.22:419][ 69]BlueprintLog: New page: Compile Pistol_Child
+[2018.07.02-22.12.23:291][ 85]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.02-22.12.23:316][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.02-22.12.23:316][ 85]PIE: New page: PIE session: DarkMap (Jul 2, 2018, 12:12:23 PM)
+[2018.07.02-22.12.23:316][ 85]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DarkMap
+[2018.07.02-22.12.23:324][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007826s)
+[2018.07.02-22.12.23:325][ 85]LogAIModule: Creating AISystem for world DarkMap
+[2018.07.02-22.12.23:325][ 85]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2018.07.02-22.12.23:325][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DarkMap.DarkMap to /Game/Maps/UEDPIE_0_DarkMap.DarkMap (0.008788s)
+[2018.07.02-22.12.23:347][ 85]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.02-22.12.23:354][ 85]LogInit: FAudioDevice initialized.
+[2018.07.02-22.12.23:395][ 85]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.02-22.12.23:399][ 85]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DarkMap.DarkMap up for play (max tick rate 0) at 2018.07.02-17.12.23
+[2018.07.02-22.12.23:399][ 85]LogWorld: Bringing up level for play took: 0.003568
+[2018.07.02-22.12.23:405][ 85]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DarkMap 0.79
+[2018.07.02-22.12.27:022][202]LogScript: Warning: Attempted to access Icon via property Icon, but Icon is pending kill
+	Pistol_Child_C /Game/Maps/UEDPIE_0_DarkMap.DarkMap:PersistentLevel.Pistol_Child_345
+	Function /Game/ThirdPersonBP/Weapons/MasterPickupBP.MasterPickupBP_C:On\OffVisibility\Custom:0062
+[2018.07.02-22.12.27:023][202]PIE: Error: Blueprint Runtime Error: Attempted to access Icon via property Icon, but Icon is pending kill from function: 'On\OffVisibility\Custom' from node: Set Render Custom Depth in graph: On\OffVisibility\Custom in object: MasterPickupBP with description: Attempted to access Icon via property Icon, but Icon is pending kill
+[2018.07.02-22.12.44:127][951]BlueprintLog: New page: Compile Pistol_Child
+[2018.07.02-22.12.45:105][972]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.02-22.12.45:129][972]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.02-22.12.45:130][972]PIE: New page: PIE session: DarkMap (Jul 2, 2018, 12:12:45 PM)
+[2018.07.02-22.12.45:130][972]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DarkMap
+[2018.07.02-22.12.45:139][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009697s)
+[2018.07.02-22.12.45:140][972]LogAIModule: Creating AISystem for world DarkMap
+[2018.07.02-22.12.45:140][972]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2018.07.02-22.12.45:141][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DarkMap.DarkMap to /Game/Maps/UEDPIE_0_DarkMap.DarkMap (0.010924s)
+[2018.07.02-22.12.45:165][972]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.02-22.12.45:174][972]LogInit: FAudioDevice initialized.
+[2018.07.02-22.12.45:216][972]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.02-22.12.45:220][972]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DarkMap.DarkMap up for play (max tick rate 0) at 2018.07.02-17.12.45
+[2018.07.02-22.12.45:220][972]LogWorld: Bringing up level for play took: 0.003454
+[2018.07.02-22.12.45:227][972]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DarkMap 0.61
+[2018.07.02-22.12.49:164][105]LogScript: Warning: Attempted to access Icon via property Icon, but Icon is pending kill
+	Pistol_Child_C /Game/Maps/UEDPIE_0_DarkMap.DarkMap:PersistentLevel.Pistol_Child_345
+	Function /Game/ThirdPersonBP/Weapons/MasterPickupBP.MasterPickupBP_C:On\OffVisibility\Custom:0062
+[2018.07.02-22.12.49:164][105]PIE: Error: Blueprint Runtime Error: Attempted to access Icon via property Icon, but Icon is pending kill from function: 'On\OffVisibility\Custom' from node: Set Render Custom Depth in graph: On\OffVisibility\Custom in object: MasterPickupBP with description: Attempted to access Icon via property Icon, but Icon is pending kill
+[2018.07.02-22.16.33:484][ 89]BlueprintLog: New page: Compile Pistol_Child
+[2018.07.02-22.16.34:284][100]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.02-22.16.34:310][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.02-22.16.34:311][100]PIE: New page: PIE session: DarkMap (Jul 2, 2018, 12:16:34 PM)
+[2018.07.02-22.16.34:311][100]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DarkMap
+[2018.07.02-22.16.34:319][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008437s)
+[2018.07.02-22.16.34:320][100]LogAIModule: Creating AISystem for world DarkMap
+[2018.07.02-22.16.34:320][100]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2018.07.02-22.16.34:320][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DarkMap.DarkMap to /Game/Maps/UEDPIE_0_DarkMap.DarkMap (0.009638s)
+[2018.07.02-22.16.34:346][100]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.02-22.16.34:353][100]LogInit: FAudioDevice initialized.
+[2018.07.02-22.16.34:394][100]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.02-22.16.34:398][100]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DarkMap.DarkMap up for play (max tick rate 0) at 2018.07.02-17.16.34
+[2018.07.02-22.16.34:398][100]LogWorld: Bringing up level for play took: 0.003510
+[2018.07.02-22.16.34:405][100]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DarkMap -0.214
+[2018.07.02-22.16.38:013][209]LogScript: Warning: Attempted to access Icon via property Icon, but Icon is pending kill
+	Pistol_Child_C /Game/Maps/UEDPIE_0_DarkMap.DarkMap:PersistentLevel.Pistol_Child_345
+	Function /Game/ThirdPersonBP/Weapons/MasterPickupBP.MasterPickupBP_C:On\OffVisibility\Custom:0062
+[2018.07.02-22.16.38:013][209]PIE: Error: Blueprint Runtime Error: Attempted to access Icon via property Icon, but Icon is pending kill from function: 'On\OffVisibility\Custom' from node: Set Render Custom Depth in graph: On\OffVisibility\Custom in object: MasterPickupBP with description: Attempted to access Icon via property Icon, but Icon is pending kill
+[2018.07.02-22.16.44:686][413]LogEditorTransaction: Undo Modify Component(s)
+[2018.07.02-22.16.44:838][413]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.07.02-22.16.45:341][443]LogEditorTransaction: Undo Edit Intensity
+[2018.07.02-22.16.45:486][443]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.07.02-22.16.46:181][470]LogEditorTransaction: Undo Edit Attenuation Radius
+[2018.07.02-22.16.46:357][470]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.07.02-22.16.49:029][546]BlueprintLog: New page: Compile Pistol_Child
+[2018.07.02-22.16.50:227][570]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.02-22.16.50:252][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.02-22.16.50:252][570]PIE: New page: PIE session: DarkMap (Jul 2, 2018, 12:16:50 PM)
+[2018.07.02-22.16.50:252][570]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DarkMap
+[2018.07.02-22.16.50:260][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007868s)
+[2018.07.02-22.16.50:261][570]LogAIModule: Creating AISystem for world DarkMap
+[2018.07.02-22.16.50:261][570]LogPlayLevel: PIE: World Init took: (0.000694s)
+[2018.07.02-22.16.50:261][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DarkMap.DarkMap to /Game/Maps/UEDPIE_0_DarkMap.DarkMap (0.008834s)
+[2018.07.02-22.16.50:285][570]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.02-22.16.50:292][570]LogInit: FAudioDevice initialized.
+[2018.07.02-22.16.50:334][570]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.02-22.16.50:338][570]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DarkMap.DarkMap up for play (max tick rate 0) at 2018.07.02-17.16.50
+[2018.07.02-22.16.50:338][570]LogWorld: Bringing up level for play took: 0.003556
+[2018.07.02-22.16.50:345][570]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DarkMap -0.275
+[2018.07.02-22.16.55:252][708]LogScript: Warning: Attempted to access Icon via property Icon, but Icon is pending kill
+	Pistol_Child_C /Game/Maps/UEDPIE_0_DarkMap.DarkMap:PersistentLevel.Pistol_Child_345
+	Function /Game/ThirdPersonBP/Weapons/MasterPickupBP.MasterPickupBP_C:On\OffVisibility\Custom:0062
+[2018.07.02-22.16.55:253][708]PIE: Error: Blueprint Runtime Error: Attempted to access Icon via property Icon, but Icon is pending kill from function: 'On\OffVisibility\Custom' from node: Set Render Custom Depth in graph: On\OffVisibility\Custom in object: MasterPickupBP with description: Attempted to access Icon via property Icon, but Icon is pending kill
+[2018.07.02-22.16.55:253][708]LogScript: Warning: Attempted to access Icon via property Icon, but Icon is pending kill
+	Pistol_Child_C /Game/Maps/UEDPIE_0_DarkMap.DarkMap:PersistentLevel.Pistol_Child_345
+	Function /Game/ThirdPersonBP/Weapons/MasterPickupBP.MasterPickupBP_C:On\OffVisibility\Custom:0062
+[2018.07.02-22.16.55:253][708]PIE: Error: Blueprint Runtime Error: Attempted to access Icon via property Icon, but Icon is pending kill from function: 'On\OffVisibility\Custom' from node: Set Render Custom Depth in graph: On\OffVisibility\Custom in object: MasterPickupBP with description: Attempted to access Icon via property Icon, but Icon is pending kill
+[2018.07.02-22.18.44:451][464]LogSavePackage: Save=89.69ms
+[2018.07.02-22.18.44:451][464]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/DarkMap_Auto3C6E3461C4D6820E824FCE18E83A976C3.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Maps/DarkMap_Auto3.umap'
+[2018.07.02-22.18.44:454][464]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Maps/DarkMap_Auto3.umap
+[2018.07.02-22.18.44:455][464]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/DarkMap' took 0.154
+[2018.07.02-22.18.44:455][464]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.154
+[2018.07.02-22.18.44:457][464]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Weapons/Pistol_Child] ([1] browsable assets)...
+[2018.07.02-22.18.44:476][464]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Weapons/Pistol_Child.Pistol_Child]
+[2018.07.02-22.18.44:476][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Weapons/Pistol_Child]
+[2018.07.02-22.18.44:535][464]LogSavePackage: Save=25.27ms
+[2018.07.02-22.18.44:535][464]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Pistol_Child_Auto3D34F6CB744264ED897C5059655885FF5.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ThirdPersonBP/Weapons/Pistol_Child_Auto3.uasset'
+[2018.07.02-22.18.44:545][464]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ThirdPersonBP/Weapons/Pistol_Child_Auto3.uasset
+[2018.07.02-22.18.44:545][464]LogFileHelpers: Auto-saving content packages took 0.088
+[2018.07.02-22.41.44:394][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Boss/blinn1SGmat" FILE="../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/blinn1SGmat.uasset" SILENT=true
+[2018.07.02-22.41.44:407][674]LogSavePackage: Save=10.64ms
+[2018.07.02-22.41.44:407][674]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/blinn1SGmat4FA683C34BE6A0BDFEA6B5868FD92B10.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/blinn1SGmat.uasset'
+[2018.07.02-22.41.44:409][674]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/blinn1SGmat.uasset
+[2018.07.02-22.41.44:429][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Boss/blinn2SGmat" FILE="../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/blinn2SGmat.uasset" SILENT=true
+[2018.07.02-22.41.44:440][674]LogSavePackage: Save=9.92ms
+[2018.07.02-22.41.44:440][674]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/blinn2SGmat1CC9D8CD411FACC81D0EF2A0088973CF.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/blinn2SGmat.uasset'
+[2018.07.02-22.41.44:443][674]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/blinn2SGmat.uasset
+[2018.07.02-22.41.44:461][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Boss/lambert2SGmat" FILE="../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/lambert2SGmat.uasset" SILENT=true
+[2018.07.02-22.41.44:472][674]LogSavePackage: Save=9.79ms
+[2018.07.02-22.41.44:472][674]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/lambert2SGmatA19F8B5C416CB50483E5ABB5661BC197.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/lambert2SGmat.uasset'
+[2018.07.02-22.41.44:475][674]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/lambert2SGmat.uasset
+[2018.07.02-22.41.44:492][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Boss/lambert3SGmat" FILE="../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/lambert3SGmat.uasset" SILENT=true
+[2018.07.02-22.41.44:503][674]LogSavePackage: Save=9.99ms
+[2018.07.02-22.41.44:503][674]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/lambert3SGmat3B537B614524805737EB6A86C9B99ABD.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/lambert3SGmat.uasset'
+[2018.07.02-22.41.44:505][674]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/lambert3SGmat.uasset
+[2018.07.02-22.41.44:527][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Boss/lambert4SGmat" FILE="../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/lambert4SGmat.uasset" SILENT=true
+[2018.07.02-22.41.44:537][674]LogSavePackage: Save=9.73ms
+[2018.07.02-22.41.44:537][674]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/lambert4SGmat282932D64A460E4FE4B076B8278BE812.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/lambert4SGmat.uasset'
+[2018.07.02-22.41.44:540][674]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/lambert4SGmat.uasset
+[2018.07.02-22.41.44:556][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Boss/lambert5SGmat" FILE="../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/lambert5SGmat.uasset" SILENT=true
+[2018.07.02-22.41.44:567][674]LogSavePackage: Save=10.14ms
+[2018.07.02-22.41.44:567][674]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/lambert5SGmatF1A14A2E4FF0E9EB2C8C0D9448765F29.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/lambert5SGmat.uasset'
+[2018.07.02-22.41.44:570][674]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/lambert5SGmat.uasset
+[2018.07.02-22.41.44:586][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Boss/lambert6SGmat" FILE="../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/lambert6SGmat.uasset" SILENT=true
+[2018.07.02-22.41.44:596][674]LogSavePackage: Save=9.63ms
+[2018.07.02-22.41.44:596][674]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/lambert6SGmat102A514B4E0B912AEF0C98A216BFD3B1.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/lambert6SGmat.uasset'
+[2018.07.02-22.41.44:599][674]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/lambert6SGmat.uasset
+[2018.07.02-22.41.44:616][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Boss/lambert7SGmat" FILE="../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/lambert7SGmat.uasset" SILENT=true
+[2018.07.02-22.41.44:627][674]LogSavePackage: Save=10.01ms
+[2018.07.02-22.41.44:627][674]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/lambert7SGmat292470AC491A36AB6FAAFA9BC05A8DCC.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/lambert7SGmat.uasset'
+[2018.07.02-22.41.44:630][674]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/lambert7SGmat.uasset
+[2018.07.02-22.41.44:647][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Boss/Mutant_Walking" FILE="../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/Mutant_Walking.uasset" SILENT=true
+[2018.07.02-22.41.44:665][674]LogSavePackage: Save=16.42ms
+[2018.07.02-22.41.44:665][674]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Mutant_WalkingE459C39F49A4985E525AB38124555A81.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/Mutant_Walking.uasset'
+[2018.07.02-22.41.44:667][674]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/Mutant_Walking.uasset
+[2018.07.02-22.41.44:693][674]LogSavePackage: Save=7.79ms
+[2018.07.02-22.41.44:693][674]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Mutant_Walking_AnimC19BAFED4AAE48D714C1EE88259B6A2F.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/Mutant_Walking_Anim.uasset'
+[2018.07.02-22.41.44:696][674]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/Mutant_Walking_Anim.uasset
+[2018.07.02-22.41.44:725][674]LogSavePackage: Save=6.41ms
+[2018.07.02-22.41.44:725][674]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Mutant_Walking_PhysicsAsset078DD1784FB2180098641393CB2C91DA.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/Mutant_Walking_PhysicsAsset.uasset'
+[2018.07.02-22.41.44:728][674]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/Mutant_Walking_PhysicsAsset.uasset
+[2018.07.02-22.41.44:733][674]LogSavePackage: Save=1.66ms
+[2018.07.02-22.41.44:733][674]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Mutant_Walking_Skeleton17F1B5794DF7C6D9DA3B11B7276CB2A8.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/Mutant_Walking_Skeleton.uasset'
+[2018.07.02-22.41.44:736][674]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/Mutant_Walking_Skeleton.uasset
+[2018.07.02-22.41.44:753][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Boss/phong1SGmat" FILE="../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/phong1SGmat.uasset" SILENT=true
+[2018.07.02-22.41.44:764][674]LogSavePackage: Save=10.14ms
+[2018.07.02-22.41.44:764][674]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/phong1SGmatA5CAF97247D0837E1DC874BB5FB51710.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/phong1SGmat.uasset'
+[2018.07.02-22.41.44:766][674]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Mannequin/Boss/phong1SGmat.uasset
+[2018.07.02-22.41.44:873][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DarkMap" FILE="../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Maps/DarkMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.02-22.41.45:022][674]LogSavePackage: Save=92.10ms
+[2018.07.02-22.41.45:022][674]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/DarkMapE3B8904140F7DAB7174A9D97F7EE1091.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Maps/DarkMap.umap'
+[2018.07.02-22.41.45:025][674]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Maps/DarkMap.umap
+[2018.07.02-22.41.45:061][674]LogFileHelpers: Saving map 'DarkMap' took 0.273
+[2018.07.02-22.41.45:503][674]LogSavePackage: Save=405.67ms
+[2018.07.02-22.41.45:503][674]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/ThirdPersonCharacter388528AB49392F75C2D01EA18ED96633.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.07.02-22.41.45:506][674]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.07.02-22.41.45:563][674]LogSavePackage: Save=20.03ms
+[2018.07.02-22.41.45:563][674]LogSavePackage: Moving '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Pistol_ChildC9AE0D584CFD67250D7C53A5BB206753.tmp' to '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/ThirdPersonBP/Weapons/Pistol_Child.uasset'
+[2018.07.02-22.41.45:566][674]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/ThirdPersonBP/Weapons/Pistol_Child.uasset
+[2018.07.02-22.41.46:105][674]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.02-22.41.46:166][674]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.02-22.41.46:372][675]Cmd: QUIT_EDITOR
+[2018.07.02-22.41.47:249][675]LogExit: Preparing to exit.
+[2018.07.02-22.41.47:646][675]LogDirectoryWatcher: A directory notification for 'C:/Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/' was aborted.
+[2018.07.02-22.41.47:773][675]LogExit: Editor shut down
+[2018.07.02-22.41.47:781][675]LogExit: Transaction tracking system shut down
+[2018.07.02-22.41.48:037][675]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.07.02-22.41.48:037][675]LogDirectoryWatcher: A directory notification for '../../../../Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/' was aborted.
+[2018.07.02-22.41.48:037][675]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.07.02-22.41.48:037][675]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.07.02-22.41.48:037][675]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.07.02-22.41.48:037][675]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.07.02-22.41.48:037][675]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.07.02-22.41.48:363][675]LogExit: Object subsystem successfully closed.
+[2018.07.02-22.41.48:478][675]LogD3D11RHI: Shutdown
+[2018.07.02-22.41.48:478][675]LogD3D11RHI: CleanupD3DDevice
+[2018.07.02-22.41.48:502][675]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.07.02-22.41.48:715][675]LogModuleManager: Shutting down and abandoning module BlueprintGraph (558)
+[2018.07.02-22.41.48:715][675]LogModuleManager: Shutting down and abandoning module AnimationEditor (556)
+[2018.07.02-22.41.48:715][675]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (554)
+[2018.07.02-22.41.48:715][675]LogModuleManager: Shutting down and abandoning module SkeletonEditor (552)
+[2018.07.02-22.41.48:715][675]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (550)
+[2018.07.02-22.41.48:715][675]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.07.02-22.41.48:715][675]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.07.02-22.41.48:715][675]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.07.02-22.41.48:715][675]LogDirectoryWatcher: A directory notification for 'C:/UE_4.18/FeaturePacks/' was aborted.
+[2018.07.02-22.41.48:716][675]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.07.02-22.41.48:716][675]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.07.02-22.41.48:716][675]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.07.02-22.41.48:725][675]LogDirectoryWatcher: A directory notification for 'C:/Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Collections/' was aborted.
+[2018.07.02-22.41.48:725][675]LogDirectoryWatcher: A directory notification for 'C:/Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Content/Developers/zkolman/Collections/' was aborted.
+[2018.07.02-22.41.48:725][675]LogDirectoryWatcher: A directory notification for 'C:/Users/zkolman/Web Xero/TPSProto/TPSTest/fpsShooterTest/Saved/Collections/' was aborted.
+[2018.07.02-22.41.48:725][675]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.07.02-22.41.48:740][675]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.07.02-22.41.48:740][675]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.07.02-22.41.48:748][675]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.07.02-22.41.48:748][675]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.07.02-22.41.48:748][675]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.07.02-22.41.48:748][675]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.07.02-22.41.48:748][675]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.07.02-22.41.48:748][675]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.07.02-22.41.48:748][675]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.07.02-22.41.48:748][675]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.07.02-22.41.48:748][675]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.07.02-22.41.48:748][675]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.07.02-22.41.48:748][675]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.07.02-22.41.48:748][675]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.07.02-22.41.48:757][675]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.07.02-22.41.48:757][675]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.07.02-22.41.48:757][675]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.07.02-22.41.48:757][675]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.07.02-22.41.48:757][675]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.07.02-22.41.48:757][675]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.07.02-22.41.48:757][675]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.07.02-22.41.48:757][675]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.07.02-22.41.48:757][675]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.07.02-22.41.48:757][675]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.07.02-22.41.48:757][675]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.07.02-22.41.48:757][675]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.07.02-22.41.48:757][675]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.07.02-22.41.48:757][675]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.07.02-22.41.48:757][675]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.07.02-22.41.48:757][675]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.07.02-22.41.48:757][675]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.07.02-22.41.48:757][675]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.07.02-22.41.48:757][675]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.07.02-22.41.48:757][675]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.07.02-22.41.48:757][675]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.07.02-22.41.48:761][675]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.07.02-22.41.48:778][675]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.07.02-22.41.48:778][675]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.07.02-22.41.48:778][675]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.07.02-22.41.48:778][675]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.07.02-22.41.48:848][675]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.07.02-22.41.48:848][675]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.07.02-22.41.48:848][675]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.07.02-22.41.48:848][675]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.07.02-22.41.48:848][675]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.07.02-22.41.48:851][675]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.07.02-22.41.48:851][675]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.07.02-22.41.48:851][675]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.07.02-22.41.48:851][675]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.07.02-22.41.48:858][675]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.07.02-22.41.48:858][675]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.07.02-22.41.48:858][675]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.07.02-22.41.48:858][675]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.07.02-22.41.48:858][675]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.07.02-22.41.48:858][675]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.07.02-22.41.48:858][675]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.07.02-22.41.48:858][675]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.07.02-22.41.48:858][675]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.07.02-22.41.48:858][675]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.07.02-22.41.48:858][675]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.07.02-22.41.48:865][675]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.07.02-22.41.48:865][675]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.07.02-22.41.48:865][675]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.07.02-22.41.48:865][675]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.07.02-22.41.48:930][675]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.07.02-22.41.48:938][675]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.07.02-22.41.48:958][675]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.07.02-22.41.48:974][675]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.07.02-22.41.48:974][675]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.07.02-22.41.48:974][675]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.07.02-22.41.48:974][675]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.07.02-22.41.48:978][675]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.07.02-22.41.48:978][675]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.07.02-22.41.48:978][675]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.07.02-22.41.48:989][675]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.07.02-22.41.48:991][675]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.07.02-22.41.48:991][675]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.07.02-22.41.48:991][675]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.07.02-22.41.49:001][675]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.07.02-22.41.49:001][675]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.07.02-22.41.49:010][675]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.07.02-22.41.49:010][675]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.07.02-22.41.49:010][675]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.07.02-22.41.49:010][675]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.07.02-22.41.49:010][675]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.07.02-22.41.49:010][675]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.07.02-22.41.49:010][675]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.07.02-22.41.49:010][675]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.07.02-22.41.49:010][675]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.07.02-22.41.49:010][675]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.07.02-22.41.49:010][675]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.07.02-22.41.49:010][675]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.07.02-22.41.49:010][675]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.07.02-22.41.49:011][675]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.07.02-22.41.49:126][675]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.07.02-22.41.49:126][675]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.07.02-22.41.49:126][675]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.07.02-22.41.49:126][675]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.07.02-22.41.49:126][675]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.07.02-22.41.49:126][675]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.07.02-22.41.49:126][675]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.07.02-22.41.49:126][675]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.07.02-22.41.49:126][675]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.07.02-22.41.49:126][675]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.07.02-22.41.49:126][675]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.07.02-22.41.49:126][675]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.07.02-22.41.49:142][675]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.07.02-22.41.49:142][675]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.07.02-22.41.49:142][675]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.07.02-22.41.49:142][675]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.07.02-22.41.49:145][675]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.07.02-22.41.49:145][675]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.07.02-22.41.49:146][675]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.07.02-22.41.49:146][675]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.07.02-22.41.49:146][675]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.07.02-22.41.49:153][675]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.07.02-22.41.49:157][675]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.07.02-22.41.49:157][675]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.07.02-22.41.49:157][675]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.07.02-22.41.49:157][675]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.07.02-22.41.49:157][675]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.07.02-22.41.49:160][675]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.07.02-22.41.49:160][675]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.07.02-22.41.49:161][675]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.07.02-22.41.49:161][675]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.07.02-22.41.49:161][675]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.07.02-22.41.49:161][675]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.07.02-22.41.49:161][675]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.07.02-22.41.49:161][675]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.07.02-22.41.49:162][675]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.07.02-22.41.49:162][675]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.07.02-22.41.49:162][675]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.07.02-22.41.49:163][675]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.07.02-22.41.49:163][675]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.07.02-22.41.49:163][675]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.07.02-22.41.49:163][675]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.07.02-22.41.49:163][675]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.07.02-22.41.49:163][675]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.07.02-22.41.49:163][675]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.07.02-22.41.49:163][675]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.07.02-22.41.49:263][675]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.07.02-22.41.49:364][675]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.07.02-22.41.49:364][675]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.07.02-22.41.49:364][675]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.07.02-22.41.49:364][675]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.07.02-22.41.49:364][675]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.07.02-22.41.49:364][675]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.07.02-22.41.49:365][675]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.07.02-22.41.49:365][675]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.07.02-22.41.49:365][675]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.07.02-22.41.49:365][675]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.07.02-22.41.49:387][675]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.07.02-22.41.49:387][675]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.07.02-22.41.49:387][675]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.07.02-22.41.49:387][675]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.07.02-22.41.49:392][675]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.07.02-22.41.49:392][675]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.07.02-22.41.49:398][675]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.07.02-22.41.49:398][675]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.07.02-22.41.49:398][675]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.07.02-22.41.49:406][675]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.07.02-22.41.49:407][675]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.07.02-22.41.49:407][675]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.07.02-22.41.49:416][675]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.07.02-22.41.49:416][675]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.07.02-22.41.49:416][675]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.07.02-22.41.49:416][675]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.07.02-22.41.49:416][675]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.07.02-22.41.49:424][675]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.07.02-22.41.49:432][675]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.07.02-22.41.49:432][675]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.07.02-22.41.49:446][675]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.07.02-22.41.49:446][675]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.07.02-22.41.49:448][675]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.07.02-22.41.49:448][675]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.07.02-22.41.49:448][675]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.07.02-22.41.49:448][675]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.07.02-22.41.49:448][675]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.07.02-22.41.49:448][675]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.07.02-22.41.49:448][675]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.07.02-22.41.49:456][675]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.07.02-22.41.49:458][675]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.07.02-22.41.49:458][675]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.07.02-22.41.49:458][675]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.07.02-22.41.49:458][675]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.07.02-22.41.49:458][675]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.07.02-22.41.49:469][675]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.07.02-22.41.49:469][675]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.07.02-22.41.49:469][675]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.07.02-22.41.49:469][675]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.07.02-22.41.49:541][675]LogDerivedDataCache: Shutdown
+[2018.07.02-22.41.49:541][675]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.07.02-22.41.49:541][675]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.07.02-22.41.49:541][675]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.07.02-22.41.49:542][675]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.07.02-22.41.49:553][675]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.07.02-22.41.49:553][675]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.07.02-22.41.49:556][675]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.07.02-22.41.49:557][675]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.07.02-22.41.49:557][675]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.07.02-22.41.49:557][675]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.07.02-22.41.49:557][675]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.07.02-22.41.49:557][675]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.07.02-22.41.49:557][675]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.07.02-22.41.49:557][675]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.07.02-22.41.49:557][675]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.07.02-22.41.49:557][675]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.07.02-22.41.49:557][675]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.07.02-22.41.49:557][675]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.07.02-22.41.49:557][675]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.07.02-22.41.49:557][675]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.07.02-22.41.49:574][675]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.07.02-22.41.49:584][675]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.07.02-22.41.49:584][675]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.07.02-22.41.49:584][675]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B44E7B78F-4DC2-1AA7-15C5-D0BC26CB6F45%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=928a4b954bd2567f1099a4b6c5ec141b%7C755f7370592a4f5da2847d8c01c6faeb%7Cdd0b7a04-c3bd-4817-a4e3-9056ef29b992&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.07.02-22.41.49:599][675]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.07.02-22.41.49:600][675]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.07.02-22.41.49:600][675]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.07.02-22.41.49:600][675]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.07.02-22.41.49:610][675]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.07.02-22.41.49:623][675]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.07.02-22.41.49:623][675]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.07.02-22.41.49:623][675]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.07.02-22.41.49:636][675]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.07.02-22.41.49:648][675]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.07.02-22.41.49:648][675]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.07.02-22.41.49:648][675]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.07.02-22.41.49:648][675]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.07.02-22.41.49:648][675]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.07.02-22.41.49:648][675]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.07.02-22.41.49:648][675]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.07.02-22.41.49:648][675]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.07.02-22.41.49:648][675]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.07.02-22.41.49:648][675]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.07.02-22.41.49:662][675]LogExit: Exiting.
+[2018.07.02-22.41.49:679][675]Log file closed, 07/02/18 17:41:49
