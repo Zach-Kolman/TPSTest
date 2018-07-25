@@ -1,0 +1,1699 @@
+﻿Log file open, 07/25/18 13:17:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: fpsShooterTest
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1386733541) SRandInit(1386733541).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.263566
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.25-18.17.13:617][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.25-18.17.13:617][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.25-18.17.13:647][  0]LogInit: Computer: CDM-TS210WS01
+[2018.07.25-18.17.13:647][  0]LogInit: User: zkolman
+[2018.07.25-18.17.13:647][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.07.25-18.17.13:647][  0]LogInit: High frequency timer resolution =3.117486 MHz
+[2018.07.25-18.17.13:647][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.07.25-18.17.13:647][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.25-18.17.13:647][  0]LogMemory: Process Physical Memory: 274.59 MB used, 274.59 MB peak
+[2018.07.25-18.17.13:647][  0]LogMemory: Process Virtual Memory: 274.51 MB used, 274.51 MB peak
+[2018.07.25-18.17.13:647][  0]LogMemory: Physical Memory: 7122.35 MB used,  9219.41 MB free, 16341.76 MB total
+[2018.07.25-18.17.13:647][  0]LogMemory: Virtual Memory: 654.68 MB used,  9219.41 MB free, 134217728.00 MB total
+[2018.07.25-18.17.14:085][  0]LogInit: Using OS detected language (en-US).
+[2018.07.25-18.17.14:085][  0]LogInit: Using OS detected locale (en-US).
+[2018.07.25-18.17.14:152][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.07.25-18.17.15:580][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.25-18.17.20:842][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.25-18.17.20:861][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 660' (Feature Level 11_0)
+[2018.07.25-18.17.20:861][  0]LogD3D11RHI:       1476/0/2560 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.07.25-18.17.20:863][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.25-18.17.20:863][  0]LogD3D11RHI:       0/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.25-18.17.20:863][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.25-18.17.20:868][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.25-18.17.20:868][  0]LogD3D11RHI:     GPU DeviceId: 0x1185 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.25-18.17.20:868][  0]LogWindows: EnumDisplayDevices:
+[2018.07.25-18.17.20:868][  0]LogWindows:    0. 'NVIDIA GeForce GTX 660' (P:1 D:1)
+[2018.07.25-18.17.20:868][  0]LogWindows:    1. 'NVIDIA GeForce GTX 660' (P:0 D:1)
+[2018.07.25-18.17.20:869][  0]LogWindows:    2. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2018.07.25-18.17.20:869][  0]LogWindows:    3. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2018.07.25-18.17.20:869][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.07.25-18.17.20:869][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 660
+[2018.07.25-18.17.20:869][  0]LogD3D11RHI:   Driver Version: 327.23 (internal:9.18.13.2723, unified:327.23)
+[2018.07.25-18.17.20:869][  0]LogD3D11RHI:      Driver Date: 9-12-2013
+[2018.07.25-18.17.20:869][  0]LogRHI: Texture pool is 1033 MB (70% of 1476 MB)
+[2018.07.25-18.17.20:879][  0]LogD3D11RHI: NvAPI_D3D_GetCurrentSLIState failed: 0xfffffff7
+[2018.07.25-18.17.20:879][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.25-18.17.20:894][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.07.25-18.17.48:858][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.25-18.17.48:859][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Intermediate/Shaders/WorkingDirectory/7276/).
+[2018.07.25-18.17.48:859][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/zkolman/AppData/Local/Temp/UnrealShaderWorkingDir/D5AAC3BD45991CF2C73DA89383A51654/'.
+[2018.07.25-18.17.48:859][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.25-18.17.53:281][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.25-18.17.53:359][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.25-18.17.53:432][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.25-18.17.53:508][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.25-18.17.53:590][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.25-18.17.53:664][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.25-18.17.53:741][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.25-18.17.53:816][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.25-18.17.53:892][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.25-18.17.53:968][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.25-18.17.54:037][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.25-18.17.54:111][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.25-18.17.54:195][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.25-18.17.54:268][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.25-18.17.54:410][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.25-18.17.54:411][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.25-18.17.54:495][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.25-18.17.54:563][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.25-18.17.54:705][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.25-18.17.54:744][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.25-18.17.54:814][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.25-18.17.54:884][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.25-18.17.54:961][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.25-18.17.55:048][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.25-18.17.55:048][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.25-18.17.56:084][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.25-18.17.59:619][  0]LogDerivedDataCache: Loaded boot cache 3.53s 78MB C:/Users/zkolman/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.07.25-18.17.59:619][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/zkolman/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.07.25-18.17.59:619][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.25-18.17.59:619][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.25-18.17.59:619][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.25-18.17.59:619][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.25-18.17.59:673][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.25-18.17.59:685][  0]LogDerivedDataCache: Using Local data cache path C:/Users/zkolman/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.25-18.17.59:697][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.25-18.17.59:698][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.25-18.17.59:725][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.25-18.17.59:725][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.25-18.18.05:861][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.25-18.18.06:605][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.25-18.18.06:674][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.25-18.18.06:674][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.25-18.18.06:674][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.25-18.18.06:674][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.25-18.18.06:674][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.25-18.18.06:736][  0]LogNetVersion: fpsShooterTest , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3260148410)
+[2018.07.25-18.18.07:019][  0]LogAssetRegistry: FAssetRegistry took 0.0269 seconds to start up
+[2018.07.25-18.18.07:952][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.049999 seconds
+[2018.07.25-18.18.07:957][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.07.25-18.18.07:957][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.07.25-18.18.07:957][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.25-18.18.08:042][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.07.25-18.18.47:692][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.25-18.18.47:789][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.25-18.18.49:971][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.07.25-18.18.50:831][  0]SourceControl: Source control is disabled
+[2018.07.25-18.18.50:831][  0]SourceControl: Source control is disabled
+[2018.07.25-18.18.50:942][  0]SourceControl: Source control is disabled
+[2018.07.25-18.18.51:095][  0]SourceControl: Source control is disabled
+[2018.07.25-18.18.53:193][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.25-18.18.53:775][  0]LogOcInput: OculusInput pre-init called
+[2018.07.25-18.18.54:305][  0]LogEngine: Initializing Engine...
+[2018.07.25-18.18.54:317][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.25-18.18.54:610][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.25-18.18.54:610][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.25-18.18.54:943][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.25-18.18.55:108][  0]LogInit: XAudio2 using 'Speakers (3- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.25-18.18.55:119][  0]LogInit: FAudioDevice initialized.
+[2018.07.25-18.18.55:366][  0]LogDerivedDataCache: Saved boot cache 0.25s 78MB C:/Users/zkolman/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.07.25-18.18.55:377][  0]LogInit: Texture streaming: Enabled
+[2018.07.25-18.18.55:569][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.25-18.18.55:767][  0]LogInit: Transaction tracking system initialized
+[2018.07.25-18.18.56:523][  0]BlueprintLog: New page: Editor Load
+[2018.07.25-18.18.58:179][  0]LocalizationService: Localization service is disabled
+[2018.07.25-18.18.59:784][  0]LogConsoleResponse: Display: 
+[2018.07.25-18.19.01:098][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.25-18.19.01:098][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.25-18.19.01:098][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.25-18.19.01:626][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/' took 0.06s
+[2018.07.25-18.19.05:331][  0]SourceControl: Source control is disabled
+[2018.07.25-18.19.05:332][  0]Cmd: MAP LOAD FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.25-18.19.05:332][  0]LightingResults: New page: Lighting Build
+[2018.07.25-18.19.05:393][  0]MapCheck: New page: Map Check
+[2018.07.25-18.19.05:393][  0]LightingResults: New page: Lighting Build
+[2018.07.25-18.19.14:943][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.25-18.19.14:986][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.25-18.19.15:005][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.25-18.19.15:084][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 78.758ms to complete.
+[2018.07.25-18.19.15:084][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 9.752
+[2018.07.25-18.19.15:539][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.25-18.19.16:230][  0]LogCollectionManager: Loaded 0 collections in 0.059170 seconds
+[2018.07.25-18.19.16:481][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Collections/' took 0.01s
+[2018.07.25-18.19.16:481][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/Developers/zkolman/Collections/' took 0.02s
+[2018.07.25-18.19.16:481][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/Collections/' took 0.01s
+[2018.07.25-18.19.16:481][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.25-18.19.16:491][  0]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2363 classes and 519 folders.
+[2018.07.25-18.19.16:592][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.25-18.19.24:725][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.25-18.19.24:800][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.07.25-18.19.24:955][  0]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.25-18.19.24:977][  0]LogSlate: Took 0.019591 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.25-18.19.25:017][  0]LogSlate: Took 0.033130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.25-18.19.25:251][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2018.07.25-18.19.26:007][  0]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.25-18.19.26:226][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.07.25-18.19.26:226][  0]LogLoad: (Engine Initialization) Total time: 180.53 seconds
+[2018.07.25-18.19.26:226][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.25-18.19.26:226][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.07.25-18.19.26:259][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.25-18.19.26:368][  1]LogAssetRegistry: Asset discovery search completed in 79.3699 seconds
+[2018.07.25-18.19.26:370][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.25-18.19.26:370][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000074 seconds (updated 0 objects)
+[2018.07.25-18.19.27:291][ 55]LogSlate: Took 0.000318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.25-18.30.19:588][379]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.25-18.30.19:800][379]LogLinker: Warning: Can't find file '/Game/Mannequin/Animations/ModularShipPieces/Materials/ShipFloorTexture'
+[2018.07.25-18.30.19:801][379]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Animations/ModularShipPieces/Materials/ShipFloorTexture' while loading ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/ModularShipPieces/BaseFloorPeice.uasset.
+[2018.07.25-18.30.19:801][379]LoadErrors: Error: /Game/ModularShipPieces/BaseFloorPeice : Can't find file for asset. /Game/Mannequin/Animations/ModularShipPieces/Materials/ShipFloorTexture
+[2018.07.25-18.30.19:801][379]LogLinker: Warning: Can't find file '/Game/Mannequin/Animations/ModularShipPieces/Materials/ShipFloorTexture'
+[2018.07.25-18.30.19:801][379]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Animations/ModularShipPieces/Materials/ShipFloorTexture' while loading ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/ModularShipPieces/BaseFloorPeice.uasset.
+[2018.07.25-18.30.19:861][379]LogLinker: Warning: Can't find file '/Game/Mannequin/Animations/ModularShipPieces/Materials/InnerCornerWallTexture'
+[2018.07.25-18.30.19:861][379]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Animations/ModularShipPieces/Materials/InnerCornerWallTexture' while loading ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/ModularShipPieces/OuterCornerWall.uasset.
+[2018.07.25-18.30.19:861][379]LoadErrors: Error: /Game/ModularShipPieces/OuterCornerWall : Can't find file for asset. /Game/Mannequin/Animations/ModularShipPieces/Materials/InnerCornerWallTexture
+[2018.07.25-18.30.19:861][379]LogLinker: Warning: Can't find file '/Game/Mannequin/Animations/ModularShipPieces/Materials/InnerCornerWallTexture'
+[2018.07.25-18.30.19:861][379]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Animations/ModularShipPieces/Materials/InnerCornerWallTexture' while loading ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/ModularShipPieces/OuterCornerWall.uasset.
+[2018.07.25-18.30.19:879][379]LogLinker: Warning: Can't find file '/Game/Mannequin/Animations/ModularShipPieces/Materials/ShipWallTexture4'
+[2018.07.25-18.30.19:879][379]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Animations/ModularShipPieces/Materials/ShipWallTexture4' while loading ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/ModularShipPieces/WallPiece.uasset.
+[2018.07.25-18.30.19:879][379]LoadErrors: Error: /Game/ModularShipPieces/WallPiece : Can't find file for asset. /Game/Mannequin/Animations/ModularShipPieces/Materials/ShipWallTexture4
+[2018.07.25-18.30.19:880][379]LogLinker: Warning: Can't find file '/Game/Mannequin/Animations/ModularShipPieces/Materials/ShipWallTexture4'
+[2018.07.25-18.30.19:880][379]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Animations/ModularShipPieces/Materials/ShipWallTexture4' while loading ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/ModularShipPieces/WallPiece.uasset.
+[2018.07.25-18.30.20:026][379]LogLinker: Warning: Can't find file '/Game/Mannequin/Animations/ModularShipPieces/Materials/ShipWallTexture4'
+[2018.07.25-18.30.20:026][379]LoadErrors: Failed to load /Game/Mannequin/Animations/ModularShipPieces/Materials/ShipWallTexture4.ShipWallTexture4 Referenced by WallPiece
+[2018.07.25-18.30.20:026][379]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Animations/ModularShipPieces/Materials/ShipWallTexture4' while loading NULL.
+[2018.07.25-18.30.20:027][379]LogLinker: Warning: Can't find file '/Game/Mannequin/Animations/ModularShipPieces/Materials/ShipWallTexture4'
+[2018.07.25-18.30.20:027][379]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Animations/ModularShipPieces/Materials/ShipWallTexture4' while loading NULL.
+[2018.07.25-18.30.20:061][379]LogLinker: Warning: Can't find file '/Game/Mannequin/Animations/ModularShipPieces/Materials/ShipFloorTexture'
+[2018.07.25-18.30.20:061][379]LoadErrors: Failed to load /Game/Mannequin/Animations/ModularShipPieces/Materials/ShipFloorTexture.ShipFloorTexture Referenced by BaseFloorPeice
+[2018.07.25-18.30.20:061][379]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Animations/ModularShipPieces/Materials/ShipFloorTexture' while loading NULL.
+[2018.07.25-18.30.20:062][379]LogLinker: Warning: Can't find file '/Game/Mannequin/Animations/ModularShipPieces/Materials/ShipFloorTexture'
+[2018.07.25-18.30.20:062][379]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Animations/ModularShipPieces/Materials/ShipFloorTexture' while loading NULL.
+[2018.07.25-18.30.20:064][379]LogLinker: Warning: Can't find file '/Game/Mannequin/Animations/ModularShipPieces/Materials/InnerCornerWallTexture'
+[2018.07.25-18.30.20:064][379]LoadErrors: Failed to load /Game/Mannequin/Animations/ModularShipPieces/Materials/InnerCornerWallTexture.InnerCornerWallTexture Referenced by OuterCornerWall
+[2018.07.25-18.30.20:064][379]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Animations/ModularShipPieces/Materials/InnerCornerWallTexture' while loading NULL.
+[2018.07.25-18.30.20:064][379]LogLinker: Warning: Can't find file '/Game/Mannequin/Animations/ModularShipPieces/Materials/InnerCornerWallTexture'
+[2018.07.25-18.30.20:064][379]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Animations/ModularShipPieces/Materials/InnerCornerWallTexture' while loading NULL.
+[2018.07.25-18.30.20:271][379]LogAIModule: Creating AISystem for world NewShipLevel
+[2018.07.25-18.30.20:346][379]Cmd: MAP LOAD FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/Maps/NewShipLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.25-18.30.20:346][379]LightingResults: New page: Lighting Build
+[2018.07.25-18.30.20:347][379]LoadErrors: New page: Loading map: NewShipLevel.umap
+[2018.07.25-18.30.20:368][379]MapCheck: New page: Map Check
+[2018.07.25-18.30.20:368][379]LightingResults: New page: Lighting Build
+[2018.07.25-18.30.20:542][379]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.25-18.30.20:607][379]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.25-18.30.20:700][379]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 91.803ms to complete.
+[2018.07.25-18.30.20:700][379]LogFileHelpers: Loading map 'NewShipLevel' took 0.355
+[2018.07.25-18.30.26:167][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPiece13)
+[2018.07.25-18.30.28:042][130]Cmd: DELETE
+[2018.07.25-18.30.28:042][130]Cmd: ACTOR DELETE
+[2018.07.25-18.30.28:055][130]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.30.28:069][130]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.07.25-18.30.29:130][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPiece16)
+[2018.07.25-18.30.29:260][260]Cmd: DELETE
+[2018.07.25-18.30.29:260][260]Cmd: ACTOR DELETE
+[2018.07.25-18.30.29:271][260]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.30.29:285][260]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.07.25-18.30.50:524][255]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Users/zkolman/Desktop/Modular Ship Pieces/HighWallPiece.fbx)
+[2018.07.25-18.30.50:530][255]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.07.25-18.30.50:530][255]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.07.25-18.30.50:530][255]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.07.25-18.30.50:530][255]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2018.07.25-18.30.50:530][255]LogFbx: ItemName: Model, ItemCount : 2
+[2018.07.25-18.30.50:531][255]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.07.25-18.30.50:531][255]LogFbx: ItemName: Material, ItemCount : 1
+[2018.07.25-18.30.50:531][255]LogFbx: ItemName: Texture, ItemCount : 1
+[2018.07.25-18.30.50:531][255]LogFbx: ItemName: Video, ItemCount : 1
+[2018.07.25-18.30.50:536][255]LogFbx: Loading FBX Scene from ../../../../Users/zkolman/Desktop/Modular Ship Pieces/HighWallPiece.fbx
+[2018.07.25-18.30.50:543][255]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-18.30.52:615][255]LogFbx: Loading FBX Scene from ../../../../Users/zkolman/Desktop/Modular Ship Pieces/HighWallPiece.fbx
+[2018.07.25-18.30.52:624][255]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-18.30.52:655][255]LogFbx: Warning: Triangulating static mesh polySurface29
+[2018.07.25-18.30.52:716][255]LogStaticMesh: Building static mesh HighWallPiece...
+[2018.07.25-18.30.52:747][255]LogStaticMesh: Built static mesh [0.04s] /Game/ModularShipPieces/HighWallPiece.HighWallPiece
+[2018.07.25-18.30.52:747][255]LogStaticMesh: Warning: HighWallPiece has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.07.25-18.30.52:747][255]LogStaticMesh: Warning: HighWallPiece has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.07.25-18.30.52:832][255]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.25-18.30.52:832][255]FBXImport: Warning: HighWallPiece has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.07.25-18.30.52:832][255]FBXImport: Warning: HighWallPiece has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.07.25-18.30.56:898][619]LogActorFactory: Actor Factory created HighWallPiece
+[2018.07.25-18.30.57:325][659]LogActorFactory: Actor Factory created HighWallPiece
+[2018.07.25-18.30.58:342][740]Cmd: DELETE
+[2018.07.25-18.30.58:359][740]Cmd: ACTOR DELETE
+[2018.07.25-18.30.58:372][740]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.30.58:387][740]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.07.25-18.31.07:086][ 66]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Users/zkolman/Desktop/Modular Ship Pieces/HighWallPiece.fbx)
+[2018.07.25-18.31.07:091][ 66]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.07.25-18.31.07:091][ 66]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.07.25-18.31.07:091][ 66]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.07.25-18.31.07:091][ 66]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2018.07.25-18.31.07:091][ 66]LogFbx: ItemName: Model, ItemCount : 2
+[2018.07.25-18.31.07:092][ 66]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.07.25-18.31.07:092][ 66]LogFbx: ItemName: Material, ItemCount : 1
+[2018.07.25-18.31.07:092][ 66]LogFbx: ItemName: Texture, ItemCount : 1
+[2018.07.25-18.31.07:092][ 66]LogFbx: ItemName: Video, ItemCount : 1
+[2018.07.25-18.31.07:097][ 66]LogFbx: Loading FBX Scene from ../../../../Users/zkolman/Desktop/Modular Ship Pieces/HighWallPiece.fbx
+[2018.07.25-18.31.07:104][ 66]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-18.31.09:780][ 66]LogFbx: Loading FBX Scene from ../../../../Users/zkolman/Desktop/Modular Ship Pieces/HighWallPiece.fbx
+[2018.07.25-18.31.09:787][ 66]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-18.31.09:787][ 66]LogFbx: Warning: Triangulating static mesh polySurface29
+[2018.07.25-18.31.09:789][ 66]LogStaticMesh: Building static mesh HighWallPiece...
+[2018.07.25-18.31.09:790][ 66]LogStaticMesh: Built static mesh [0.00s] /Game/ModularShipPieces/HighWallPiece.HighWallPiece
+[2018.07.25-18.31.09:790][ 66]LogStaticMesh: Warning: HighWallPiece has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.07.25-18.31.09:790][ 66]LogStaticMesh: Warning: HighWallPiece has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.07.25-18.31.09:809][ 66]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.25-18.31.09:809][ 66]FBXImport: Warning: HighWallPiece has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.07.25-18.31.09:809][ 66]FBXImport: Warning: HighWallPiece has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.07.25-18.31.12:836][360]LogActorFactory: Actor Factory created HighWallPiece
+[2018.07.25-18.31.14:772][552]LogActorFactory: Actor Factory created HighWallPiece
+[2018.07.25-18.31.19:809][979]Cmd: DELETE
+[2018.07.25-18.31.19:809][979]Cmd: ACTOR DELETE
+[2018.07.25-18.31.19:820][979]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.31.19:834][979]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.07.25-18.32.07:314][431]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Users/zkolman/Desktop/Modular Ship Pieces/HighWallPiece.fbx)
+[2018.07.25-18.32.07:319][431]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.07.25-18.32.07:319][431]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.07.25-18.32.07:319][431]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.07.25-18.32.07:319][431]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2018.07.25-18.32.07:319][431]LogFbx: ItemName: Model, ItemCount : 2
+[2018.07.25-18.32.07:319][431]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.07.25-18.32.07:319][431]LogFbx: ItemName: Material, ItemCount : 1
+[2018.07.25-18.32.07:319][431]LogFbx: ItemName: Texture, ItemCount : 1
+[2018.07.25-18.32.07:319][431]LogFbx: ItemName: Video, ItemCount : 1
+[2018.07.25-18.32.07:326][431]LogFbx: Loading FBX Scene from ../../../../Users/zkolman/Desktop/Modular Ship Pieces/HighWallPiece.fbx
+[2018.07.25-18.32.07:333][431]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-18.32.10:565][431]LogFbx: Loading FBX Scene from ../../../../Users/zkolman/Desktop/Modular Ship Pieces/HighWallPiece.fbx
+[2018.07.25-18.32.10:572][431]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-18.32.10:573][431]LogFbx: Warning: Triangulating static mesh polySurface29
+[2018.07.25-18.32.10:592][431]LogStaticMesh: Building static mesh HighWallPiece...
+[2018.07.25-18.32.10:593][431]LogStaticMesh: Built static mesh [0.02s] /Game/ModularShipPieces/HighWallPiece.HighWallPiece
+[2018.07.25-18.32.10:594][431]LogStaticMesh: Warning: HighWallPiece has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.07.25-18.32.10:594][431]LogStaticMesh: Warning: HighWallPiece has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.07.25-18.32.10:601][431]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.25-18.32.10:601][431]FBXImport: Warning: HighWallPiece has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.07.25-18.32.10:601][431]FBXImport: Warning: HighWallPiece has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.07.25-18.32.13:669][730]LogActorFactory: Actor Factory created HighWallPiece
+[2018.07.25-18.32.14:217][782]LogActorFactory: Actor Factory created HighWallPiece
+[2018.07.25-18.32.17:899][ 50]LogEditorFactories: Performing atomic reimport of [C:/Users/zkolman/Desktop/Modular Ship Pieces/HighWallPiece.fbx]
+[2018.07.25-18.32.17:926][ 50]LogFbx: Loading FBX Scene from C:/Users/zkolman/Desktop/Modular Ship Pieces/HighWallPiece.fbx
+[2018.07.25-18.32.17:933][ 50]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-18.32.17:942][ 50]LogFbx: Warning: Triangulating static mesh polySurface29
+[2018.07.25-18.32.17:952][ 50]LogStaticMesh: Building static mesh HighWallPiece...
+[2018.07.25-18.32.17:953][ 50]LogStaticMesh: Built static mesh [0.00s] /Game/ModularShipPieces/HighWallPiece.HighWallPiece
+[2018.07.25-18.32.17:954][ 50]LogStaticMesh: Warning: HighWallPiece has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.07.25-18.32.17:954][ 50]LogStaticMesh: Warning: HighWallPiece has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.07.25-18.32.17:969][ 50]LogEditorFactories: -- imported successfully
+[2018.07.25-18.32.17:972][ 50]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.25-18.32.17:972][ 50]FBXImport: Warning: HighWallPiece has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.07.25-18.32.17:972][ 50]FBXImport: Warning: HighWallPiece has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.07.25-18.33.07:449][582]LogEditorFactories: Performing atomic reimport of [C:/Users/zkolman/Desktop/Modular Ship Pieces/HighWallPiece.fbx]
+[2018.07.25-18.33.07:468][582]LogFbx: Loading FBX Scene from C:/Users/zkolman/Desktop/Modular Ship Pieces/HighWallPiece.fbx
+[2018.07.25-18.33.07:475][582]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-18.33.07:476][582]LogFbx: Warning: Triangulating static mesh polySurface29
+[2018.07.25-18.33.07:493][582]LogStaticMesh: Building static mesh HighWallPiece...
+[2018.07.25-18.33.07:494][582]LogStaticMesh: Built static mesh [0.01s] /Game/ModularShipPieces/HighWallPiece.HighWallPiece
+[2018.07.25-18.33.07:495][582]LogStaticMesh: Warning: HighWallPiece has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.07.25-18.33.07:495][582]LogStaticMesh: Warning: HighWallPiece has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.07.25-18.33.07:514][582]LogEditorFactories: -- imported successfully
+[2018.07.25-18.33.07:517][582]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.25-18.33.07:517][582]FBXImport: Warning: HighWallPiece has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.07.25-18.33.07:517][582]FBXImport: Warning: HighWallPiece has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.07.25-18.33.12:938][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighWallPiece)
+[2018.07.25-18.33.14:175][ 57]Cmd: DELETE
+[2018.07.25-18.33.14:175][ 57]Cmd: ACTOR DELETE
+[2018.07.25-18.33.14:186][ 57]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.33.14:200][ 57]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.07.25-18.33.24:181][438]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Users/zkolman/Desktop/Modular Ship Pieces/HighWallPiece.fbx)
+[2018.07.25-18.33.24:185][438]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.07.25-18.33.24:185][438]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.07.25-18.33.24:185][438]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.07.25-18.33.24:185][438]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2018.07.25-18.33.24:185][438]LogFbx: ItemName: Model, ItemCount : 2
+[2018.07.25-18.33.24:185][438]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.07.25-18.33.24:185][438]LogFbx: ItemName: Material, ItemCount : 1
+[2018.07.25-18.33.24:185][438]LogFbx: ItemName: Texture, ItemCount : 1
+[2018.07.25-18.33.24:185][438]LogFbx: ItemName: Video, ItemCount : 1
+[2018.07.25-18.33.24:191][438]LogFbx: Loading FBX Scene from ../../../../Users/zkolman/Desktop/Modular Ship Pieces/HighWallPiece.fbx
+[2018.07.25-18.33.24:198][438]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-18.33.27:009][438]LogFbx: Loading FBX Scene from ../../../../Users/zkolman/Desktop/Modular Ship Pieces/HighWallPiece.fbx
+[2018.07.25-18.33.27:016][438]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-18.33.27:017][438]LogFbx: Warning: Triangulating static mesh polySurface29
+[2018.07.25-18.33.27:018][438]LogStaticMesh: Building static mesh HighWallPiece...
+[2018.07.25-18.33.27:020][438]LogStaticMesh: Built static mesh [0.00s] /Game/ModularShipPieces/HighWallPiece.HighWallPiece
+[2018.07.25-18.33.27:020][438]LogStaticMesh: Warning: HighWallPiece has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.07.25-18.33.27:020][438]LogStaticMesh: Warning: HighWallPiece has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.07.25-18.33.27:045][438]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.25-18.33.27:045][438]FBXImport: Warning: HighWallPiece has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.07.25-18.33.27:045][438]FBXImport: Warning: HighWallPiece has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.07.25-18.33.30:231][758]LogActorFactory: Actor Factory created HighWallPiece
+[2018.07.25-18.33.30:449][778]LogActorFactory: Actor Factory created HighWallPiece
+[2018.07.25-18.37.36:325][551]LogEditorFactories: Performing atomic reimport of [C:/Users/zkolman/Desktop/Modular Ship Pieces/HighWallPiece.fbx]
+[2018.07.25-18.37.36:346][551]LogFbx: Loading FBX Scene from C:/Users/zkolman/Desktop/Modular Ship Pieces/HighWallPiece.fbx
+[2018.07.25-18.37.36:353][551]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-18.37.36:354][551]LogFbx: Warning: Triangulating static mesh polySurface29
+[2018.07.25-18.37.36:363][551]LogStaticMesh: Building static mesh HighWallPiece...
+[2018.07.25-18.37.36:364][551]LogStaticMesh: Built static mesh [0.00s] /Game/ModularShipPieces/HighWallPiece.HighWallPiece
+[2018.07.25-18.37.36:365][551]LogStaticMesh: Warning: HighWallPiece has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.07.25-18.37.36:365][551]LogStaticMesh: Warning: HighWallPiece has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.07.25-18.37.36:389][551]LogEditorFactories: -- imported successfully
+[2018.07.25-18.37.36:392][551]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.25-18.37.36:392][551]FBXImport: Warning: HighWallPiece has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.07.25-18.37.36:392][551]FBXImport: Warning: HighWallPiece has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.07.25-18.39.31:282][173]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Users/zkolman/Desktop/Modular Ship Pieces/SlopedWallToCommand.fbx)
+[2018.07.25-18.39.31:294][173]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.07.25-18.39.31:294][173]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.07.25-18.39.31:294][173]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.07.25-18.39.31:294][173]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.07.25-18.39.31:294][173]LogFbx: ItemName: Material, ItemCount : 1
+[2018.07.25-18.39.31:294][173]LogFbx: ItemName: Texture, ItemCount : 1
+[2018.07.25-18.39.31:294][173]LogFbx: ItemName: Model, ItemCount : 1
+[2018.07.25-18.39.31:294][173]LogFbx: ItemName: Video, ItemCount : 1
+[2018.07.25-18.39.31:300][173]LogFbx: Loading FBX Scene from ../../../../Users/zkolman/Desktop/Modular Ship Pieces/SlopedWallToCommand.fbx
+[2018.07.25-18.39.31:307][173]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-18.39.35:289][173]LogFbx: Loading FBX Scene from ../../../../Users/zkolman/Desktop/Modular Ship Pieces/SlopedWallToCommand.fbx
+[2018.07.25-18.39.35:296][173]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-18.39.35:296][173]LogFbx: Warning: Triangulating static mesh polySurface28
+[2018.07.25-18.39.35:297][173]LogStaticMesh: Building static mesh SlopedWallToCommand...
+[2018.07.25-18.39.35:298][173]LogStaticMesh: Built static mesh [0.00s] /Game/ModularShipPieces/SlopedWallToCommand.SlopedWallToCommand
+[2018.07.25-18.39.35:319][173]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.25-18.39.37:118][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice15)
+[2018.07.25-18.39.39:196][484]Cmd: DELETE
+[2018.07.25-18.39.39:196][484]Cmd: ACTOR DELETE
+[2018.07.25-18.39.39:214][484]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.39.39:214][484]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.39.39:229][484]LogEditorActor: Deleted 2 Actors (0.032 secs)
+[2018.07.25-18.39.42:497][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice19)
+[2018.07.25-18.39.43:519][881]Cmd: DELETE
+[2018.07.25-18.39.43:519][881]Cmd: ACTOR DELETE
+[2018.07.25-18.39.43:530][881]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.39.43:544][881]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.07.25-18.39.43:845][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice18)
+[2018.07.25-18.39.43:946][916]Cmd: DELETE
+[2018.07.25-18.39.43:946][916]Cmd: ACTOR DELETE
+[2018.07.25-18.39.43:957][916]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.39.43:970][916]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.07.25-18.39.44:281][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice17)
+[2018.07.25-18.39.44:394][954]Cmd: DELETE
+[2018.07.25-18.39.44:394][954]Cmd: ACTOR DELETE
+[2018.07.25-18.39.44:405][954]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.39.44:420][954]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.07.25-18.39.44:892][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice20)
+[2018.07.25-18.39.44:968][  6]Cmd: DELETE
+[2018.07.25-18.39.44:968][  6]Cmd: ACTOR DELETE
+[2018.07.25-18.39.44:979][  6]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.39.44:993][  6]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.07.25-18.39.59:303][408]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighWallPiece)
+[2018.07.25-18.40.21:290][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWithWindow_polySurface26)
+[2018.07.25-18.40.34:061][657]LogActorFactory: Actor Factory created SlopedWallToCommand
+[2018.07.25-18.40.35:234][750]LogActorFactory: Actor Factory created SlopedWallToCommand
+[2018.07.25-18.40.37:305][913]Cmd: DELETE
+[2018.07.25-18.40.37:305][913]Cmd: ACTOR DELETE
+[2018.07.25-18.40.37:316][913]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.40.37:330][913]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.07.25-18.40.44:963][ 47]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Users/zkolman/Desktop/Modular Ship Pieces/SlopedWallToCommand.fbx)
+[2018.07.25-18.40.44:968][ 47]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.07.25-18.40.44:968][ 47]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.07.25-18.40.44:968][ 47]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.07.25-18.40.44:968][ 47]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.07.25-18.40.44:968][ 47]LogFbx: ItemName: Material, ItemCount : 1
+[2018.07.25-18.40.44:968][ 47]LogFbx: ItemName: Texture, ItemCount : 1
+[2018.07.25-18.40.44:968][ 47]LogFbx: ItemName: Model, ItemCount : 1
+[2018.07.25-18.40.44:968][ 47]LogFbx: ItemName: Video, ItemCount : 1
+[2018.07.25-18.40.44:973][ 47]LogFbx: Loading FBX Scene from ../../../../Users/zkolman/Desktop/Modular Ship Pieces/SlopedWallToCommand.fbx
+[2018.07.25-18.40.44:980][ 47]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-18.40.48:280][ 47]LogFbx: Loading FBX Scene from ../../../../Users/zkolman/Desktop/Modular Ship Pieces/SlopedWallToCommand.fbx
+[2018.07.25-18.40.48:287][ 47]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-18.40.48:288][ 47]LogFbx: Warning: Triangulating static mesh polySurface28
+[2018.07.25-18.40.48:289][ 47]LogStaticMesh: Building static mesh SlopedWallToCommand...
+[2018.07.25-18.40.48:289][ 47]LogStaticMesh: Built static mesh [0.00s] /Game/ModularShipPieces/SlopedWallToCommand.SlopedWallToCommand
+[2018.07.25-18.40.48:296][ 47]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.25-18.40.50:197][225]LogActorFactory: Actor Factory created SlopedWallToCommand
+[2018.07.25-18.40.51:109][320]LogActorFactory: Actor Factory created SlopedWallToCommand
+[2018.07.25-18.41.14:321][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice13)
+[2018.07.25-18.41.17:421][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SlopedWallToCommand)
+[2018.07.25-18.41.25:174][918]Cmd: TRANSACTION UNDO
+[2018.07.25-18.41.25:175][918]LogEditorTransaction: Undo Move Actors
+[2018.07.25-18.41.31:887][483]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighWallPiece2)
+[2018.07.25-18.41.36:580][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SlopedWallToCommand2)
+[2018.07.25-18.41.39:681][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SlopedWallToCommand)
+[2018.07.25-18.41.46:662][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWithWindow_polySurface26)
+[2018.07.25-18.41.54:875][433]Cmd: TRANSACTION UNDO
+[2018.07.25-18.41.54:876][433]LogEditorTransaction: Undo Move Actors
+[2018.07.25-18.42.04:106][179]Cmd: TRANSACTION UNDO
+[2018.07.25-18.42.04:106][179]LogEditorTransaction: Undo Move Actors
+[2018.07.25-18.42.16:024][108]Cmd: MODE GRID=0
+[2018.07.25-18.42.17:948][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWithWindow_polySurface18)
+[2018.07.25-18.42.30:249][315]Cmd: TRANSACTION UNDO
+[2018.07.25-18.42.30:249][315]LogEditorTransaction: Undo Move Actors
+[2018.07.25-18.42.30:532][329]Cmd: TRANSACTION UNDO
+[2018.07.25-18.42.30:533][329]LogEditorTransaction: Undo Move Actors
+[2018.07.25-18.42.31:558][415]Cmd: TRANSACTION UNDO
+[2018.07.25-18.42.31:558][415]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.25-18.42.33:382][572]Cmd: TRANSACTION REDO
+[2018.07.25-18.42.33:382][572]LogEditorTransaction: Redo Clicking on Actors
+[2018.07.25-18.42.34:883][697]Cmd: MODE GRID=1
+[2018.07.25-18.43.21:012][356]Cmd: MODE GRID=0
+[2018.07.25-18.43.37:302][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice8)
+[2018.07.25-18.43.40:042][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2018.07.25-18.43.46:405][517]Cmd: MODE GRID=1
+[2018.07.25-18.43.47:726][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighWallPiece2)
+[2018.07.25-18.44.06:111][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWithWindow_polySurface26)
+[2018.07.25-18.44.12:185][720]Cmd: TRANSACTION UNDO
+[2018.07.25-18.44.12:185][720]LogEditorTransaction: Undo Move Actors
+[2018.07.25-18.44.18:739][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWithWindow_polySurface18)
+[2018.07.25-18.44.23:459][537]Cmd: TRANSACTION UNDO
+[2018.07.25-18.44.23:459][537]LogEditorTransaction: Undo Move Actors
+[2018.07.25-18.44.31:097][119]Cmd: MODE GRID=0
+[2018.07.25-18.44.41:176][976]Cmd: TRANSACTION UNDO
+[2018.07.25-18.44.41:176][976]LogEditorTransaction: Undo Move Actors
+[2018.07.25-18.44.44:293][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2018.07.25-18.44.51:913][909]Cmd: TRANSACTION UNDO
+[2018.07.25-18.44.51:913][909]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.25-18.44.52:572][952]Cmd: TRANSACTION UNDO
+[2018.07.25-18.44.52:572][952]LogEditorTransaction: Undo Move Actors
+[2018.07.25-18.45.05:861][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighWallPiece2)
+[2018.07.25-18.45.13:773][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWithWindow_polySurface14)
+[2018.07.25-18.45.15:155][874]Cmd: MODE GRID=1
+[2018.07.25-18.45.18:922][198]Cmd: TRANSACTION UNDO
+[2018.07.25-18.45.18:922][198]LogEditorTransaction: Undo Move Actors
+[2018.07.25-18.45.27:538][927]Cmd: DELETE
+[2018.07.25-18.45.27:538][927]Cmd: ACTOR DELETE
+[2018.07.25-18.45.27:549][927]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.45.27:564][927]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.07.25-18.45.28:033][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWithWindow_polySurface18)
+[2018.07.25-18.45.37:432][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice2)
+[2018.07.25-18.45.45:684][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWithWindow_polySurface18)
+[2018.07.25-18.45.52:292][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighWallPiece2)
+[2018.07.25-18.45.52:467][ 55]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.25-18.46.03:963][ 28]Cmd: DELETE
+[2018.07.25-18.46.03:963][ 28]Cmd: ACTOR DELETE
+[2018.07.25-18.46.03:974][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.46.03:988][ 28]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.07.25-18.46.05:771][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighWallPiece)
+[2018.07.25-18.47.05:987][978]Cmd: DELETE
+[2018.07.25-18.47.05:987][978]Cmd: ACTOR DELETE
+[2018.07.25-18.47.05:999][978]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.47.06:014][978]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.07.25-18.47.08:320][164]LogActorFactory: Actor Factory created HighWallPiece
+[2018.07.25-18.47.09:127][246]LogActorFactory: Actor Factory created HighWallPiece
+[2018.07.25-18.47.29:110][925]Cmd: TRANSACTION UNDO
+[2018.07.25-18.47.29:110][925]LogEditorTransaction: Undo Move Actors
+[2018.07.25-18.47.44:967][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2018.07.25-18.48.01:712][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighWallPiece2)
+[2018.07.25-18.48.03:414][421]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice14)
+[2018.07.25-18.48.03:942][474]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SlopedWallToCommand2)
+[2018.07.25-18.48.08:713][969]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWithWindow_polySurface26)
+[2018.07.25-18.48.09:991][105]Cmd: DELETE
+[2018.07.25-18.48.09:991][105]Cmd: ACTOR DELETE
+[2018.07.25-18.48.10:002][105]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.48.10:016][105]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.07.25-18.48.10:386][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWithWindow_polySurface22)
+[2018.07.25-18.48.10:560][160]Cmd: DELETE
+[2018.07.25-18.48.10:560][160]Cmd: ACTOR DELETE
+[2018.07.25-18.48.10:572][160]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.48.10:586][160]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.07.25-18.48.11:103][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWithWindow_polySurface18)
+[2018.07.25-18.48.11:175][222]Cmd: DELETE
+[2018.07.25-18.48.11:175][222]Cmd: ACTOR DELETE
+[2018.07.25-18.48.11:186][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.48.11:199][222]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.07.25-18.48.13:269][454]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPiece23)
+[2018.07.25-18.48.31:148][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighWallPiece2)
+[2018.07.25-18.49.09:400][247]LogSavePackage: Save=754.53ms
+[2018.07.25-18.49.09:401][247]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/NewShipLevel_Auto1B4EFD14C4CA44E6816C6259430128133.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Maps/NewShipLevel_Auto1.umap'
+[2018.07.25-18.49.09:402][247]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Maps/NewShipLevel_Auto1.umap
+[2018.07.25-18.49.09:404][247]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewShipLevel' took 0.785
+[2018.07.25-18.49.09:404][247]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.785
+[2018.07.25-18.49.09:440][247]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModularShipPieces/HighWallPiece] ([1] browsable assets)...
+[2018.07.25-18.49.09:459][247]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModularShipPieces/HighWallPiece.HighWallPiece]
+[2018.07.25-18.49.09:459][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularShipPieces/HighWallPiece]
+[2018.07.25-18.49.09:472][247]LogSavePackage: Save=12.85ms
+[2018.07.25-18.49.09:473][247]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/HighWallPiece_Auto157136B1348A2A72E0ED433A3E69C1A3E.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ModularShipPieces/HighWallPiece_Auto1.uasset'
+[2018.07.25-18.49.09:493][247]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ModularShipPieces/HighWallPiece_Auto1.uasset
+[2018.07.25-18.49.09:494][247]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModularShipPieces/SlopedWallToCommand] ([1] browsable assets)...
+[2018.07.25-18.49.09:513][247]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModularShipPieces/SlopedWallToCommand.SlopedWallToCommand]
+[2018.07.25-18.49.09:513][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularShipPieces/SlopedWallToCommand]
+[2018.07.25-18.49.09:526][247]LogSavePackage: Save=12.09ms
+[2018.07.25-18.49.09:526][247]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/SlopedWallToCommand_Auto1503922D045911A20A8745895A872D4B1.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ModularShipPieces/SlopedWallToCommand_Auto1.uasset'
+[2018.07.25-18.49.09:527][247]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ModularShipPieces/SlopedWallToCommand_Auto1.uasset
+[2018.07.25-18.49.09:527][247]LogFileHelpers: Auto-saving content packages took 0.121
+[2018.07.25-18.49.14:259][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SlopedWallToCommand2)
+[2018.07.25-18.49.20:580][952]LogEditorFactories: Performing atomic reimport of [C:/Users/zkolman/Desktop/Modular Ship Pieces/SlopedWallToCommand.fbx]
+[2018.07.25-18.49.20:600][952]LogFbx: Loading FBX Scene from C:/Users/zkolman/Desktop/Modular Ship Pieces/SlopedWallToCommand.fbx
+[2018.07.25-18.49.20:607][952]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-18.49.20:608][952]LogFbx: Warning: Triangulating static mesh polySurface28
+[2018.07.25-18.49.20:618][952]LogStaticMesh: Building static mesh SlopedWallToCommand...
+[2018.07.25-18.49.20:619][952]LogStaticMesh: Built static mesh [0.00s] /Game/ModularShipPieces/SlopedWallToCommand.SlopedWallToCommand
+[2018.07.25-18.49.20:656][952]LogEditorFactories: -- imported successfully
+[2018.07.25-18.49.20:659][952]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.25-18.49.24:844][297]Cmd: DELETE
+[2018.07.25-18.49.24:844][297]Cmd: ACTOR DELETE
+[2018.07.25-18.49.24:855][297]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.49.24:869][297]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.07.25-18.49.35:608][770]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Users/zkolman/Desktop/Modular Ship Pieces/SlopedWallToCommand.fbx)
+[2018.07.25-18.49.35:612][770]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.07.25-18.49.35:612][770]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.07.25-18.49.35:612][770]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.07.25-18.49.35:612][770]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.07.25-18.49.35:612][770]LogFbx: ItemName: Material, ItemCount : 1
+[2018.07.25-18.49.35:612][770]LogFbx: ItemName: Texture, ItemCount : 1
+[2018.07.25-18.49.35:613][770]LogFbx: ItemName: Model, ItemCount : 1
+[2018.07.25-18.49.35:613][770]LogFbx: ItemName: Video, ItemCount : 1
+[2018.07.25-18.49.35:617][770]LogFbx: Loading FBX Scene from ../../../../Users/zkolman/Desktop/Modular Ship Pieces/SlopedWallToCommand.fbx
+[2018.07.25-18.49.35:624][770]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-18.49.38:323][770]LogFbx: Loading FBX Scene from ../../../../Users/zkolman/Desktop/Modular Ship Pieces/SlopedWallToCommand.fbx
+[2018.07.25-18.49.38:329][770]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-18.49.38:330][770]LogFbx: Warning: Triangulating static mesh polySurface28
+[2018.07.25-18.49.38:331][770]LogStaticMesh: Building static mesh SlopedWallToCommand...
+[2018.07.25-18.49.38:331][770]LogStaticMesh: Built static mesh [0.00s] /Game/ModularShipPieces/SlopedWallToCommand.SlopedWallToCommand
+[2018.07.25-18.49.38:356][770]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.25-18.49.40:690][990]LogActorFactory: Actor Factory created SlopedWallToCommand
+[2018.07.25-18.49.41:301][ 57]LogActorFactory: Actor Factory created SlopedWallToCommand
+[2018.07.25-18.50.07:247][ 78]LogActorFactory: Actor Factory created WallWithWindow_polySurface2
+[2018.07.25-18.50.07:909][126]LogActorFactory: Actor Factory created WallWithWindow_polySurface2
+[2018.07.25-18.50.18:952][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPiece45)
+[2018.07.25-18.50.20:022][137]Cmd: DELETE
+[2018.07.25-18.50.20:022][137]Cmd: ACTOR DELETE
+[2018.07.25-18.50.20:033][137]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.50.20:047][137]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.07.25-18.50.20:988][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPiece46)
+[2018.07.25-18.50.21:823][293]Cmd: DELETE
+[2018.07.25-18.50.21:823][293]Cmd: ACTOR DELETE
+[2018.07.25-18.50.21:834][293]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.50.21:847][293]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.07.25-18.50.22:784][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWithWindow_polySurface17)
+[2018.07.25-18.50.23:252][439]Cmd: DELETE
+[2018.07.25-18.50.23:252][439]Cmd: ACTOR DELETE
+[2018.07.25-18.50.23:263][439]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.50.23:277][439]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.07.25-18.50.24:400][571]Cmd: TRANSACTION UNDO
+[2018.07.25-18.50.24:400][571]LogEditorTransaction: Undo Delete Actors
+[2018.07.25-18.50.24:769][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWithWindow_polySurface17)
+[2018.07.25-18.50.25:200][630]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPiece44)
+[2018.07.25-18.50.26:004][699]Cmd: DELETE
+[2018.07.25-18.50.26:004][699]Cmd: ACTOR DELETE
+[2018.07.25-18.50.26:015][699]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.50.26:029][699]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.07.25-18.50.26:685][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWithWindow_polySurface14)
+[2018.07.25-18.50.35:814][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2018.07.25-18.50.54:505][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighWallPiece)
+[2018.07.25-18.51.02:946][533]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2018.07.25-18.51.05:929][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighWallPiece)
+[2018.07.25-18.51.15:393][907]Cmd: MODE GRID=0
+[2018.07.25-18.51.17:760][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighWallPiece2)
+[2018.07.25-18.51.29:728][343]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.25-18.51.43:593][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighWallPiece)
+[2018.07.25-18.51.45:131][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2018.07.25-18.51.50:659][441]Cmd: TRANSACTION UNDO
+[2018.07.25-18.51.50:659][441]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.25-18.51.51:177][481]Cmd: TRANSACTION UNDO
+[2018.07.25-18.51.51:177][481]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.25-18.51.51:704][533]Cmd: TRANSACTION UNDO
+[2018.07.25-18.51.51:704][533]LogEditorTransaction: Undo Move Actors
+[2018.07.25-18.51.52:617][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2018.07.25-18.52.12:605][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SlopedWallToCommand3)
+[2018.07.25-18.52.15:406][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice14)
+[2018.07.25-18.52.20:351][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice13)
+[2018.07.25-18.52.28:643][307]Cmd: TRANSACTION UNDO
+[2018.07.25-18.52.28:643][307]LogEditorTransaction: Undo Move Actors
+[2018.07.25-18.52.28:963][334]Cmd: TRANSACTION UNDO
+[2018.07.25-18.52.28:963][334]LogEditorTransaction: Undo Move Actors
+[2018.07.25-18.52.29:453][382]Cmd: TRANSACTION UNDO
+[2018.07.25-18.52.29:453][382]LogEditorTransaction: Undo Move Actors
+[2018.07.25-18.52.31:783][634]Cmd: TRANSACTION UNDO
+[2018.07.25-18.52.31:783][634]LogEditorTransaction: Undo Move Actors
+[2018.07.25-18.52.35:655][989]Cmd: MODE GRID=1
+[2018.07.25-18.52.59:947][488]Cmd: MODE GRID=0
+[2018.07.25-18.53.02:896][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SlopedWallToCommand2)
+[2018.07.25-18.53.03:788][873]Cmd: TRANSACTION UNDO
+[2018.07.25-18.53.03:788][873]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.25-18.53.08:331][297]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.25-18.53.13:844][842]Cmd: TRANSACTION UNDO
+[2018.07.25-18.53.13:844][842]LogEditorTransaction: Undo Marquee Select
+[2018.07.25-18.53.14:882][926]Cmd: TRANSACTION UNDO
+[2018.07.25-18.53.14:883][926]LogEditorTransaction: Undo Move Actors
+[2018.07.25-18.53.18:030][211]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.25-18.53.26:954][101]LogEditorViewport: Clicking Background
+[2018.07.25-18.53.28:340][266]LogEditorViewport: Clicking Background
+[2018.07.25-18.53.31:259][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2018.07.25-18.53.54:785][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighWallPiece)
+[2018.07.25-18.53.56:937][310]Cmd: DELETE
+[2018.07.25-18.53.56:937][310]Cmd: ACTOR DELETE
+[2018.07.25-18.53.56:954][310]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.53.56:954][310]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.53.56:968][310]LogEditorActor: Deleted 2 Actors (0.031 secs)
+[2018.07.25-18.54.32:813][911]Cmd: TRANSACTION UNDO
+[2018.07.25-18.54.32:813][911]LogEditorTransaction: Undo Delete Actors
+[2018.07.25-18.54.33:391][954]Cmd: TRANSACTION UNDO
+[2018.07.25-18.54.33:391][954]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.25-18.54.39:081][402]LogEditorFactories: Performing atomic reimport of [C:/Users/zkolman/Desktop/Modular Ship Pieces/HighWallPiece.fbx]
+[2018.07.25-18.54.39:102][402]LogFbx: Loading FBX Scene from C:/Users/zkolman/Desktop/Modular Ship Pieces/HighWallPiece.fbx
+[2018.07.25-18.54.39:109][402]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-18.54.39:110][402]LogFbx: Warning: Triangulating static mesh polySurface29
+[2018.07.25-18.54.39:119][402]LogStaticMesh: Building static mesh HighWallPiece...
+[2018.07.25-18.54.39:120][402]LogStaticMesh: Built static mesh [0.00s] /Game/ModularShipPieces/HighWallPiece.HighWallPiece
+[2018.07.25-18.54.39:121][402]LogStaticMesh: Warning: HighWallPiece has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.07.25-18.54.39:122][402]LogStaticMesh: Warning: HighWallPiece has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.07.25-18.54.39:146][402]LogEditorFactories: -- imported successfully
+[2018.07.25-18.54.39:149][402]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.25-18.54.39:149][402]FBXImport: Warning: HighWallPiece has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.07.25-18.54.39:149][402]FBXImport: Warning: HighWallPiece has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.07.25-18.54.47:816][ 51]Cmd: TRANSACTION UNDO
+[2018.07.25-18.54.47:816][ 51]LogEditorTransaction: Undo Move Actors
+[2018.07.25-18.54.49:231][153]Cmd: TRANSACTION UNDO
+[2018.07.25-18.54.49:231][153]LogEditorTransaction: Undo Move Actors
+[2018.07.25-18.54.51:356][313]Cmd: MODE GRID=1
+[2018.07.25-18.54.58:762][975]Cmd: DELETE
+[2018.07.25-18.54.58:762][975]Cmd: ACTOR DELETE
+[2018.07.25-18.54.58:773][975]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.54.58:773][975]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.54.58:787][975]LogEditorActor: Deleted 2 Actors (0.025 secs)
+[2018.07.25-18.55.01:435][254]LogActorFactory: Actor Factory created HighWallPiece
+[2018.07.25-18.55.01:939][299]LogActorFactory: Actor Factory created HighWallPiece
+[2018.07.25-18.55.21:438][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice13)
+[2018.07.25-18.56.05:128][778]LogEditorFactories: Performing atomic reimport of [C:/Users/zkolman/Desktop/Modular Ship Pieces/SlopedWallToCommand.fbx]
+[2018.07.25-18.56.05:147][778]LogFbx: Loading FBX Scene from C:/Users/zkolman/Desktop/Modular Ship Pieces/SlopedWallToCommand.fbx
+[2018.07.25-18.56.05:154][778]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-18.56.05:154][778]LogFbx: Warning: Triangulating static mesh polySurface28
+[2018.07.25-18.56.05:164][778]LogStaticMesh: Building static mesh SlopedWallToCommand...
+[2018.07.25-18.56.05:165][778]LogStaticMesh: Built static mesh [0.00s] /Game/ModularShipPieces/SlopedWallToCommand.SlopedWallToCommand
+[2018.07.25-18.56.05:204][778]LogEditorFactories: -- imported successfully
+[2018.07.25-18.56.05:206][778]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.25-18.56.09:114][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice15)
+[2018.07.25-18.56.10:603][227]Cmd: DELETE
+[2018.07.25-18.56.10:603][227]Cmd: ACTOR DELETE
+[2018.07.25-18.56.10:614][227]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.56.10:627][227]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.07.25-18.56.11:012][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice16)
+[2018.07.25-18.56.11:099][255]Cmd: DELETE
+[2018.07.25-18.56.11:099][255]Cmd: ACTOR DELETE
+[2018.07.25-18.56.11:116][255]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.56.11:130][255]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.07.25-18.56.13:119][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice14)
+[2018.07.25-18.56.32:992][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2018.07.25-18.56.34:886][375]Cmd: TRANSACTION UNDO
+[2018.07.25-18.56.34:886][375]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.25-18.56.43:458][114]Cmd: MODE GRID=0
+[2018.07.25-18.56.48:243][558]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2018.07.25-18.56.59:287][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighWallPiece)
+[2018.07.25-18.57.04:554][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice15)
+[2018.07.25-18.57.21:139][166]Cmd: DELETE
+[2018.07.25-18.57.21:139][166]Cmd: ACTOR DELETE
+[2018.07.25-18.57.21:150][166]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-18.57.21:164][166]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.07.25-18.57.22:671][336]Cmd: MODE GRID=1
+[2018.07.25-18.57.23:758][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice15)
+[2018.07.25-18.57.28:514][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2018.07.25-18.57.37:066][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SlopedWallToCommand2)
+[2018.07.25-18.57.38:005][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighWallPiece)
+[2018.07.25-18.58.04:090][925]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2018.07.25-18.58.48:183][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPiece14)
+[2018.07.25-18.59.02:446][ 37]Cmd: MODE GRID=0
+[2018.07.25-18.59.07:159][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2018.07.25-18.59.13:162][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPiece15)
+[2018.07.25-18.59.14:758][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2018.07.25-18.59.18:411][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPiece15)
+[2018.07.25-18.59.27:642][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPiece15)
+[2018.07.25-18.59.28:008][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighWallPiece)
+[2018.07.25-18.59.31:722][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice16)
+[2018.07.25-18.59.33:366][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPiece15)
+[2018.07.25-18.59.35:954][933]Cmd: TRANSACTION UNDO
+[2018.07.25-18.59.35:954][933]LogEditorTransaction: Undo Move Actors
+[2018.07.25-18.59.37:079][ 26]Cmd: MODE GRID=1
+[2018.07.25-18.59.40:614][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice16)
+[2018.07.25-18.59.52:622][191]Cmd: TRANSACTION UNDO
+[2018.07.25-18.59.52:656][191]LogEditorTransaction: Undo Rotate Actors
+[2018.07.25-18.59.53:335][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPiece15)
+[2018.07.25-18.59.59:398][741]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice16)
+[2018.07.25-19.00.06:915][401]Cmd: DELETE
+[2018.07.25-19.00.06:915][401]Cmd: ACTOR DELETE
+[2018.07.25-19.00.06:927][401]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-19.00.06:941][401]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.07.25-19.00.07:700][447]Cmd: TRANSACTION UNDO
+[2018.07.25-19.00.07:700][447]LogEditorTransaction: Undo Delete Actors
+[2018.07.25-19.00.07:974][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPiece15)
+[2018.07.25-19.00.08:926][536]Cmd: DELETE
+[2018.07.25-19.00.08:926][536]Cmd: ACTOR DELETE
+[2018.07.25-19.00.08:938][536]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-19.00.08:952][536]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.07.25-19.00.39:351][ 16]LogSavePackage: Save=765.74ms
+[2018.07.25-19.00.39:351][ 16]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/NewShipLevel_Auto293EDBC444D53930B44CCFC94B4E800C6.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Maps/NewShipLevel_Auto2.umap'
+[2018.07.25-19.00.39:436][ 16]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Maps/NewShipLevel_Auto2.umap
+[2018.07.25-19.00.39:438][ 16]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewShipLevel' took 0.880
+[2018.07.25-19.00.39:438][ 16]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.880
+[2018.07.25-19.00.39:441][ 16]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModularShipPieces/HighWallPiece] ([1] browsable assets)...
+[2018.07.25-19.00.39:458][ 16]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModularShipPieces/HighWallPiece.HighWallPiece]
+[2018.07.25-19.00.39:458][ 16]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularShipPieces/HighWallPiece]
+[2018.07.25-19.00.39:472][ 16]LogSavePackage: Save=12.81ms
+[2018.07.25-19.00.39:472][ 16]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/HighWallPiece_Auto2AE141D264308DC318BF1588A800E79C7.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ModularShipPieces/HighWallPiece_Auto2.uasset'
+[2018.07.25-19.00.39:473][ 16]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ModularShipPieces/HighWallPiece_Auto2.uasset
+[2018.07.25-19.00.39:474][ 16]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModularShipPieces/SlopedWallToCommand] ([1] browsable assets)...
+[2018.07.25-19.00.39:491][ 16]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModularShipPieces/SlopedWallToCommand.SlopedWallToCommand]
+[2018.07.25-19.00.39:491][ 16]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularShipPieces/SlopedWallToCommand]
+[2018.07.25-19.00.39:505][ 16]LogSavePackage: Save=12.83ms
+[2018.07.25-19.00.39:505][ 16]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/SlopedWallToCommand_Auto25496C685477CF691F2686287B2CB727E.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ModularShipPieces/SlopedWallToCommand_Auto2.uasset'
+[2018.07.25-19.00.39:506][ 16]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ModularShipPieces/SlopedWallToCommand_Auto2.uasset
+[2018.07.25-19.00.39:506][ 16]LogFileHelpers: Auto-saving content packages took 0.066
+[2018.07.25-19.02.03:510][601]LogEditorFactories: Performing atomic reimport of [C:/Users/zkolman/Desktop/Modular Ship Pieces/HighWallPiece.fbx]
+[2018.07.25-19.02.03:531][601]LogFbx: Loading FBX Scene from C:/Users/zkolman/Desktop/Modular Ship Pieces/HighWallPiece.fbx
+[2018.07.25-19.02.03:540][601]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-19.02.03:540][601]LogFbx: Warning: Triangulating static mesh polySurface29
+[2018.07.25-19.02.03:550][601]LogStaticMesh: Building static mesh HighWallPiece...
+[2018.07.25-19.02.03:551][601]LogStaticMesh: Built static mesh [0.00s] /Game/ModularShipPieces/HighWallPiece.HighWallPiece
+[2018.07.25-19.02.03:608][601]LogStaticMesh: Warning: HighWallPiece has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.07.25-19.02.03:608][601]LogStaticMesh: Warning: HighWallPiece has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.07.25-19.02.03:615][601]LogEditorFactories: -- imported successfully
+[2018.07.25-19.02.03:619][601]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.25-19.02.03:619][601]FBXImport: Warning: HighWallPiece has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.07.25-19.02.03:619][601]FBXImport: Warning: HighWallPiece has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.07.25-19.02.07:279][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighWallPiece)
+[2018.07.25-19.02.08:835][ 78]Cmd: DELETE
+[2018.07.25-19.02.08:835][ 78]Cmd: ACTOR DELETE
+[2018.07.25-19.02.08:846][ 78]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-19.02.08:861][ 78]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.07.25-19.02.33:005][727]LogEditorFactories: Performing atomic reimport of [C:/Users/zkolman/Desktop/Modular Ship Pieces/SlopedWallToCommand.fbx]
+[2018.07.25-19.02.33:033][727]LogFbx: Loading FBX Scene from C:/Users/zkolman/Desktop/Modular Ship Pieces/SlopedWallToCommand.fbx
+[2018.07.25-19.02.33:040][727]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-19.02.33:041][727]LogFbx: Warning: Triangulating static mesh polySurface28
+[2018.07.25-19.02.33:049][727]LogStaticMesh: Building static mesh SlopedWallToCommand...
+[2018.07.25-19.02.33:050][727]LogStaticMesh: Built static mesh [0.00s] /Game/ModularShipPieces/SlopedWallToCommand.SlopedWallToCommand
+[2018.07.25-19.02.33:058][727]LogEditorFactories: -- imported successfully
+[2018.07.25-19.02.33:061][727]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.25-19.02.38:251][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice16)
+[2018.07.25-19.02.40:088][442]Cmd: DELETE
+[2018.07.25-19.02.40:088][442]Cmd: ACTOR DELETE
+[2018.07.25-19.02.40:099][442]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-19.02.40:113][442]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.07.25-19.02.40:828][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice15)
+[2018.07.25-19.02.41:514][580]Cmd: DELETE
+[2018.07.25-19.02.41:514][580]Cmd: ACTOR DELETE
+[2018.07.25-19.02.41:525][580]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-19.02.41:539][580]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.07.25-19.02.45:503][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice13)
+[2018.07.25-19.03.18:092][127]LogEditorFactories: Performing atomic reimport of [C:/Users/zkolman/Desktop/Modular Ship Pieces/SlopedWallToCommand.fbx]
+[2018.07.25-19.03.18:262][127]LogFbx: Loading FBX Scene from C:/Users/zkolman/Desktop/Modular Ship Pieces/SlopedWallToCommand.fbx
+[2018.07.25-19.03.18:268][127]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-19.03.18:269][127]LogFbx: Warning: Triangulating static mesh polySurface28
+[2018.07.25-19.03.18:278][127]LogStaticMesh: Building static mesh SlopedWallToCommand...
+[2018.07.25-19.03.18:279][127]LogStaticMesh: Built static mesh [0.00s] /Game/ModularShipPieces/SlopedWallToCommand.SlopedWallToCommand
+[2018.07.25-19.03.18:286][127]LogEditorFactories: -- imported successfully
+[2018.07.25-19.03.18:290][127]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.25-19.03.21:325][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SlopedWallToCommand3)
+[2018.07.25-19.03.22:238][417]Cmd: DELETE
+[2018.07.25-19.03.22:238][417]Cmd: ACTOR DELETE
+[2018.07.25-19.03.22:250][417]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-19.03.22:264][417]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.07.25-19.03.54:956][101]LogActorFactory: Actor Factory created SlopedWallToCommand
+[2018.07.25-19.03.55:987][213]LogActorFactory: Actor Factory created SlopedWallToCommand
+[2018.07.25-19.03.56:398][241]Cmd: DELETE
+[2018.07.25-19.03.56:398][241]Cmd: ACTOR DELETE
+[2018.07.25-19.03.56:409][241]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-19.03.56:423][241]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.07.25-19.04.03:729][335]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Users/zkolman/Desktop/Modular Ship Pieces/SlopedWallToCommand.fbx)
+[2018.07.25-19.04.03:734][335]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.07.25-19.04.03:734][335]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.07.25-19.04.03:734][335]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.07.25-19.04.03:734][335]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.07.25-19.04.03:734][335]LogFbx: ItemName: Material, ItemCount : 1
+[2018.07.25-19.04.03:734][335]LogFbx: ItemName: Texture, ItemCount : 1
+[2018.07.25-19.04.03:734][335]LogFbx: ItemName: Model, ItemCount : 1
+[2018.07.25-19.04.03:734][335]LogFbx: ItemName: Video, ItemCount : 1
+[2018.07.25-19.04.03:739][335]LogFbx: Loading FBX Scene from ../../../../Users/zkolman/Desktop/Modular Ship Pieces/SlopedWallToCommand.fbx
+[2018.07.25-19.04.03:745][335]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-19.04.06:862][335]LogFbx: Loading FBX Scene from ../../../../Users/zkolman/Desktop/Modular Ship Pieces/SlopedWallToCommand.fbx
+[2018.07.25-19.04.06:870][335]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-19.04.06:870][335]LogFbx: Warning: Triangulating static mesh polySurface28
+[2018.07.25-19.04.06:880][335]LogStaticMesh: Building static mesh SlopedWallToCommand...
+[2018.07.25-19.04.06:881][335]LogStaticMesh: Built static mesh [0.01s] /Game/ModularShipPieces/SlopedWallToCommand.SlopedWallToCommand
+[2018.07.25-19.04.06:892][335]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.25-19.04.08:865][503]LogActorFactory: Actor Factory created SlopedWallToCommand
+[2018.07.25-19.04.11:827][810]LogActorFactory: Actor Factory created SlopedWallToCommand
+[2018.07.25-19.04.14:029][983]Cmd: DELETE
+[2018.07.25-19.04.14:029][983]Cmd: ACTOR DELETE
+[2018.07.25-19.04.14:045][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-19.04.14:060][983]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2018.07.25-19.04.15:078][ 66]LogActorFactory: Actor Factory created SlopedWallToCommand
+[2018.07.25-19.04.16:832][249]LogActorFactory: Actor Factory created SlopedWallToCommand
+[2018.07.25-19.06.10:558][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWithWindow_polySurface28)
+[2018.07.25-19.06.12:131][687]Cmd: DELETE
+[2018.07.25-19.06.12:131][687]Cmd: ACTOR DELETE
+[2018.07.25-19.06.12:143][687]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-19.06.12:158][687]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.07.25-19.06.12:567][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWithWindow_polySurface24)
+[2018.07.25-19.06.12:956][769]Cmd: DELETE
+[2018.07.25-19.06.12:956][769]Cmd: ACTOR DELETE
+[2018.07.25-19.06.12:967][769]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-19.06.12:980][769]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.07.25-19.06.13:629][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWithWindow_polySurface20)
+[2018.07.25-19.06.13:955][872]Cmd: DELETE
+[2018.07.25-19.06.13:955][872]Cmd: ACTOR DELETE
+[2018.07.25-19.06.13:966][872]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-19.06.13:980][872]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.07.25-19.06.19:883][567]Cmd: TRANSACTION UNDO
+[2018.07.25-19.06.19:883][567]LogEditorTransaction: Undo Delete Actors
+[2018.07.25-19.06.22:525][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWithWindow_polySurface14)
+[2018.07.25-19.06.35:239][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice8)
+[2018.07.25-19.06.37:607][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWithWindow_polySurface22)
+[2018.07.25-19.06.38:303][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice8)
+[2018.07.25-19.08.21:316][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighWallPiece2)
+[2018.07.25-19.08.22:535][899]Cmd: DELETE
+[2018.07.25-19.08.22:535][899]Cmd: ACTOR DELETE
+[2018.07.25-19.08.22:546][899]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-19.08.22:560][899]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.07.25-19.10.40:928][155]LogSavePackage: Save=770.50ms
+[2018.07.25-19.10.40:928][155]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/NewShipLevel_Auto31C8390564F65B5F1E41049B7D6B1F34E.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Maps/NewShipLevel_Auto3.umap'
+[2018.07.25-19.10.40:930][155]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Maps/NewShipLevel_Auto3.umap
+[2018.07.25-19.10.40:931][155]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewShipLevel' took 0.800
+[2018.07.25-19.10.40:931][155]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.800
+[2018.07.25-19.10.40:934][155]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModularShipPieces/HighWallPiece] ([1] browsable assets)...
+[2018.07.25-19.10.40:953][155]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModularShipPieces/HighWallPiece.HighWallPiece]
+[2018.07.25-19.10.40:954][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularShipPieces/HighWallPiece]
+[2018.07.25-19.10.40:967][155]LogSavePackage: Save=12.13ms
+[2018.07.25-19.10.40:967][155]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/HighWallPiece_Auto30E9BB36B4801A4216D3B66B5C03A41C4.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ModularShipPieces/HighWallPiece_Auto3.uasset'
+[2018.07.25-19.10.40:990][155]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ModularShipPieces/HighWallPiece_Auto3.uasset
+[2018.07.25-19.10.40:991][155]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModularShipPieces/SlopedWallToCommand] ([1] browsable assets)...
+[2018.07.25-19.10.41:009][155]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModularShipPieces/SlopedWallToCommand.SlopedWallToCommand]
+[2018.07.25-19.10.41:009][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularShipPieces/SlopedWallToCommand]
+[2018.07.25-19.10.41:022][155]LogSavePackage: Save=12.18ms
+[2018.07.25-19.10.41:022][155]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/SlopedWallToCommand_Auto3AD3CE0B6451ECDC8CACDC88BA1108437.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ModularShipPieces/SlopedWallToCommand_Auto3.uasset'
+[2018.07.25-19.10.41:023][155]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ModularShipPieces/SlopedWallToCommand_Auto3.uasset
+[2018.07.25-19.10.41:023][155]LogFileHelpers: Auto-saving content packages took 0.089
+[2018.07.25-19.11.10:000][537]LogEditorFactories: Performing atomic reimport of [C:/Users/zkolman/Desktop/Modular Ship Pieces/HighWallPiece.fbx]
+[2018.07.25-19.11.10:020][537]LogFbx: Loading FBX Scene from C:/Users/zkolman/Desktop/Modular Ship Pieces/HighWallPiece.fbx
+[2018.07.25-19.11.10:027][537]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-19.11.10:028][537]LogFbx: Warning: Triangulating static mesh polySurface29
+[2018.07.25-19.11.10:052][537]LogStaticMesh: Building static mesh HighWallPiece...
+[2018.07.25-19.11.10:054][537]LogStaticMesh: Built static mesh [0.00s] /Game/ModularShipPieces/HighWallPiece.HighWallPiece
+[2018.07.25-19.11.10:055][537]LogStaticMesh: Warning: HighWallPiece has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.07.25-19.11.10:055][537]LogStaticMesh: Warning: HighWallPiece has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.07.25-19.11.10:061][537]LogEditorFactories: -- imported successfully
+[2018.07.25-19.11.10:064][537]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.25-19.11.10:064][537]FBXImport: Warning: HighWallPiece has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.07.25-19.11.10:064][537]FBXImport: Warning: HighWallPiece has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.07.25-19.11.10:999][601]LogActorFactory: Actor Factory created HighWallPiece
+[2018.07.25-19.11.11:728][676]LogActorFactory: Actor Factory created HighWallPiece
+[2018.07.25-19.13.00:976][562]LogEditorFactories: Performing atomic reimport of [C:/Users/zkolman/Desktop/Modular Ship Pieces/HighWallPiece.fbx]
+[2018.07.25-19.13.00:996][562]LogFbx: Loading FBX Scene from C:/Users/zkolman/Desktop/Modular Ship Pieces/HighWallPiece.fbx
+[2018.07.25-19.13.01:003][562]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-19.13.01:003][562]LogFbx: Warning: Triangulating static mesh polySurface29
+[2018.07.25-19.13.01:013][562]LogStaticMesh: Building static mesh HighWallPiece...
+[2018.07.25-19.13.01:014][562]LogStaticMesh: Built static mesh [0.00s] /Game/ModularShipPieces/HighWallPiece.HighWallPiece
+[2018.07.25-19.13.01:015][562]LogStaticMesh: Warning: HighWallPiece has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.07.25-19.13.01:015][562]LogStaticMesh: Warning: HighWallPiece has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.07.25-19.13.01:021][562]LogEditorFactories: -- imported successfully
+[2018.07.25-19.13.01:024][562]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.25-19.13.01:024][562]FBXImport: Warning: HighWallPiece has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.07.25-19.13.01:024][562]FBXImport: Warning: HighWallPiece has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.07.25-19.13.37:169][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice16)
+[2018.07.25-19.13.38:422][870]Cmd: DELETE
+[2018.07.25-19.13.38:422][870]Cmd: ACTOR DELETE
+[2018.07.25-19.13.38:436][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-19.13.38:450][870]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2018.07.25-19.13.39:133][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice15)
+[2018.07.25-19.13.39:927][ 14]Cmd: DELETE
+[2018.07.25-19.13.39:927][ 14]Cmd: ACTOR DELETE
+[2018.07.25-19.13.39:938][ 14]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-19.13.39:952][ 14]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.07.25-19.14.46:822][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SlopedWallToCommand3)
+[2018.07.25-19.14.52:229][520]LogEditorFactories: Performing atomic reimport of [C:/Users/zkolman/Desktop/Modular Ship Pieces/SlopedWallToCommand.fbx]
+[2018.07.25-19.14.52:249][520]LogFbx: Loading FBX Scene from C:/Users/zkolman/Desktop/Modular Ship Pieces/SlopedWallToCommand.fbx
+[2018.07.25-19.14.52:256][520]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-19.14.52:256][520]LogFbx: Warning: Triangulating static mesh polySurface28
+[2018.07.25-19.14.52:265][520]LogStaticMesh: Building static mesh SlopedWallToCommand...
+[2018.07.25-19.14.52:266][520]LogStaticMesh: Built static mesh [0.00s] /Game/ModularShipPieces/SlopedWallToCommand.SlopedWallToCommand
+[2018.07.25-19.14.52:303][520]LogEditorFactories: -- imported successfully
+[2018.07.25-19.14.52:306][520]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.25-19.16.46:506][297]LogEditorFactories: Performing atomic reimport of [C:/Users/zkolman/Desktop/Modular Ship Pieces/SlopedWallToCommand.fbx]
+[2018.07.25-19.16.46:526][297]LogFbx: Loading FBX Scene from C:/Users/zkolman/Desktop/Modular Ship Pieces/SlopedWallToCommand.fbx
+[2018.07.25-19.16.46:532][297]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-19.16.46:533][297]LogFbx: Warning: Triangulating static mesh polySurface28
+[2018.07.25-19.16.46:544][297]LogStaticMesh: Building static mesh SlopedWallToCommand...
+[2018.07.25-19.16.46:544][297]LogStaticMesh: Built static mesh [0.00s] /Game/ModularShipPieces/SlopedWallToCommand.SlopedWallToCommand
+[2018.07.25-19.16.46:561][297]LogEditorFactories: -- imported successfully
+[2018.07.25-19.16.46:564][297]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.25-19.17.06:771][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2018.07.25-19.17.12:122][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice14)
+[2018.07.25-19.17.26:850][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2018.07.25-19.19.09:645][  4]LogActorFactory: Actor Factory created BaseFloorPeice
+[2018.07.25-19.19.10:548][ 71]LogActorFactory: Actor Factory created BaseFloorPeice
+[2018.07.25-19.19.11:826][177]Cmd: DELETE
+[2018.07.25-19.19.11:827][177]Cmd: ACTOR DELETE
+[2018.07.25-19.19.11:838][177]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.25-19.19.11:853][177]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.07.25-19.20.48:438][556]LogSavePackage: Save=754.45ms
+[2018.07.25-19.20.48:438][556]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/NewShipLevel_Auto42779C816454FC180E38B4BAA0E951827.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Maps/NewShipLevel_Auto4.umap'
+[2018.07.25-19.20.48:440][556]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Maps/NewShipLevel_Auto4.umap
+[2018.07.25-19.20.48:441][556]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewShipLevel' took 0.923
+[2018.07.25-19.20.48:441][556]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.923
+[2018.07.25-19.20.48:444][556]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModularShipPieces/HighWallPiece] ([1] browsable assets)...
+[2018.07.25-19.20.48:462][556]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModularShipPieces/HighWallPiece.HighWallPiece]
+[2018.07.25-19.20.48:462][556]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularShipPieces/HighWallPiece]
+[2018.07.25-19.20.48:476][556]LogSavePackage: Save=12.79ms
+[2018.07.25-19.20.48:476][556]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/HighWallPiece_Auto4FC5CD8F948AF207D10D268AE3A29D453.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ModularShipPieces/HighWallPiece_Auto4.uasset'
+[2018.07.25-19.20.48:477][556]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ModularShipPieces/HighWallPiece_Auto4.uasset
+[2018.07.25-19.20.48:477][556]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModularShipPieces/SlopedWallToCommand] ([1] browsable assets)...
+[2018.07.25-19.20.48:496][556]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModularShipPieces/SlopedWallToCommand.SlopedWallToCommand]
+[2018.07.25-19.20.48:496][556]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularShipPieces/SlopedWallToCommand]
+[2018.07.25-19.20.48:510][556]LogSavePackage: Save=12.68ms
+[2018.07.25-19.20.48:510][556]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/SlopedWallToCommand_Auto4E43A45F34920D4BB3426529726D1B803.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ModularShipPieces/SlopedWallToCommand_Auto4.uasset'
+[2018.07.25-19.20.48:511][556]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ModularShipPieces/SlopedWallToCommand_Auto4.uasset
+[2018.07.25-19.20.48:511][556]LogFileHelpers: Auto-saving content packages took 0.068
+[2018.07.25-19.34.44:184][497]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Users/zkolman/Desktop/Modular Ship Pieces/AngledControlRoomWall.fbx)
+[2018.07.25-19.34.44:189][497]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.07.25-19.34.44:189][497]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.07.25-19.34.44:189][497]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.07.25-19.34.44:189][497]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2018.07.25-19.34.44:189][497]LogFbx: ItemName: Model, ItemCount : 3
+[2018.07.25-19.34.44:189][497]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.07.25-19.34.44:189][497]LogFbx: ItemName: Material, ItemCount : 1
+[2018.07.25-19.34.44:189][497]LogFbx: ItemName: Texture, ItemCount : 1
+[2018.07.25-19.34.44:189][497]LogFbx: ItemName: Video, ItemCount : 1
+[2018.07.25-19.34.44:194][497]LogFbx: Loading FBX Scene from ../../../../Users/zkolman/Desktop/Modular Ship Pieces/AngledControlRoomWall.fbx
+[2018.07.25-19.34.44:201][497]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-19.34.47:847][497]LogFbx: Loading FBX Scene from ../../../../Users/zkolman/Desktop/Modular Ship Pieces/AngledControlRoomWall.fbx
+[2018.07.25-19.34.47:854][497]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-19.34.47:855][497]LogFbx: Warning: Triangulating static mesh polySurface33
+[2018.07.25-19.34.47:856][497]LogStaticMesh: Building static mesh AngledControlRoomWall...
+[2018.07.25-19.34.47:857][497]LogStaticMesh: Built static mesh [0.00s] /Game/ModularShipPieces/AngledControlRoomWall.AngledControlRoomWall
+[2018.07.25-19.34.47:867][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.25-19.34.51:001][819]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewShipLevel' took 0.013
+[2018.07.25-19.34.51:002][819]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModularShipPieces/AngledControlRoomWall] ([1] browsable assets)...
+[2018.07.25-19.34.51:019][819]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModularShipPieces/AngledControlRoomWall.AngledControlRoomWall]
+[2018.07.25-19.34.51:019][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularShipPieces/AngledControlRoomWall]
+[2018.07.25-19.34.51:033][819]LogSavePackage: Save=12.52ms
+[2018.07.25-19.34.51:034][819]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/AngledControlRoomWall_Auto53009708E4D67022E6CE7F28D7530DC06.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ModularShipPieces/AngledControlRoomWall_Auto5.uasset'
+[2018.07.25-19.34.51:055][819]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ModularShipPieces/AngledControlRoomWall_Auto5.uasset
+[2018.07.25-19.34.51:055][819]LogFileHelpers: Auto-saving content packages took 0.054
+[2018.07.25-19.44.30:725][382]LogActorFactory: Actor Factory created AngledControlRoomWall
+[2018.07.25-19.44.31:512][448]LogActorFactory: Actor Factory created AngledControlRoomWall
+[2018.07.25-19.45.41:430][741]LogSavePackage: Save=756.97ms
+[2018.07.25-19.45.41:430][741]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/NewShipLevel_Auto6082B781543C06C3AB56A299534B2693A.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Maps/NewShipLevel_Auto6.umap'
+[2018.07.25-19.45.41:431][741]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Maps/NewShipLevel_Auto6.umap
+[2018.07.25-19.45.41:433][741]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewShipLevel' took 0.786
+[2018.07.25-19.45.41:433][741]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.786
+[2018.07.25-19.46.32:964][185]LogEditorFactories: Performing atomic reimport of [C:/Users/zkolman/Desktop/Modular Ship Pieces/AngledControlRoomWall.fbx]
+[2018.07.25-19.46.32:985][185]LogFbx: Loading FBX Scene from C:/Users/zkolman/Desktop/Modular Ship Pieces/AngledControlRoomWall.fbx
+[2018.07.25-19.46.32:994][185]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-19.46.32:995][185]LogFbx: Warning: Triangulating static mesh polySurface33
+[2018.07.25-19.46.33:006][185]LogStaticMesh: Building static mesh AngledControlRoomWall...
+[2018.07.25-19.46.33:007][185]LogStaticMesh: Built static mesh [0.00s] /Game/ModularShipPieces/AngledControlRoomWall.AngledControlRoomWall
+[2018.07.25-19.46.33:014][185]LogEditorFactories: -- imported successfully
+[2018.07.25-19.46.33:017][185]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.25-19.46.44:343][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SlopedWallToCommand3)
+[2018.07.25-19.47.07:247][752]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Users/zkolman/Desktop/Modular Ship Pieces/AngledCommandFloor.fbx)
+[2018.07.25-19.47.07:252][752]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.07.25-19.47.07:252][752]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.07.25-19.47.07:252][752]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.07.25-19.47.07:252][752]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.07.25-19.47.07:252][752]LogFbx: ItemName: Material, ItemCount : 1
+[2018.07.25-19.47.07:252][752]LogFbx: ItemName: Texture, ItemCount : 1
+[2018.07.25-19.47.07:253][752]LogFbx: ItemName: Model, ItemCount : 1
+[2018.07.25-19.47.07:253][752]LogFbx: ItemName: Video, ItemCount : 1
+[2018.07.25-19.47.07:258][752]LogFbx: Loading FBX Scene from ../../../../Users/zkolman/Desktop/Modular Ship Pieces/AngledCommandFloor.fbx
+[2018.07.25-19.47.07:264][752]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-19.47.10:778][752]LogFbx: Loading FBX Scene from ../../../../Users/zkolman/Desktop/Modular Ship Pieces/AngledCommandFloor.fbx
+[2018.07.25-19.47.10:785][752]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-19.47.10:786][752]LogStaticMesh: Building static mesh AngledCommandFloor...
+[2018.07.25-19.47.10:786][752]LogStaticMesh: Built static mesh [0.00s] /Game/ModularShipPieces/AngledCommandFloor.AngledCommandFloor
+[2018.07.25-19.47.10:791][752]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.25-19.47.14:044][995]LogActorFactory: Actor Factory created AngledCommandFloor
+[2018.07.25-19.47.15:867][142]LogActorFactory: Actor Factory created AngledCommandFloor
+[2018.07.25-19.47.30:431][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice15)
+[2018.07.25-19.47.35:707][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SlopedWallToCommand3)
+[2018.07.25-19.47.38:890][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AngledControlRoomWall)
+[2018.07.25-19.48.30:919][538]LogEditorFactories: Performing atomic reimport of [C:/Users/zkolman/Desktop/Modular Ship Pieces/AngledControlRoomWall.fbx]
+[2018.07.25-19.48.30:940][538]LogFbx: Loading FBX Scene from C:/Users/zkolman/Desktop/Modular Ship Pieces/AngledControlRoomWall.fbx
+[2018.07.25-19.48.30:947][538]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-19.48.30:948][538]LogFbx: Warning: Triangulating static mesh polySurface33
+[2018.07.25-19.48.30:958][538]LogStaticMesh: Building static mesh AngledControlRoomWall...
+[2018.07.25-19.48.30:959][538]LogStaticMesh: Built static mesh [0.00s] /Game/ModularShipPieces/AngledControlRoomWall.AngledControlRoomWall
+[2018.07.25-19.48.30:967][538]LogEditorFactories: -- imported successfully
+[2018.07.25-19.48.30:970][538]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.25-19.48.49:673][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighWallPiece)
+[2018.07.25-19.48.50:901][225]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AngledControlRoomWall)
+[2018.07.25-19.54.42:598][ 40]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.25-19.54.43:108][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AngledControlRoomWall)
+[2018.07.25-19.54.58:344][343]LogEditorFactories: Performing atomic reimport of [C:/Users/zkolman/Desktop/Modular Ship Pieces/AngledControlRoomWall.fbx]
+[2018.07.25-19.54.58:364][343]LogFbx: Loading FBX Scene from C:/Users/zkolman/Desktop/Modular Ship Pieces/AngledControlRoomWall.fbx
+[2018.07.25-19.54.58:373][343]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-19.54.58:373][343]LogFbx: Warning: Triangulating static mesh polySurface29
+[2018.07.25-19.54.58:374][343]LogFbx: Warning: Triangulating static mesh polySurface33
+[2018.07.25-19.54.58:384][343]LogStaticMesh: Building static mesh AngledControlRoomWall...
+[2018.07.25-19.54.58:385][343]LogStaticMesh: Built static mesh [0.00s] /Game/ModularShipPieces/AngledControlRoomWall.AngledControlRoomWall
+[2018.07.25-19.54.58:394][343]LogEditorFactories: -- imported successfully
+[2018.07.25-19.54.58:396][343]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.25-19.55.42:444][134]LogSavePackage: Save=766.73ms
+[2018.07.25-19.55.42:444][134]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/NewShipLevel_Auto7934BD22C4D5A11471C1A72AB5C6E704C.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Maps/NewShipLevel_Auto7.umap'
+[2018.07.25-19.55.42:463][134]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Maps/NewShipLevel_Auto7.umap
+[2018.07.25-19.55.42:464][134]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewShipLevel' took 0.814
+[2018.07.25-19.55.42:464][134]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.814
+[2018.07.25-19.55.42:467][134]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModularShipPieces/AngledControlRoomWall] ([1] browsable assets)...
+[2018.07.25-19.55.42:481][134]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModularShipPieces/AngledControlRoomWall.AngledControlRoomWall]
+[2018.07.25-19.55.42:481][134]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularShipPieces/AngledControlRoomWall]
+[2018.07.25-19.55.42:495][134]LogSavePackage: Save=12.79ms
+[2018.07.25-19.55.42:495][134]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/AngledControlRoomWall_Auto7DF381B5B46CCD2BE63DF06A557FDC87E.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ModularShipPieces/AngledControlRoomWall_Auto7.uasset'
+[2018.07.25-19.55.42:496][134]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ModularShipPieces/AngledControlRoomWall_Auto7.uasset
+[2018.07.25-19.55.42:497][134]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModularShipPieces/AngledCommandFloor] ([1] browsable assets)...
+[2018.07.25-19.55.42:512][134]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModularShipPieces/AngledCommandFloor.AngledCommandFloor]
+[2018.07.25-19.55.42:512][134]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularShipPieces/AngledCommandFloor]
+[2018.07.25-19.55.42:525][134]LogSavePackage: Save=12.19ms
+[2018.07.25-19.55.42:525][134]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/AngledCommandFloor_Auto78445FBAC46720DD25E386180A1546218.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ModularShipPieces/AngledCommandFloor_Auto7.uasset'
+[2018.07.25-19.55.42:526][134]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ModularShipPieces/AngledCommandFloor_Auto7.uasset
+[2018.07.25-19.55.42:526][134]LogFileHelpers: Auto-saving content packages took 0.060
+[2018.07.25-19.58.27:221][555]LogEditorFactories: Performing atomic reimport of [C:/Users/zkolman/Desktop/Modular Ship Pieces/AngledControlRoomWall.fbx]
+[2018.07.25-19.58.27:240][555]LogFbx: Loading FBX Scene from C:/Users/zkolman/Desktop/Modular Ship Pieces/AngledControlRoomWall.fbx
+[2018.07.25-19.58.27:247][555]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.25-19.58.27:248][555]LogFbx: Warning: Triangulating static mesh polySurface33
+[2018.07.25-19.58.27:257][555]LogStaticMesh: Building static mesh AngledControlRoomWall...
+[2018.07.25-19.58.27:259][555]LogStaticMesh: Built static mesh [0.00s] /Game/ModularShipPieces/AngledControlRoomWall.AngledControlRoomWall
+[2018.07.25-19.58.27:267][555]LogEditorFactories: -- imported successfully
+[2018.07.25-19.58.27:270][555]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.25-19.58.34:568][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SlopedWallToCommand3)
+[2018.07.25-19.58.41:698][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighWallPiece)
+[2018.07.25-19.58.46:062][ 43]Cmd: TRANSACTION UNDO
+[2018.07.25-19.58.46:062][ 43]LogEditorTransaction: Undo Rotate Actors
+[2018.07.25-19.59.25:175][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AngledControlRoomWall)
+[2018.07.25-19.59.43:463][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2018.07.25-19.59.45:042][311]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AngledCommandFloor)
+[2018.07.25-19.59.56:317][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseFloorPeice16)
+[2018.07.25-20.00.11:510][497]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.25-20.00.11:899][497]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.25-20.00.11:900][497]PIE: New page: PIE session: NewShipLevel (Jul 25, 2018, 10:00:11 AM)
+[2018.07.25-20.00.11:900][497]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewShipLevel
+[2018.07.25-20.00.11:979][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079075s)
+[2018.07.25-20.00.11:980][497]LogAIModule: Creating AISystem for world NewShipLevel
+[2018.07.25-20.00.11:980][497]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2018.07.25-20.00.11:980][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewShipLevel.NewShipLevel to /Game/Maps/UEDPIE_0_NewShipLevel.NewShipLevel (0.080458s)
+[2018.07.25-20.00.12:019][497]LogInit: XAudio2 using 'Speakers (3- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.25-20.00.12:039][497]LogInit: FAudioDevice initialized.
+[2018.07.25-20.00.12:887][497]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.25-20.00.12:920][497]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewShipLevel.NewShipLevel up for play (max tick rate 0) at 2018.07.25-15.00.12
+[2018.07.25-20.00.12:922][497]LogWorld: Bringing up level for play took: 0.033370
+[2018.07.25-20.00.13:005][497]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.07.25-20.00.13:015][497]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewShipLevel 1.101
+[2018.07.25-20.00.13:052][497]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.07.25-20.00.15:133][635]LogScript: Warning: Attempted to access Icon via property Icon, but Icon is pending kill
+	Pistol_Child_C /Game/Maps/UEDPIE_0_NewShipLevel.NewShipLevel:PersistentLevel.Pistol_Child_C_0
+	Function /Game/ThirdPersonBP/Weapons/MasterPickupBP.MasterPickupBP_C:On\OffVisibility\Custom:0062
+[2018.07.25-20.00.15:133][635]PIE: Error: Blueprint Runtime Error: Attempted to access Icon via property Icon, but Icon is pending kill from function: 'On\OffVisibility\Custom' from node: Set Render Custom Depth in graph: On\OffVisibility\Custom in object: MasterPickupBP with description: Attempted to access Icon via property Icon, but Icon is pending kill
+[2018.07.25-20.00.15:133][635]LogScript: Warning: Attempted to access Icon via property Icon, but Icon is pending kill
+	Pistol_Child_C /Game/Maps/UEDPIE_0_NewShipLevel.NewShipLevel:PersistentLevel.Pistol_Child_569
+	Function /Game/ThirdPersonBP/Weapons/MasterPickupBP.MasterPickupBP_C:On\OffVisibility\Custom:0062
+[2018.07.25-20.00.15:133][635]PIE: Error: Blueprint Runtime Error: Attempted to access Icon via property Icon, but Icon is pending kill from function: 'On\OffVisibility\Custom' from node: Set Render Custom Depth in graph: On\OffVisibility\Custom in object: MasterPickupBP with description: Attempted to access Icon via property Icon, but Icon is pending kill
+[2018.07.25-20.01.55:486][ 60]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.07.25-20.01.56:467][ 60]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.25-20.01.56:544][ 60]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.25-20.04.34:536][528]BlueprintLog: New page: Compile AI_Base_BP
+[2018.07.25-20.04.34:650][528]LogBlueprint: Warning: [Compiler AI_Base_BP] 'Third Person Character' does not inherit from 'Player Controller' ( Cast To ThirdPersonCharacter  would always fail).
+[2018.07.25-20.04.35:469][528]LogBlueprint: Warning: [Compiler AI_Base_BP] [6489.77] Compile of AI_Base_BP successful, but with 1 Warning(s) [in 933 ms] (/Game/AI_Bleuprint/AI_Base_BP.AI_Base_BP)
+[2018.07.25-20.05.00:258][ 43]BlueprintLog: New page: Compile AI_Base_BP
+[2018.07.25-20.05.00:290][ 43]LogBlueprint: Warning: [Compiler AI_Base_BP] 'Third Person Character' does not inherit from 'Player Controller' ( Cast To ThirdPersonCharacter  would always fail).
+[2018.07.25-20.05.01:092][ 43]LogBlueprint: Warning: [Compiler AI_Base_BP] [6515.39] Compile of AI_Base_BP successful, but with 1 Warning(s) [in 834 ms] (/Game/AI_Bleuprint/AI_Base_BP.AI_Base_BP)
+[2018.07.25-20.05.11:161][693]BlueprintLog: New page: Compile AI_Base_BP
+[2018.07.25-20.05.14:024][814]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.25-20.05.14:059][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.25-20.05.14:059][814]PIE: New page: PIE session: NewShipLevel (Jul 25, 2018, 10:05:14 AM)
+[2018.07.25-20.05.14:059][814]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewShipLevel
+[2018.07.25-20.05.14:096][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037379s)
+[2018.07.25-20.05.14:097][814]LogAIModule: Creating AISystem for world NewShipLevel
+[2018.07.25-20.05.14:097][814]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2018.07.25-20.05.14:097][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewShipLevel.NewShipLevel to /Game/Maps/UEDPIE_0_NewShipLevel.NewShipLevel (0.038647s)
+[2018.07.25-20.05.14:124][814]LogInit: XAudio2 using 'Speakers (3- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.25-20.05.14:132][814]LogInit: FAudioDevice initialized.
+[2018.07.25-20.05.14:180][814]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.25-20.05.14:205][814]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewShipLevel.NewShipLevel up for play (max tick rate 0) at 2018.07.25-15.05.14
+[2018.07.25-20.05.14:206][814]LogWorld: Bringing up level for play took: 0.025132
+[2018.07.25-20.05.14:214][814]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewShipLevel 0.3
+[2018.07.25-20.05.37:073][402]BlueprintLog: New page: Compile AI_Base_BP
+[2018.07.25-20.05.38:351][425]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.25-20.05.38:383][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.25-20.05.38:383][425]PIE: New page: PIE session: NewShipLevel (Jul 25, 2018, 10:05:38 AM)
+[2018.07.25-20.05.38:383][425]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewShipLevel
+[2018.07.25-20.05.38:419][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035767s)
+[2018.07.25-20.05.38:419][425]LogAIModule: Creating AISystem for world NewShipLevel
+[2018.07.25-20.05.38:419][425]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2018.07.25-20.05.38:420][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewShipLevel.NewShipLevel to /Game/Maps/UEDPIE_0_NewShipLevel.NewShipLevel (0.036964s)
+[2018.07.25-20.05.38:447][425]LogInit: XAudio2 using 'Speakers (3- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.25-20.05.38:455][425]LogInit: FAudioDevice initialized.
+[2018.07.25-20.05.38:502][425]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.25-20.05.38:526][425]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewShipLevel.NewShipLevel up for play (max tick rate 0) at 2018.07.25-15.05.38
+[2018.07.25-20.05.38:527][425]LogWorld: Bringing up level for play took: 0.024791
+[2018.07.25-20.05.38:541][425]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewShipLevel 0.627
+[2018.07.25-20.05.58:445][653]BlueprintLog: New page: Compile AI_Base_BP
+[2018.07.25-20.05.59:664][673]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.25-20.05.59:695][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.25-20.05.59:695][673]PIE: New page: PIE session: NewShipLevel (Jul 25, 2018, 10:05:59 AM)
+[2018.07.25-20.05.59:695][673]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewShipLevel
+[2018.07.25-20.05.59:732][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036557s)
+[2018.07.25-20.05.59:732][673]LogAIModule: Creating AISystem for world NewShipLevel
+[2018.07.25-20.05.59:732][673]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2018.07.25-20.05.59:733][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewShipLevel.NewShipLevel to /Game/Maps/UEDPIE_0_NewShipLevel.NewShipLevel (0.037759s)
+[2018.07.25-20.05.59:759][673]LogInit: XAudio2 using 'Speakers (3- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.25-20.05.59:767][673]LogInit: FAudioDevice initialized.
+[2018.07.25-20.05.59:821][673]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.25-20.05.59:846][673]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewShipLevel.NewShipLevel up for play (max tick rate 0) at 2018.07.25-15.05.59
+[2018.07.25-20.05.59:847][673]LogWorld: Bringing up level for play took: 0.025302
+[2018.07.25-20.05.59:856][673]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewShipLevel -0.058
+[2018.07.25-20.06.14:820][562]BlueprintLog: New page: Compile AI_Base_BP
+[2018.07.25-20.06.16:490][610]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.25-20.06.16:520][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.25-20.06.16:520][610]PIE: New page: PIE session: NewShipLevel (Jul 25, 2018, 10:06:16 AM)
+[2018.07.25-20.06.16:521][610]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewShipLevel
+[2018.07.25-20.06.16:556][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035392s)
+[2018.07.25-20.06.16:557][610]LogAIModule: Creating AISystem for world NewShipLevel
+[2018.07.25-20.06.16:557][610]LogPlayLevel: PIE: World Init took: (0.000749s)
+[2018.07.25-20.06.16:557][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewShipLevel.NewShipLevel to /Game/Maps/UEDPIE_0_NewShipLevel.NewShipLevel (0.036563s)
+[2018.07.25-20.06.16:583][610]LogInit: XAudio2 using 'Speakers (3- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.25-20.06.16:591][610]LogInit: FAudioDevice initialized.
+[2018.07.25-20.06.16:640][610]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.25-20.06.16:665][610]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewShipLevel.NewShipLevel up for play (max tick rate 0) at 2018.07.25-15.06.16
+[2018.07.25-20.06.16:666][610]LogWorld: Bringing up level for play took: 0.025341
+[2018.07.25-20.06.16:676][610]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewShipLevel 0.762
+[2018.07.25-20.08.17:886][795]LogSavePackage: Save=744.38ms
+[2018.07.25-20.08.17:886][795]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/NewShipLevel_Auto8E4FD434D42B81C58EC8BDBA734691BAF.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Maps/NewShipLevel_Auto8.umap'
+[2018.07.25-20.08.17:888][795]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/Maps/NewShipLevel_Auto8.umap
+[2018.07.25-20.08.17:889][795]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewShipLevel' took 0.819
+[2018.07.25-20.08.17:889][795]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.819
+[2018.07.25-20.08.17:892][795]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI_Bleuprint/AI_Base_BP] ([1] browsable assets)...
+[2018.07.25-20.08.17:909][795]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI_Bleuprint/AI_Base_BP.AI_Base_BP]
+[2018.07.25-20.08.17:910][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI_Bleuprint/AI_Base_BP]
+[2018.07.25-20.08.17:974][795]LogSavePackage: Save=57.15ms
+[2018.07.25-20.08.17:974][795]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/AI_Base_BP_Auto8221968C34D25A6A4869674BF916E6EF8.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/AI_Bleuprint/AI_Base_BP_Auto8.uasset'
+[2018.07.25-20.08.17:975][795]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/AI_Bleuprint/AI_Base_BP_Auto8.uasset
+[2018.07.25-20.08.17:975][795]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModularShipPieces/AngledControlRoomWall] ([1] browsable assets)...
+[2018.07.25-20.08.17:993][795]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModularShipPieces/AngledControlRoomWall.AngledControlRoomWall]
+[2018.07.25-20.08.17:993][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularShipPieces/AngledControlRoomWall]
+[2018.07.25-20.08.18:009][795]LogSavePackage: Save=14.63ms
+[2018.07.25-20.08.18:009][795]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/AngledControlRoomWall_Auto831FA5ED94ED8EB162773A596BE58C129.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ModularShipPieces/AngledControlRoomWall_Auto8.uasset'
+[2018.07.25-20.08.18:010][795]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Autosaves/Game/ModularShipPieces/AngledControlRoomWall_Auto8.uasset
+[2018.07.25-20.08.18:010][795]LogFileHelpers: Auto-saving content packages took 0.119
+[2018.07.25-20.16.05:615][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2018.07.25-20.17.34:548][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI_Bleuprint/AI_Base_BP" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AI_Bleuprint/AI_Base_BP.uasset" SILENT=true
+[2018.07.25-20.17.34:605][868]LogSavePackage: Save=46.87ms
+[2018.07.25-20.17.34:605][868]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/AI_Base_BPBCDC47E14D3A9DB7F3B4C686058C160B.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AI_Bleuprint/AI_Base_BP.uasset'
+[2018.07.25-20.17.34:607][868]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/AI_Bleuprint/AI_Base_BP.uasset
+[2018.07.25-20.17.34:714][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewShipLevel" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/Maps/NewShipLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.25-20.17.35:763][868]LogSavePackage: Save=1018.80ms
+[2018.07.25-20.17.35:763][868]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/NewShipLevel699D3E3040702BDEA51C4AB607FE864C.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/Maps/NewShipLevel.umap'
+[2018.07.25-20.17.35:765][868]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/Maps/NewShipLevel.umap
+[2018.07.25-20.17.35:807][868]LogFileHelpers: Saving map 'NewShipLevel' took 1.197
+[2018.07.25-20.17.35:829][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ModularShipPieces/AngledCommandFloor" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/ModularShipPieces/AngledCommandFloor.uasset" SILENT=true
+[2018.07.25-20.17.35:842][868]LogSavePackage: Save=11.58ms
+[2018.07.25-20.17.35:842][868]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/AngledCommandFloor1B9FD71E424D42F3F28437901E22BD76.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/ModularShipPieces/AngledCommandFloor.uasset'
+[2018.07.25-20.17.35:843][868]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/ModularShipPieces/AngledCommandFloor.uasset
+[2018.07.25-20.17.35:911][868]LogSavePackage: Save=12.43ms
+[2018.07.25-20.17.35:911][868]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/AngledControlRoomWallFE4C3CA741841EAC9DBAB283A25D474B.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/ModularShipPieces/AngledControlRoomWall.uasset'
+[2018.07.25-20.17.35:913][868]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/ModularShipPieces/AngledControlRoomWall.uasset
+[2018.07.25-20.17.35:935][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ModularShipPieces/HighWallPiece" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/ModularShipPieces/HighWallPiece.uasset" SILENT=true
+[2018.07.25-20.17.35:950][868]LogSavePackage: Save=13.54ms
+[2018.07.25-20.17.35:950][868]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/HighWallPiece27508B6F4D6685AAA7D9929626B4BA1F.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/ModularShipPieces/HighWallPiece.uasset'
+[2018.07.25-20.17.35:952][868]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/ModularShipPieces/HighWallPiece.uasset
+[2018.07.25-20.17.35:973][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ModularShipPieces/SlopedWallToCommand" FILE="../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/ModularShipPieces/SlopedWallToCommand.uasset" SILENT=true
+[2018.07.25-20.17.35:986][868]LogSavePackage: Save=12.03ms
+[2018.07.25-20.17.35:986][868]LogSavePackage: Moving '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/SlopedWallToCommand3C0BFB6242A3BBD4E25C90AE9597933F.tmp' to '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/ModularShipPieces/SlopedWallToCommand.uasset'
+[2018.07.25-20.17.35:988][868]LogSavePackage: Display: Finished SavePackage ../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/ModularShipPieces/SlopedWallToCommand.uasset
+[2018.07.25-20.17.37:713][ 22]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.25-20.17.38:031][ 23]Cmd: QUIT_EDITOR
+[2018.07.25-20.17.38:899][ 23]LogExit: Preparing to exit.
+[2018.07.25-20.17.39:532][ 23]LogDirectoryWatcher: A directory notification for 'C:/Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/' was aborted.
+[2018.07.25-20.17.39:587][ 23]LogExit: Editor shut down
+[2018.07.25-20.17.39:600][ 23]LogExit: Transaction tracking system shut down
+[2018.07.25-20.17.39:811][ 23]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.07.25-20.17.39:811][ 23]LogDirectoryWatcher: A directory notification for '../../../../Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/' was aborted.
+[2018.07.25-20.17.39:811][ 23]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.07.25-20.17.39:811][ 23]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.07.25-20.17.39:811][ 23]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.07.25-20.17.39:811][ 23]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.07.25-20.17.39:812][ 23]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.07.25-20.17.39:990][ 23]LogExit: Object subsystem successfully closed.
+[2018.07.25-20.17.40:018][ 23]LogD3D11RHI: Shutdown
+[2018.07.25-20.17.40:018][ 23]LogD3D11RHI: CleanupD3DDevice
+[2018.07.25-20.17.40:024][ 23]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.07.25-20.17.40:079][ 23]LogModuleManager: Shutting down and abandoning module BlueprintGraph (554)
+[2018.07.25-20.17.40:079][ 23]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (552)
+[2018.07.25-20.17.40:079][ 23]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (550)
+[2018.07.25-20.17.40:079][ 23]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.07.25-20.17.40:080][ 23]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.07.25-20.17.40:080][ 23]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.07.25-20.17.40:080][ 23]LogDirectoryWatcher: A directory notification for 'C:/UE_4.18/FeaturePacks/' was aborted.
+[2018.07.25-20.17.40:082][ 23]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.07.25-20.17.40:082][ 23]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.07.25-20.17.40:082][ 23]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.07.25-20.17.40:082][ 23]LogDirectoryWatcher: A directory notification for 'C:/Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/Collections/' was aborted.
+[2018.07.25-20.17.40:082][ 23]LogDirectoryWatcher: A directory notification for 'C:/Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Content/Developers/zkolman/Collections/' was aborted.
+[2018.07.25-20.17.40:082][ 23]LogDirectoryWatcher: A directory notification for 'C:/Users/zkolman/TPSTest/TPSTest/fpsShooterTest/Saved/Collections/' was aborted.
+[2018.07.25-20.17.40:082][ 23]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.07.25-20.17.40:082][ 23]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.07.25-20.17.40:082][ 23]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.07.25-20.17.40:082][ 23]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.07.25-20.17.40:082][ 23]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.07.25-20.17.40:082][ 23]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.07.25-20.17.40:082][ 23]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.07.25-20.17.40:083][ 23]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.07.25-20.17.40:084][ 23]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.07.25-20.17.40:084][ 23]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.07.25-20.17.40:084][ 23]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.07.25-20.17.40:084][ 23]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.07.25-20.17.40:084][ 23]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.07.25-20.17.40:789][ 23]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.07.25-20.17.40:789][ 23]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.07.25-20.17.40:789][ 23]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.07.25-20.17.40:789][ 23]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.07.25-20.17.40:789][ 23]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.07.25-20.17.40:789][ 23]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.07.25-20.17.40:789][ 23]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.07.25-20.17.40:789][ 23]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.07.25-20.17.40:789][ 23]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.07.25-20.17.40:789][ 23]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.07.25-20.17.40:790][ 23]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.07.25-20.17.40:790][ 23]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.07.25-20.17.40:790][ 23]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.07.25-20.17.40:790][ 23]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.07.25-20.17.40:790][ 23]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.07.25-20.17.40:790][ 23]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.07.25-20.17.40:790][ 23]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.07.25-20.17.40:790][ 23]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.07.25-20.17.40:790][ 23]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.07.25-20.17.40:790][ 23]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.07.25-20.17.40:790][ 23]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.07.25-20.17.40:790][ 23]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.07.25-20.17.40:790][ 23]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.07.25-20.17.40:790][ 23]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.07.25-20.17.40:853][ 23]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.07.25-20.17.40:853][ 23]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.07.25-20.17.40:853][ 23]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.07.25-20.17.40:853][ 23]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.07.25-20.17.40:853][ 23]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.07.25-20.17.40:853][ 23]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.07.25-20.17.40:854][ 23]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.07.25-20.17.40:854][ 23]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.07.25-20.17.40:854][ 23]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.07.25-20.17.40:854][ 23]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.07.25-20.17.40:863][ 23]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.07.25-20.17.40:863][ 23]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.07.25-20.17.40:863][ 23]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.07.25-20.17.40:863][ 23]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.07.25-20.17.40:863][ 23]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.07.25-20.17.40:863][ 23]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.07.25-20.17.40:863][ 23]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.07.25-20.17.40:863][ 23]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.07.25-20.17.40:863][ 23]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.07.25-20.17.40:863][ 23]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.07.25-20.17.40:863][ 23]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.07.25-20.17.40:863][ 23]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.07.25-20.17.40:864][ 23]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.07.25-20.17.40:864][ 23]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.07.25-20.17.40:864][ 23]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.07.25-20.17.40:864][ 23]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.07.25-20.17.40:864][ 23]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.07.25-20.17.40:864][ 23]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.07.25-20.17.40:864][ 23]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.07.25-20.17.40:864][ 23]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.07.25-20.17.40:973][ 23]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.07.25-20.17.40:973][ 23]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.07.25-20.17.40:973][ 23]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.07.25-20.17.40:973][ 23]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.07.25-20.17.40:973][ 23]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.07.25-20.17.40:973][ 23]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.07.25-20.17.40:973][ 23]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.07.25-20.17.40:973][ 23]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.07.25-20.17.40:973][ 23]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.07.25-20.17.40:973][ 23]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.07.25-20.17.40:973][ 23]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.07.25-20.17.40:973][ 23]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.07.25-20.17.40:974][ 23]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.07.25-20.17.40:974][ 23]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.07.25-20.17.40:974][ 23]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.07.25-20.17.40:974][ 23]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.07.25-20.17.40:974][ 23]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.07.25-20.17.40:974][ 23]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.07.25-20.17.40:974][ 23]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.07.25-20.17.40:974][ 23]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.07.25-20.17.40:974][ 23]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.07.25-20.17.40:974][ 23]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.07.25-20.17.40:974][ 23]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.07.25-20.17.40:974][ 23]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.07.25-20.17.40:974][ 23]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.07.25-20.17.40:974][ 23]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.07.25-20.17.40:974][ 23]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.07.25-20.17.40:974][ 23]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.07.25-20.17.40:974][ 23]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.07.25-20.17.40:974][ 23]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.07.25-20.17.40:974][ 23]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.07.25-20.17.40:974][ 23]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.07.25-20.17.40:974][ 23]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.07.25-20.17.40:974][ 23]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.07.25-20.17.40:974][ 23]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.07.25-20.17.40:975][ 23]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.07.25-20.17.40:976][ 23]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.07.25-20.17.40:976][ 23]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.07.25-20.17.40:976][ 23]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.07.25-20.17.40:976][ 23]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.07.25-20.17.40:976][ 23]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.07.25-20.17.40:976][ 23]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.07.25-20.17.40:976][ 23]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.07.25-20.17.40:976][ 23]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.07.25-20.17.40:976][ 23]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.07.25-20.17.40:976][ 23]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.07.25-20.17.41:077][ 23]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.07.25-20.17.41:178][ 23]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.07.25-20.17.41:178][ 23]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.07.25-20.17.41:178][ 23]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.07.25-20.17.41:178][ 23]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.07.25-20.17.41:178][ 23]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.07.25-20.17.41:178][ 23]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.07.25-20.17.41:180][ 23]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.07.25-20.17.41:180][ 23]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.07.25-20.17.41:180][ 23]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.07.25-20.17.41:180][ 23]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.07.25-20.17.41:180][ 23]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.07.25-20.17.41:180][ 23]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.07.25-20.17.41:180][ 23]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.07.25-20.17.41:180][ 23]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.07.25-20.17.41:180][ 23]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.07.25-20.17.41:180][ 23]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.07.25-20.17.41:186][ 23]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.07.25-20.17.41:186][ 23]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.07.25-20.17.41:186][ 23]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.07.25-20.17.41:186][ 23]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.07.25-20.17.41:186][ 23]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.07.25-20.17.41:186][ 23]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.07.25-20.17.41:186][ 23]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.07.25-20.17.41:186][ 23]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.07.25-20.17.41:186][ 23]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.07.25-20.17.41:186][ 23]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.07.25-20.17.41:187][ 23]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.07.25-20.17.41:187][ 23]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.07.25-20.17.41:187][ 23]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.07.25-20.17.41:187][ 23]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.07.25-20.17.41:187][ 23]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.07.25-20.17.41:187][ 23]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.07.25-20.17.41:190][ 23]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.07.25-20.17.41:190][ 23]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.07.25-20.17.41:190][ 23]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.07.25-20.17.41:190][ 23]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.07.25-20.17.41:190][ 23]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.07.25-20.17.41:190][ 23]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.07.25-20.17.41:190][ 23]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.07.25-20.17.41:190][ 23]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.07.25-20.17.41:192][ 23]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.07.25-20.17.41:192][ 23]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.07.25-20.17.41:192][ 23]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.07.25-20.17.41:192][ 23]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.07.25-20.17.41:192][ 23]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.07.25-20.17.41:192][ 23]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.07.25-20.17.41:192][ 23]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.07.25-20.17.41:192][ 23]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.07.25-20.17.41:192][ 23]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.07.25-20.17.41:246][ 23]LogDerivedDataCache: Shutdown
+[2018.07.25-20.17.41:246][ 23]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.07.25-20.17.41:246][ 23]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.07.25-20.17.41:246][ 23]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.07.25-20.17.41:246][ 23]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.07.25-20.17.41:246][ 23]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.07.25-20.17.41:246][ 23]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.07.25-20.17.41:246][ 23]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.07.25-20.17.41:246][ 23]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.07.25-20.17.41:246][ 23]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.07.25-20.17.41:246][ 23]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.07.25-20.17.41:246][ 23]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.07.25-20.17.41:246][ 23]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.07.25-20.17.41:246][ 23]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.07.25-20.17.41:246][ 23]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.07.25-20.17.41:246][ 23]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.07.25-20.17.41:246][ 23]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.07.25-20.17.41:246][ 23]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.07.25-20.17.41:246][ 23]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.07.25-20.17.41:246][ 23]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.07.25-20.17.41:246][ 23]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.07.25-20.17.41:246][ 23]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.07.25-20.17.41:246][ 23]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.07.25-20.17.41:246][ 23]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.07.25-20.17.41:246][ 23]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.07.25-20.17.41:246][ 23]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.07.25-20.17.41:246][ 23]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.07.25-20.17.41:247][ 23]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.07.25-20.17.41:247][ 23]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.07.25-20.17.41:247][ 23]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.07.25-20.17.41:247][ 23]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.07.25-20.17.41:247][ 23]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.07.25-20.17.41:247][ 23]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.07.25-20.17.41:247][ 23]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.07.25-20.17.41:247][ 23]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.07.25-20.17.41:247][ 23]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.07.25-20.17.41:247][ 23]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.07.25-20.17.41:247][ 23]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.07.25-20.17.41:247][ 23]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.07.25-20.17.41:247][ 23]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.07.25-20.17.41:247][ 23]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.07.25-20.17.41:247][ 23]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.07.25-20.17.41:247][ 23]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.07.25-20.17.41:247][ 23]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.07.25-20.17.41:247][ 23]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.07.25-20.17.41:247][ 23]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.07.25-20.17.41:247][ 23]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.07.25-20.17.41:247][ 23]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.07.25-20.17.41:247][ 23]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.07.25-20.17.41:247][ 23]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.07.25-20.17.41:247][ 23]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.07.25-20.17.41:247][ 23]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.07.25-20.17.41:247][ 23]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.07.25-20.17.41:247][ 23]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.07.25-20.17.41:247][ 23]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.07.25-20.17.41:247][ 23]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B348DABD7-45CD-62C0-F4D0-22AEEAE48F99%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=0c8fe7f14212ae8460981ab0a8559ebb%7C755f7370592a4f5da2847d8c01c6faeb%7Cff20797a-266b-46c0-81ad-d45b3380ed11&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.07.25-20.17.41:268][ 23]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.07.25-20.17.41:270][ 23]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.07.25-20.17.41:270][ 23]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.07.25-20.17.41:270][ 23]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.07.25-20.17.41:270][ 23]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.07.25-20.17.41:270][ 23]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.07.25-20.17.41:270][ 23]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.07.25-20.17.41:270][ 23]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.07.25-20.17.41:272][ 23]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.07.25-20.17.41:272][ 23]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.07.25-20.17.41:272][ 23]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.07.25-20.17.41:272][ 23]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.07.25-20.17.41:272][ 23]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.07.25-20.17.41:272][ 23]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.07.25-20.17.41:272][ 23]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.07.25-20.17.41:272][ 23]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.07.25-20.17.41:272][ 23]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.07.25-20.17.41:272][ 23]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.07.25-20.17.41:272][ 23]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.07.25-20.17.41:276][ 23]LogExit: Exiting.
+[2018.07.25-20.17.41:298][ 23]Log file closed, 07/25/18 15:17:41
