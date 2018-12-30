@@ -26,7 +26,7 @@ Node Nodes
 	// 0
 	Node_Speech 
 	{
-		Text "Oh Huey, do you need something?"
+		Text "Hi, do you need something?"
 		SpeakerState "None"
 		bIsVirtualParent True
 		OwnerName "Allebasi"
